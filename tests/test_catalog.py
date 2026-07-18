@@ -116,6 +116,15 @@ class CatalogTests(unittest.TestCase):
                 self.assertIn("ferroelectric", record)
                 self.assertNotEqual(record["evidence_level"], "not-evaluated")
 
+    def test_mc2d_collection_is_unlabelled_monolayer_parent_data(self):
+        for record in self.records:
+            self.assertEqual(record["collection"], "mc2d-2022.84-optimized-monolayers")
+            self.assertEqual(record["structure_type"], "monolayer")
+            self.assertEqual(record["phenomena"], [])
+            self.assertEqual(record["evidence_level"], "not-evaluated")
+            self.assertNotIn("intercalated", record["classes"])
+            self.assertNotIn("stacking-state", record["classes"])
+
     def test_derived_indexes_match_catalog(self):
         expected_id = {record["id"]: record["files"]["poscar"] for record in self.records}
         expected_formula = defaultdict(list)

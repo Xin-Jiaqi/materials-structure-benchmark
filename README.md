@@ -28,13 +28,15 @@ python scripts/query_catalog.py --id mst-mono-mc2d2022-000001 --json
 
 The canonical catalog is `catalog/materials.jsonl`. Derived lookup tables in `index/` cover ID, formula, element, structure type, class, phenomenon, evidence level, and quality flag. They are regenerated from the catalog and must not be edited by hand.
 
+The taxonomy describes labels that the repository can support in future collections; it does not assign those labels to the current MC2D collection. At release `0.1.0`, every record is a monolayer parent with `phenomena: []` and `evidence_level: not-evaluated`, so `index/by-phenomenon.json` is intentionally empty. A label enters an index only after it is explicitly assigned to a qualifying record.
+
 ## Validation
 
 ```bash
 python -m unittest discover -s tests -v
 ```
 
-Validation checks stable IDs, unique indexes, controlled tags, record-to-file links, SHA-256 checksums, public-release status, and the extra fields required for stacking, sliding-ferroelectric, and intercalated structures.
+Validation checks stable IDs, unique indexes, controlled tags, record-to-file links, SHA-256 checksums, public-release status, the absence of unsupported phenomenon claims in the monolayer collection, and the extra fields required for future stacking, sliding-ferroelectric, and intercalated structures.
 
 ## Data policy
 
