@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the exact repository release and each source collection used."
+title: "Materials Structure Benchmark"
+type: dataset
+authors:
+  - family-names: "Xin"
+    given-names: "Jiaqi"
+version: 0.1.0
+date-released: 2026-07-18
+license: CC-BY-4.0
+repository-code: "https://github.com/Xin-Jiaqi/materials-structure-benchmark"

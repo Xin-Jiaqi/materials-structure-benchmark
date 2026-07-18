@@ -1,0 +1,38 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         O1        4.797273689405301e-13         0.333331866337948   0.06991199514296993          O        
+         O2        0.666668133662052   0.9999999999995203  0.06991199514296993           O        
+         O3        0.33333186632205525           0.6666681336779448  0.06991199514296993          O        
+         Ca1       0.9999999999863709  0.6671855131451867  0.035566933362031025         Ca       
+         Ca2       0.3328144868548133  1.3629093588916086e-11        0.035566933362031025         Ca       
+         Ca3       0.6671855131279898  0.3328144868720102  0.035566933362031025         Ca       
+         Cl1       0.3333333333303671  0.33333333333036713           -0.12015862785262676         Cl       
+         Cl2       0.6666666666607342  0.6666666666607343  -0.12015862785262676         Cl       
+         O4        0.3333333333303671  0.33333333333036713           -0.03524517865561913         O        
+         O5        0.6666666666607342  0.6666666666607343  -0.03524517865561913         O        
+         O6        0.0       0.0       -0.005629172488186181         O 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       59.99999999947454
+_cell_length_a                          6.48804373605153
+_cell_length_b                          6.48804373605153
+_cell_length_c                          19.3707102827

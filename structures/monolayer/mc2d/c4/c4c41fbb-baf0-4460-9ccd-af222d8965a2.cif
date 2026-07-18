@@ -1,0 +1,41 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Na1       0.0       0.4949370278354053  0.6021880264953522  Na        
+         Ge1       0.0       0.21193315078586536           0.6035717512924391  Ge       
+         Ge2       0.0       0.6595418756748077  0.4934465090218884  Ge        
+         Ge3       0.5       0.9158782511025471  0.565858860267673   Ge        
+         P1        0.5       0.5166670034168134  0.5143668853136104  P         
+         P2        0.0       0.7720270445599585  0.5736495901961276  P         
+         P3        0.5       0.07544893067494597           0.6292152929190895  P        
+         Ge4       0.0       0.7119311188839662  0.39642791885148077           Ge       
+         Ge5       0.0       0.159542245773179   0.5065536334374845  Ge        
+         Ge6       0.5       0.41587711229023183           0.43414119137014195           Ge       
+         P4        0.5       0.01666792473051343           0.4856331524288828  P        
+         P5        0.0       0.27202616377995803           0.4263504824329783  P        
+         P6        0.5       0.5754470951695191  0.3707846261769769  P         
+         Na2       0.0       0.9949350553516698  0.3978120797996773  Na 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.6563109304
+_cell_length_b                          10.235927241
+_cell_length_c                          26.2966200191

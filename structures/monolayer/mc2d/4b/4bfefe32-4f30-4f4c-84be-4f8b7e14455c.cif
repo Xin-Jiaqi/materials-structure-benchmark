@@ -1,0 +1,40 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Mg1       0.6666666667403534  0.33333333337121585           0.5722697580174118 Mg       
+         Mg2       0.33333333334419485           0.666666666666622   0.644832921723889  Mg       
+         H1        0.6666666667403534  0.33333333337121585           0.7045202891725234 H        
+         O1        0.33333333334419485           0.666666666666622   0.536089054859403  O        
+         O2        0.0       0.0       0.6083491557012994  O         
+         O3        0.6666666667403534  0.33333333337121585           0.6761038478139125 O        
+         Mg3       0.33333333334419485           0.666666666666622   0.4277302419855281 Mg       
+         Mg4       0.0       0.0       0.5000000000014434  Mg        
+         Mg5       0.6666666667403534  0.33333333337121585           0.35516707827612887          Mg       
+         H2        0.33333333334419485           0.666666666666622   0.2954797108274266 H        
+         O4        0.6666666667403534  0.33333333337121585           0.46391094514055575          O        
+         O5        0.0       2.3762883974422156e-24        0.39165084429869185           O        
+         O6        0.33333333334419485           0.666666666666622   0.32389615218896245          O
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       120.00000000054901
+_cell_length_a                          3.04469754502273
+_cell_length_b                          3.04469754507181
+_cell_length_c                          33.8789900089012

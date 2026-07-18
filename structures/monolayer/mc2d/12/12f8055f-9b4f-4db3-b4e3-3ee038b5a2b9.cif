@@ -1,0 +1,38 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Al1       0.6666666666749727  0.33333333336268617           0.5677394635736018 Al       
+         H1        0.6666666666749727  0.33333333336268617           0.6271628344769267 H        
+         H2        0.33804179145073143           0.16902089571370751           0.5426062822365054 H        
+         H3        0.8309791042325877  0.6619582085285787  0.5426062822365054  H        
+         H4        0.8309791042785354  0.16902089575771942           0.5426062822365054 H        
+         Mg1       3.6288383868065476e-27        9.73415142841052e-27          0.4999999999999925 Mg       
+         Al2       0.33333333332794723           0.6666666666813366  0.4322605364264056 Al       
+         H5        0.33333333332794723           0.6666666666813366  0.3728371655230699 H        
+         H6        0.6619582085001554  0.8309791042642676  0.4573937177635058  H        
+         H7        0.16902089575127754           0.3380417915154353  0.4573937177635058 H        
+         H8        0.169020895713393   0.8309791042642759  0.4573937177635058  H
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       119.99999999928762
+_cell_length_a                          5.25659763891534
+_cell_length_b                          5.256597638828891
+_cell_length_c                          26.6849289764

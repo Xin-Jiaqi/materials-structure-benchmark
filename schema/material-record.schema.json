@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Xin-Jiaqi/materials-structure-benchmark/schema/material-record.schema.json",
+  "title": "Materials Structure Benchmark record",
+  "type": "object",
+  "required": [
+    "id",
+    "index",
+    "collection",
+    "structure_type",
+    "classes",
+    "phenomena",
+    "quality_flags",
+    "evidence_level",
+    "composition",
+    "properties",
+    "relationships",
+    "files",
+    "provenance",
+    "license",
+    "release_status"
+  ],
+  "properties": {
+    "id": {"type": "string", "pattern": "^mst-[a-z0-9-]+-[0-9]{6}$"},
+    "index": {"type": "integer", "minimum": 1},
+    "collection": {"type": "string", "minLength": 1},
+    "structure_type": {
+      "enum": ["monolayer", "bilayer", "trilayer", "few-layer", "heterostructure", "bulk"]
+    },
+    "classes": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "phenomena": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "quality_flags": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "evidence_level": {
+      "enum": ["not-evaluated", "candidate", "screened", "dft-verified", "experimental"]
+    },
+    "composition": {
+      "type": "object",
+      "required": ["formula", "elements", "number_of_atoms", "number_of_species"],
+      "properties": {
+        "formula": {"type": "string", "minLength": 1},
+        "elements": {"type": "array", "items": {"type": "string"}, "minItems": 1, "uniqueItems": true},
+        "number_of_atoms": {"type": "integer", "minimum": 1},
+        "number_of_species": {"type": "integer", "minimum": 1}
+      },
+      "additionalProperties": false
+    },
+    "properties": {"type": "object"},
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "target_id"],
+        "properties": {
+          "type": {"type": "string"},
+          "target_id": {"type": "string"},
+          "note": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "stacking": {
+      "type": "object",
+      "required": ["parent_ids", "relative_shift_fractional", "interlayer_distance_angstrom"],
+      "properties": {
+        "parent_ids": {"type": "array", "items": {"type": "string"}, "minItems": 2},
+        "relative_shift_fractional": {
+          "type": "array",
+          "items": {"type": "number"},
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "interlayer_distance_angstrom": {"type": "number", "exclusiveMinimum": 0},
+        "registry": {"type": ["string", "null"]},
+        "twist_angle_degree": {"type": "number"},
+        "generator": {"type": "object"}
+      },
+      "additionalProperties": false
+    },
+    "intercalation": {
+      "type": "object",
+      "required": ["host_id", "intercalant_species", "concentration"],
+      "properties": {
+        "host_id": {"type": "string"},
+        "intercalant_species": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+        "concentration": {"type": "string", "minLength": 1},
+        "site": {"type": ["string", "null"]},
+        "charge_state": {"type": ["string", "number", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "ferroelectric": {
+      "type": "object",
+      "required": ["mechanism", "state_label", "evidence"],
+      "properties": {
+        "mechanism": {"type": "string"},
+        "state_label": {"type": "string"},
+        "switching_path_id": {"type": ["string", "null"]},
+        "polarization": {"type": ["object", "null"]},
+        "energy_relative_mev": {"type": ["number", "null"]},
+        "barrier_mev": {"type": ["number", "null"]},
+        "evidence": {"type": "object"}
+      },
+      "additionalProperties": false
+    },
+    "files": {
+      "type": "object",
+      "required": ["cif", "cif_sha256", "poscar", "poscar_sha256"],
+      "properties": {
+        "cif": {"type": "string", "pattern": "^structures/.+\\.cif$"},
+        "cif_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "poscar": {"type": "string", "pattern": "^structures/.+\\.vasp$"},
+        "poscar_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      },
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source_name", "source_version", "source_id", "source_doi"],
+      "properties": {
+        "source_name": {"type": "string"},
+        "source_version": {"type": "string"},
+        "source_id": {"type": "string"},
+        "source_doi": {"type": "string"},
+        "source_archive_md5": {"type": "string", "pattern": "^[0-9a-f]{32}$"},
+        "metadata_status": {"type": "string"},
+        "transformation": {"type": "string"},
+        "transformation_status": {"type": "string"},
+        "converter": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "license": {"type": "string", "minLength": 1},
+    "release_status": {"enum": ["public", "internal", "embargoed"]}
+  },
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {"properties": {"classes": {"contains": {"const": "intercalated"}}}},
+      "then": {"required": ["intercalation"]}
+    },
+    {
+      "if": {
+        "properties": {
+          "structure_type": {
+            "enum": ["bilayer", "trilayer", "few-layer", "heterostructure"]
+          }
+        }
+      },
+      "then": {"required": ["stacking"]}
+    },
+    {
+      "if": {
+        "properties": {
+          "phenomena": {
+            "contains": {
+              "enum": ["sliding-ferroelectric", "intercalation-ferroelectric", "displacive-ferroelectric", "fractional-ferroelectric", "multistate-ferroelectric"]
+            }
+          }
+        }
+      },
+      "then": {"required": ["ferroelectric"]}
+    }
+  ]
+}

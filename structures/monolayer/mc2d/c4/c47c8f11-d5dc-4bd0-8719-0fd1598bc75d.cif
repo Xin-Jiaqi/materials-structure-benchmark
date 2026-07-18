@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         K1        0.49999999999230027           0.7480905422153417  0.3943454067653311 K        
+         K2        0.0       0.2519094577846751  0.3943454067653311  K         
+         Ga1       0.2500000000038529  0.0       0.5000000000020031  Ga        
+         As1       0.0       0.20557120533720497           0.5592369179178464  As       
+         As2       0.49999999999230027           0.20557120533720497           0.4407630820821337 As       
+         K3        0.49999999999230027           0.2519094577846751  0.6056545932346482 K        
+         K4        0.9999999999999908  0.7480905422153417  0.6056545932346482  K        
+         Na1       0.2500000000038529  0.5000000000075794  0.5000000000020031  Na       
+         Na2       0.7499999999961332  0.5000000000075794  0.5000000000020031  Na       
+         Ga2       0.7499999999961332  0.9999999999999926  0.5000000000020031  Ga       
+         As3       0.0       0.7944287946628253  0.4407630820821337  As        
+         As4       0.49999999999230027           0.7944287946628253  0.5592369179178464 As
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          6.51322479182654
+_cell_length_b                          6.6034659432759
+_cell_length_c                          25.1121115071002

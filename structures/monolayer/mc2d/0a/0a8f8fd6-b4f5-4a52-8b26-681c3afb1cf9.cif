@@ -1,0 +1,33 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Lu1       0.5       0.0       0.5414100545366929  Lu        
+         Lu2       0.0       0.5       0.4585899454556111  Lu        
+         I1        0.0       0.5       0.6152767550368385  I         
+         I2        0.5       0.0       0.3847232449631615  I         
+         O1        0.0       0.0       0.49999999999615197           O         
+         O2        0.5       0.5       0.49999999999615197           O 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.8810234864
+_cell_length_b                          3.8810234864
+_cell_length_c                          25.9872252558

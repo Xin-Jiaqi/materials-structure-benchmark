@@ -1,0 +1,38 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Ta1       0.5635048928992522  0.16095334522802826           0.49980680648679554          Ta       
+         Ta2       0.1609533393604544  0.563504881272072   0.499806860335388   Ta       
+         Ta3       0.1609480574977878  0.16094806477868187           0.49980934612023065          Ta       
+         S1        0.2951267702689599  0.29512669576655676           0.574114296930266  S        
+         Br1       0.4629414364650291  0.46294140567501    0.42618972336375266           Br       
+         Br2       0.9594069135313209  0.46300552500029063           0.42621934264945693          Br       
+         Br3       0.4630055807918087  0.9594068675241471  0.4262192173611902  Br       
+         Br4       0.7933824047486724  0.7933824716067207  0.5599419401679604  Br       
+         Br5       0.9618081483515187  0.9618081029119935  0.4402858670007766  Br       
+         Br6       0.793309615984977   0.29878647402511616           0.5599112936704055 Br       
+         Br7       0.2987863749734276  0.7933097010823214  0.5599113580360502  Br
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       59.99461577809049
+_cell_length_a                          7.144629829990097
+_cell_length_b                          7.144632990763514
+_cell_length_c                          23.5057118781002

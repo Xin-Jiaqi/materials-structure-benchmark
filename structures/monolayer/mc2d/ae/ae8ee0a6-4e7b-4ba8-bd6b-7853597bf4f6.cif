@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Hg1       0.4799731295747657  0.27992119259327064           0.5108119206234287 Hg       
+         Hg2       0.5200269682464161  0.4259593915794543  0.4891880801127734  Hg       
+         Hg3       0.17816560287048458           0.10852014673397575           0.5047538701020252 Hg       
+         Hg4       0.8218344508770911  0.597360362003777   0.4952461306903979  Hg       
+         O1        0.44202310449511045           0.16028726480431302           0.5342380940979582 O        
+         O2        0.5579768651171138  0.5455932073672021  0.46576191822490814           O        
+         Hg5       0.979973343703105   0.9259593331709763  0.4891880693059713  Hg       
+         Hg6       0.6781656117177702  0.09736040878865604           0.49524614118861926          Hg       
+         O3        0.9420226666756107  0.04559317093749877           0.465761869112859  O        
+         Hg7       0.02002660369345515           0.7799211667661292  0.5108119163325633 Hg       
+         Hg8       0.3218344170645495  0.6085201111073625  0.5047538674788784  Hg       
+         O4        0.05797723590459682           0.6602872444120118  0.5342381227156429 O
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       89.99999975418154
+_cell_length_a                          6.68426076823213
+_cell_length_b                          17.4280432523645
+_cell_length_c                          21.4582349664

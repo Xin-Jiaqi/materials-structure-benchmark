@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "structure_type": {
+    "monolayer": "One isolated periodic layer with out-of-plane vacuum.",
+    "bilayer": "Two layers in one periodic simulation cell.",
+    "trilayer": "Three layers in one periodic simulation cell.",
+    "few-layer": "Four or more explicitly resolved layers, short of a bulk repeat.",
+    "heterostructure": "A stack containing compositionally distinct layers.",
+    "bulk": "A three-dimensionally periodic crystal."
+  },
+  "classes": {
+    "pristine": "No intentional substitution, vacancy, intercalation, or adsorbate.",
+    "optimized": "Geometry was relaxed by a documented computational method.",
+    "homobilayer": "Both layers derive from the same parent monolayer.",
+    "heterobilayer": "The two layers derive from different parent monolayers.",
+    "stacking-state": "One member of a registered stacking family.",
+    "switching-path-member": "One image or endpoint in a switching path.",
+    "intercalated": "Atoms or molecules are inserted between host layers or sites.",
+    "substituted": "One or more sites are intentionally substituted.",
+    "vacancy": "One or more sites are intentionally removed.",
+    "adsorbed": "Atoms or molecules are adsorbed on a surface.",
+    "doped": "Charge or compositional doping is intentionally represented.",
+    "strained": "A documented strain is applied relative to a parent structure.",
+    "reconstructed": "The structure is a documented reconstruction of a parent.",
+    "experimental": "Geometry is derived directly from an experimental structure.",
+    "computed": "Geometry is generated or relaxed computationally."
+  },
+  "phenomena": {
+    "polar": "A polar structure or state under the stated convention.",
+    "nonpolar": "A nonpolar structure or state under the stated convention.",
+    "sliding-ferroelectric": "Ferroelectric states connected primarily by relative layer sliding.",
+    "intercalation-ferroelectric": "Ferroelectric behavior controlled by an intercalant configuration.",
+    "displacive-ferroelectric": "Ferroelectric states connected primarily by atomic displacements.",
+    "fractional-ferroelectric": "A fractional-quantized ferroelectric mechanism under a documented theory.",
+    "multistate-ferroelectric": "More than two symmetry-distinct polar states are documented.",
+    "antiferroelectric": "Opposing local polar order with a documented switching definition.",
+    "piezoelectric": "A verified piezoelectric response is attached.",
+    "topological": "A verified topological material label is attached."
+  },
+  "evidence_level": {
+    "not-evaluated": "No claim is made for the requested phenomenon.",
+    "candidate": "A rule-based or generated candidate without complete screening.",
+    "screened": "Passed a documented computational screening workflow.",
+    "dft-verified": "The claim is supported by documented first-principles calculations.",
+    "experimental": "The claim is supported by a cited experiment."
+  },
+  "quality_flags": {
+    "source-metadata-cell-multiplicity-differs": "The archive metadata atom count and canonical CIF use different cell multiplicities while retaining the same reduced composition.",
+    "source-metadata-composition-mismatch": "The canonical CIF composition differs from the archive metadata row; metadata-derived scientific properties are omitted."
+  },
+  "relationship_type": {
+    "derived-from": "The record is derived from another structure.",
+    "parent-monolayer": "A monolayer used to build a stack.",
+    "stacking-partner": "The other layer in a heterostructure.",
+    "host": "The host structure for an intercalated record.",
+    "switching-pair": "A state connected through a documented switching process.",
+    "path-member": "A neighboring or parent switching-path record."
+  }
+}

@@ -1,0 +1,38 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Ta1       0.8701183774432183  0.1298816225483538  0.49983021075468126           Ta       
+         Ta2       0.8701183774402351  0.7402367549032906  0.49983021075468126           Ta       
+         Ta3       0.25976324511655496           0.12988162254835953           0.49983021075468126          Ta       
+         Se1       3.2344385586289573e-28        8.871123394339911e-29         0.5794849535593892 Se       
+         I1        0.6666666666685053  0.33333333332829207           0.4392644182367341 I        
+         I2        0.16805132193107164           0.8319486780357803  0.4202701707517637 I        
+         I3        0.16805132194686886           0.33610264389814404           0.4202701707517637 I        
+         I4        0.6638973560938018  0.8319486780357843  0.4202701707517637  I        
+         I5        0.49766550811317006           0.5023344918476272  0.5642126159816347 I        
+         I6        0.49766550811555177           0.9953310162441598  0.5642126159816347 I        
+         I7        0.0046689837223297765         0.5023344918627739  0.5642126159816347 I
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       119.99999999923538
+_cell_length_a                          7.6252746832035
+_cell_length_b                          7.625274683279876
+_cell_length_c                          23.7493895683998

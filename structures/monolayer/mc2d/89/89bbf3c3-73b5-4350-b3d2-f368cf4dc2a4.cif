@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Na1       0.8829403463983122  0.6233967602181048  0.07143267081920437           Na       
+         Gd1       0.30844266656626534           0.8229182408264779  0.01777497342154214          Gd       
+         Cl1       0.15350683889195027           0.7748400625322842  0.10128664538866326          Cl       
+         Cl2       0.038131876980185275          0.2206670624235748  0.019846641982834406         Cl       
+         Cl3       0.588315050990692   0.4787458746619726  0.05507730619446539           Cl       
+         Cl4       0.559091689630089   0.9926478582590752  0.060331851092709644         Cl       
+         Na2       0.1170596536016877  0.3766032397818956  -0.07143267081920437         Na       
+         Gd2       0.6915573334337346  0.1770817591735221  -0.01777497342154214         Gd       
+         Cl5       0.8464931611080496  0.225159937467716   -0.10128664538866326         Cl       
+         Cl6       0.9618681230198146  0.7793329375764253  -0.019846641982834406        Cl       
+         Cl7       0.4116849490093079  0.5212541253380278  -0.05507730619446539         Cl       
+         Cl8       0.44090831038369355           0.007352141739963569          -0.060331851092709644        Cl
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       71.13232741787465
+_cell_length_a                          7.396544917353008
+_cell_length_b                          6.887548818462906
+_cell_length_c                          27.1643526631

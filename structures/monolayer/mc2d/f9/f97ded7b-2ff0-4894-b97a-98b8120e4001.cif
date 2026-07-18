@@ -1,0 +1,40 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Rb1       0.49999999999999994           0.2769268791576406  0.00047522100206662005       Rb       
+         Hg1       0.0       0.6413882101313407  -0.026252890955506734         Hg       
+         Hg2       0.0       0.9394071322185795  -0.11745918736390333          Hg       
+         Cl1       0.0       0.7737247575772105  -0.16252086735430507          Cl       
+         Cl2       0.0       0.12496666814579376           -0.08163559711016581         Cl       
+         Cl3       0.49999999999999994           0.8070346919883884  -0.04412343679037093         Cl       
+         Cl4       0.0       0.445469363258806   -0.06609454072976942          Cl       
+         Hg3       0.0       0.5146166082506433  0.11462219128298448           Hg       
+         Cl5       0.0       0.700559562676071   0.14914977360104173           Cl       
+         Cl6       0.0       0.3094034722418881  0.09438965693659927           Cl       
+         Cl7       0.49999999999999994           0.5765586140419591  0.03758571057529405          Cl       
+         Cl8       0.0       0.9904802222304177  0.054714921071455466          Cl       
+         O1        0.49999999999999994           0.03724154398507462           0.04714904584434359          O
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.6658480428
+_cell_length_b                          10.9304671515
+_cell_length_c                          30.7253806892

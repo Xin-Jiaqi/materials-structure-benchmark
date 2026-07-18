@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Na1       0.4998780620788123  0.6655532393592121  -3.095937388047458e-33       Na       
+         Na2       0.1655532393650688  0.00012193792703985018        0.0       Na       
+         Na3       0.5001219379328917  0.3344467606407834  -3.095937388047458e-33       Na       
+         Na4       0.8344467606349312  0.9998780620729604  0.0       Na        
+         Cu1       0.847374519215454   0.6527453562276242  6.191874776094924e-33        Cu       
+         Cu2       0.15274535622177565           0.6526254807786926  0.0       Cu       
+         Cu3       0.15262548078454585           0.34725464377237236           6.191874776094924e-33        Cu       
+         Cu4       0.8472546437782243  0.34737451922130747           0.0       Cu       
+         O1        0.6984894487732882  0.500129164692622   6.191874776094924e-33        O        
+         O2        0.00012916468676801103        0.8015105512208529  0.0       O        
+         O3        0.3015105512267106  0.4998708353073793  6.191874776094924e-33        O        
+         O4        0.9998708353015273  0.19848944877914154           0.0       O
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          8.54398675565784
+_cell_length_b                          8.54398675565784
+_cell_length_c                          12.0

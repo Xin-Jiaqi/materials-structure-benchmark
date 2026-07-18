@@ -1,0 +1,43 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         O1        0.0       0.1629971232193782  0.3830945704214639  O         
+         Li1       0.7500000000105459  0.0       0.4994693520770727  Li        
+         Li2       0.7500000000105459  0.49999999998122424           0.5005306479267441 Li       
+         Li3       0.2500000000105459  0.0       0.4994693520770727  Li        
+         Bi1       0.5       0.23903459273619515           0.38751516892838855           Bi       
+         Bi2       0.0       0.2609654072638048  0.6124848310716113  Bi        
+         Bi3       0.5       0.7390345927174194  0.6124848310716113  Bi        
+         Bi4       0.0       0.760965407245029   0.38751516892838855           Bi       
+         O2        0.5       0.2545219243024348  0.46633582799589274           O        
+         O3        0.0       0.24547807569756516           0.5336641720041072  O        
+         O4        0.5       0.754521924283659   0.5336641720041072  O         
+         O5        0.0       0.7454780756787894  0.46633582799589274           O        
+         O6        0.5       0.8370028767993976  0.3830945704176471  O         
+         O7        0.0       0.6629971232006024  0.616905429582353   O         
+         Li4       0.2500000000105459  0.49999999998122424           0.5005306479229273 Li       
+         O8        0.5       0.3370028768181732  0.616905429582353   O 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          4.7411752058
+_cell_length_b                          5.3260297584
+_cell_length_c                          26.2000174679

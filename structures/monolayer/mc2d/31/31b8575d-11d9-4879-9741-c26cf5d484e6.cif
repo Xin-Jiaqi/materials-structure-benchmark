@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Tl1       0.3333333333488005  0.6666666666810095  0.5797405652675849  Tl       
+         Tl2       0.6666666666904154  0.3333333333476885  0.4202594347324194  Tl       
+         Te1       0.16922818099136194           0.33845636197428497           0.4426288918240455 Te       
+         Te2       0.6615436380494366  0.8307718190272049  0.4426288918240455  Te       
+         Te3       0.16922818098599118           0.8307718190271997  0.4426288918240455 Te       
+         Te4       0.8307718190354257  0.661543638054413   0.5573711081802053  Te       
+         Te5       0.3384563619825916  0.1692281809871468  0.5573711081802053  Te       
+         Te6       0.8307718190211792  0.16922818098714634           0.5573711081802053 Te       
+         Pt1       0.0       0.0       0.5000000000042402  Pt        
+         Pt2       1.6589009630422904e-16        0.49999999999999784           0.5000000000042402 Pt       
+         Pt3       0.49999999998039985           0.4999999999856469  0.5000000000042402 Pt       
+         Pt4       0.4999999999875695  0.9999999999999998  0.5000000000042402  Pt
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       120.00000000080652
+_cell_length_a                          8.03102571661009
+_cell_length_b                          8.031025716614689
+_cell_length_c                          23.5725725636003

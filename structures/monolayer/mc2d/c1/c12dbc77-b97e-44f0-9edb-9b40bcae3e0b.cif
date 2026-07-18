@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Ge1       0.0       0.42100591432743395           0.558380252572844   Ge       
+         Ge2       0.0       0.9210059143180586  0.44161974742715226           Ge       
+         Ge3       0.4999999999734377  0.20635289129516812           0.48552729367487063          Ge       
+         Ge4       0.4999999999734377  0.7063528912951813  0.514472706325156   Ge       
+         As1       0.4999999999734377  0.05490420316072896           0.4135255672381494 As       
+         As2       0.4999999999734377  0.5549042031606829  0.5864744327618924  As       
+         As3       0.4999999999734377  0.11231642632392876           0.5742971275163038 As       
+         As4       0.4999999999734377  0.6123164263239995  0.4257028724875091  As       
+         As5       0.0       0.3523648848838204  0.46882465809619167           As       
+         As6       0.0       0.8523648848743877  0.5311753419038084  As        
+         As7       0.0       0.23336498137176864           0.6149910484091619  As       
+         As8       0.0       0.7333649813528399  0.3850089515908231  As 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.76040649801675
+_cell_length_b                          10.6065930684112
+_cell_length_c                          26.3321476773

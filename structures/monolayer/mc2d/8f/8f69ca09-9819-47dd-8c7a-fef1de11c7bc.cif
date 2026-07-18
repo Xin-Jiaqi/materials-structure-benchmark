@@ -1,0 +1,43 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Br1       0.0       0.2500000000073413  0.6670257321910138  Br        
+         Ag1       0.0       0.41409825301553327           0.6020805567444979  Ag       
+         Ag2       0.0       0.5859017469942516  0.39791944325550205           Ag       
+         Ag3       0.0       0.0859017469795695  0.6020805567444979  Ag        
+         Ag4       0.0       0.9140982530204261  0.39791944325550205           Ag       
+         Hg1       0.4999999999777001  0.5000000000048929  0.5       Hg        
+         Hg2       0.4999999999777001  0.0       0.5       Hg        
+         Hg3       0.4999999999777001  0.2500000000073413  0.42233737377880265           Hg       
+         Hg4       0.4999999999777001  0.7500000000122333  0.5776626262145516  Hg       
+         S1        0.4999999999777001  0.48385474576853915           0.420151783513938  S        
+         S2        0.4999999999777001  0.516145254231456   0.579848216486062   S        
+         S3        0.4999999999777001  0.016145254236347828          0.420151783513938  S        
+         S4        0.4999999999777001  0.9838547457734363  0.579848216486062   S        
+         Br2       0.0       0.2500000000073413  0.5081071472244467  Br        
+         Br3       0.0       0.7500000000122333  0.4918928527722304  Br        
+         Br4       0.0       0.7500000000122333  0.33297426780898626           Br
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          4.48433513670812
+_cell_length_b                          10.2147793360178
+_cell_length_c                          30.094554579

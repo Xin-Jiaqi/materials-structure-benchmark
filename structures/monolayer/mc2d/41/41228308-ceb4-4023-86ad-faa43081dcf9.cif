@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Sn1       0.49999999998697214           0.9395976312924192  0.6214334462145714 Sn       
+         S1        0.49999999998697214           0.6840150656303746  0.5723806056131547 S        
+         S2        0.49999999998697214           0.19512876339448382           0.5723654565273124 S        
+         Tl1       0.0       0.9386206089875316  0.3718451584524577  Tl        
+         Tl2       0.0       0.4397008913622605  0.6281008377015042  Tl        
+         Tl3       0.0       0.9398227661700843  0.512018735647043   Tl        
+         Tl4       0.0       0.43962580087484204           0.4879702718683249  Tl       
+         S3        0.0       0.9397507366014709  0.6733741964983834  S         
+         S4        0.0       0.4378183248547602  0.32665583160242345           S        
+         Sn2       0.49999999998697214           0.43822604560311834           0.3785971989194188 Sn       
+         S5        0.49999999998697214           0.6940468821940317  0.42758237318657344          S        
+         S6        0.49999999998697214           0.1826900957178719  0.42767588777216897          S
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.8379358763
+_cell_length_b                          7.4298279207
+_cell_length_c                          29.9721319637

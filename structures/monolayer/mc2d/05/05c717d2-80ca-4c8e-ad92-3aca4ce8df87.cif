@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         K1        0.3333333333406112  0.6666666666812224  0.5827696327681811  K        
+         Fe1       0.3333333333406112  0.6666666666812224  0.44895329647994403           Fe       
+         P1        0.0       0.0       0.4263787964827669  P         
+         P2        0.6666666666703056  0.3333333333406112  0.5131105042864859  P        
+         H1        0.0       0.0       0.48351417959660503           H         
+         H2        0.6666666666703056  0.3333333333406112  0.5725291701006511  H        
+         O1        0.6774373211890254  0.8387186606008752  0.4068364700518564  O        
+         O2        0.1612813394118497  0.8387186606008752  0.4068364700518564  O        
+         O3        0.16128133942095838           0.32256267884191675           0.4068364700518564 O        
+         O4        0.5029327212114704  0.005865442422940824          0.5012034948351421 O        
+         O5        0.9941345575771077  0.4970672787885296  0.5012034948351421  O        
+         O6        0.5029327212303305  0.4970672787885296  0.5012034948351421  O
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       120.00000000015186
+_cell_length_a                          5.2886121734
+_cell_length_b                          5.288612173375723
+_cell_length_c                          24.6713431026

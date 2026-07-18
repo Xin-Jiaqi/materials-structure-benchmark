@@ -1,0 +1,37 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Na1       0.49999999999131833           0.9999999999881406  -0.09229976143279424         Na       
+         Mg1       0.16666666666956054           0.3333333333372865  3.823960832284776e-06        Mg       
+         Cl1       0.8795291691312596  3.685806844264962e-05         -0.06334205804127561         Cl       
+         Cl2       0.49996314193597235           0.37949231107064557           -0.06334205804127561         Cl       
+         Cl3       0.12050768894144975           0.6204708308577341  -0.06334205804127561         Cl       
+         Na2       0.49999999999131833           0.9999999999881406  0.09229976143279424          Na       
+         Mg2       0.8333333333304395  0.6666666666627135  -3.823960832284776e-06       Mg       
+         Cl4       0.8794923110585502  0.37952916912722895           0.06334205804127561          Cl       
+         Cl5       0.12047083086874048           0.9999631419315573  0.06334205804127561          Cl       
+         Cl6       0.5000368580466643  0.6205076889206729  0.06334205804127561           Cl
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       119.99999999964024
+_cell_length_a                          6.650244938672326
+_cell_length_b                          6.6502449387
+_cell_length_c                          22.9413176148

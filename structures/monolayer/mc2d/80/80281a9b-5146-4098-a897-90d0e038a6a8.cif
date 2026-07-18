@@ -1,0 +1,38 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Cu1       0.7575225992637127  0.03801375409583671           0.47937476552354935          Cu       
+         Cu2       0.7575404777769971  0.46232385131349835           0.4793796073400576 Cu       
+         As1       0.3563681181782299  0.9325009417678419  0.58020468112722    As       
+         As2       0.3563816261816514  0.5678920583511593  0.5802148547227693  As       
+         As3       0.251854930518766   0.7501360705987454  0.4409140321514608  As       
+         As4       0.016102672721554023          0.7501953889419568  0.5809903395364882 As       
+         S1        0.9212460660604296  0.7501714513278274  0.4880912964086341  S        
+         S2        0.3954313453312663  0.0010301093738738344         0.48838223292273936          S        
+         S3        0.3954410691946157  0.49927569843615194           0.48839747202118716          S        
+         Cl1       0.8143403456349811  0.25014941056980694           0.5572126259469018 Cl       
+         Cl2       0.8403775607509182  0.2501722678638882  0.40868751539065346           Cl
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       89.99885065320244
+_cell_length_a                          6.306035325874688
+_cell_length_b                          6.891574074692532
+_cell_length_c                          24.0921076832

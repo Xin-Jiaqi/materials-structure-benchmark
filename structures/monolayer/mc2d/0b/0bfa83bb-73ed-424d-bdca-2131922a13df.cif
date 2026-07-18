@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Sc1       0.4999999999999974  0.4217065790838061  0.5356577029444674  Sc       
+         Sc2       0.4999999999999974  0.9229443588166664  0.5368028175167475  Sc       
+         I1        0.4999999999999974  0.42301115523431787           0.3911817444829614 I        
+         I2        0.4999999999999974  0.6688005113226858  0.6224690744080497  I        
+         O1        0.4999999999999974  0.1685837885023344  0.49618001953366453           O        
+         O2        0.4999999999999974  0.6763448679680243  0.49609461368670593           O        
+         Sc3       0.0       0.17308944643062424           0.4643424144025145  Sc       
+         Sc4       0.0       0.6718516555911584  0.46319731802295305           Sc       
+         I3        0.0       0.17178280810858582           0.6088179031233603  I        
+         I4        0.0       0.925994679039016   0.37753084813249865           I        
+         O3        0.0       0.4262127015982038  0.5038200473613417  O         
+         O4        0.0       0.9184509273687211  0.5039054963847474  O 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.88525604448908
+_cell_length_b                          7.25489714948181
+_cell_length_c                          26.4307666979003

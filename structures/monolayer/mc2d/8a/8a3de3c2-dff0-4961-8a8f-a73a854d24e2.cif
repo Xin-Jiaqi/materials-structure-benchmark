@@ -1,0 +1,37 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         S1        0.36754954707522275           0.569685773404127   0.10206884939317994          S        
+         S2        0.4751582800838286  0.05039680713107466           0.08984794820811318          S        
+         Sc1       0.5160399039860895  0.32625938761941153           -8.471591987047657e-06       Sc       
+         S3        0.75950381895426    0.17769918319145142           -0.10206836658558559         S        
+         S4        0.08274162982595575           0.8929444408293848  1.3455722913860163e-05       S        
+         S5        0.2401246964457802  0.2853913198689659  -0.08985054532950183         S        
+         P1        0.39009471321516886           0.8127229905320471  0.04249629359159607          P        
+         S6        0.5686394098802738  0.6869942588356083  -0.04058105278818025         S        
+         S7        0.8767392308448082  0.37886126753700844           0.04057441354873601          S        
+         P2        0.002501921452636665          0.20028505613440933           -0.0424925241692786          P
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       76.75615944481639
+_cell_length_a                          6.6230957216476565
+_cell_length_b                          6.622669895957798
+_cell_length_c                          19.5202505095001

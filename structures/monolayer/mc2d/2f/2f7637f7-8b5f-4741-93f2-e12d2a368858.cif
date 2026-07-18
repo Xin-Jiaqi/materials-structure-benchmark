@@ -1,0 +1,38 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Cd1       0.4961565186821841  0.3464843187659005  2.672915511749517e-07        Cd       
+         P1        0.8294852269306888  0.6798306446280177  -0.059865769946549886        P        
+         P2        0.8295024202937891  0.6798133994264521  0.05986600065468053           P        
+         S1        0.7861787636521158  0.40122671074300786           -0.09322081705357017         S        
+         S2        0.550897970367133   0.6365074893787918  0.0932209789342955  S        
+         S3        0.1513926230072208  0.6365512580015469  -0.09319206097611304         S        
+         S4        0.7862234580566437  0.0017204745045829029         0.09319243147755324          S        
+         S5        0.15137302097622085           0.40116516729076396           0.09322445006663903          S        
+         Ag1       0.16288874100603448           0.013046987189710963          0.07821942739724584          Ag       
+         S6        0.5508371540693637  0.0017014752915960728         -0.09322414186263789         S        
+         Ag2       0.16271863032020228           0.013216942161250316          -0.07822076598309431         Ag
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       60.001865588701435
+_cell_length_a                          6.450527470841839
+_cell_length_b                          6.45052911618662
+_cell_length_c                          19.2190885848

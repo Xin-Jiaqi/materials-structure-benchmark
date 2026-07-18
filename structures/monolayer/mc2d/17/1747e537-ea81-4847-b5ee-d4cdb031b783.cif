@@ -1,0 +1,41 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Rb1       0.0       0.0       0.5       Rb        
+         Rb2       0.3333333333367335  0.6666666666573771  0.33918352412387587           Rb       
+         Mo1       0.3333333333367335  0.6666666666573771  0.4624772375006785  Mo       
+         Mo2       0.3333333333367335  0.6666666666573771  0.5375227624993215  Mo       
+         Br1       0.006898230412290429          0.5034491151937879  0.5       Br       
+         Br2       0.49655088481738774           0.9931017695984898  0.5       Br       
+         Br3       0.180912169993677   0.8190878299704895  0.5858890376287917  Br       
+         Br4       0.638175659966928   0.8190878299704895  0.5858890376287917  Br       
+         Br5       0.18091216999945856           0.36182434000328345           0.5858890376287917 Br       
+         Br6       0.638175659966928   0.8190878299704895  0.41411096237120837           Br       
+         Br7       0.18091216999945856           0.36182434000328345           0.41411096237120837          Br       
+         Br8       0.180912169993677   0.8190878299704895  0.41411096237120837           Br       
+         Rb3       0.3333333333367335  0.6666666666573771  0.6608164758761242  Rb       
+         Br9       0.4965508848065243  0.5034491152077223  0.5       Br 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       119.99999999923519
+_cell_length_a                          8.2867246209
+_cell_length_b                          8.286724620991592
+_cell_length_c                          31.0142607816

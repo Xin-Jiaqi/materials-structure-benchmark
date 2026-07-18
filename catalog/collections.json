@@ -1,0 +1,15 @@
+{
+  "collections": [
+    {
+      "id": "mc2d-2022.84-optimized-monolayers",
+      "license": "CC-BY-4.0",
+      "record_count": 2742,
+      "source_archive_md5": "9b234721c75b9c4114c4d8d4aa1a948d",
+      "source_doi": "10.24435/materialscloud:36-nd",
+      "source_url": "https://archive.materialscloud.org/record/2022.84",
+      "title": "MC2D 2022.84 optimized monolayers",
+      "transformation_status": "canonical CIF and validated POSCAR conversion"
+    }
+  ],
+  "schema_version": 1
+}

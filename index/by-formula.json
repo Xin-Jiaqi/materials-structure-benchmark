@@ -1,0 +1,7896 @@
+{
+  "Ag2Bi2S3Cl2": [
+    "mst-mono-mc2d2022-000566"
+  ],
+  "Ag2C10N2S2O6H8": [
+    "mst-mono-mc2d2022-000852"
+  ],
+  "Ag2C12N6O6H8": [
+    "mst-mono-mc2d2022-000133"
+  ],
+  "Ag2C2O4": [
+    "mst-mono-mc2d2022-001804"
+  ],
+  "Ag2C4Sb2N4Cl4F12": [
+    "mst-mono-mc2d2022-001076"
+  ],
+  "Ag2C6N4S2H12": [
+    "mst-mono-mc2d2022-000859"
+  ],
+  "Ag2C6N8O10": [
+    "mst-mono-mc2d2022-002075"
+  ],
+  "Ag2C8N6": [
+    "mst-mono-mc2d2022-000644"
+  ],
+  "Ag2C8O4Br4": [
+    "mst-mono-mc2d2022-001322"
+  ],
+  "Ag2CdC8N16H12": [
+    "mst-mono-mc2d2022-000161"
+  ],
+  "Ag2CdP2S6": [
+    "mst-mono-mc2d2022-000528"
+  ],
+  "Ag2N2O4": [
+    "mst-mono-mc2d2022-001475"
+  ],
+  "Ag2N4O10": [
+    "mst-mono-mc2d2022-002461"
+  ],
+  "Ag2O4F2": [
+    "mst-mono-mc2d2022-000278"
+  ],
+  "Ag2P30": [
+    "mst-mono-mc2d2022-001530"
+  ],
+  "Ag3Bi2Te4": [
+    "mst-mono-mc2d2022-002229"
+  ],
+  "AgAsSe3F6": [
+    "mst-mono-mc2d2022-002741"
+  ],
+  "AgAuCl4": [
+    "mst-mono-mc2d2022-000491"
+  ],
+  "AgAuTe4": [
+    "mst-mono-mc2d2022-000003"
+  ],
+  "AgBF4": [
+    "mst-mono-mc2d2022-002648"
+  ],
+  "AgBi2F12": [
+    "mst-mono-mc2d2022-001717"
+  ],
+  "AgBiP2S6": [
+    "mst-mono-mc2d2022-002723"
+  ],
+  "AgBiP2Se6": [
+    "mst-mono-mc2d2022-001308"
+  ],
+  "AgBiSCl2": [
+    "mst-mono-mc2d2022-000520"
+  ],
+  "AgBr": [
+    "mst-mono-mc2d2022-000422"
+  ],
+  "AgC2N2S2H2Cl": [
+    "mst-mono-mc2d2022-002358"
+  ],
+  "AgC2S2O6F6": [
+    "mst-mono-mc2d2022-000385"
+  ],
+  "AgC2SbN2H2F6": [
+    "mst-mono-mc2d2022-000724"
+  ],
+  "AgC3N4O2H3": [
+    "mst-mono-mc2d2022-002187"
+  ],
+  "AgC4N4S8": [
+    "mst-mono-mc2d2022-001003"
+  ],
+  "AgC6N4O2": [
+    "mst-mono-mc2d2022-000544",
+    "mst-mono-mc2d2022-001506"
+  ],
+  "AgC6N5H4": [
+    "mst-mono-mc2d2022-001180"
+  ],
+  "AgC7N4H4": [
+    "mst-mono-mc2d2022-001635"
+  ],
+  "AgC8N4H6": [
+    "mst-mono-mc2d2022-001842"
+  ],
+  "AgCN2H3": [
+    "mst-mono-mc2d2022-000559"
+  ],
+  "AgCN3O2": [
+    "mst-mono-mc2d2022-002007"
+  ],
+  "AgCN4H4": [
+    "mst-mono-mc2d2022-002543"
+  ],
+  "AgCNO": [
+    "mst-mono-mc2d2022-000676",
+    "mst-mono-mc2d2022-001262"
+  ],
+  "AgCO2": [
+    "mst-mono-mc2d2022-000097"
+  ],
+  "AgCS2O6F3": [
+    "mst-mono-mc2d2022-002157"
+  ],
+  "AgCSO3F3": [
+    "mst-mono-mc2d2022-000488"
+  ],
+  "AgErP2Se6": [
+    "mst-mono-mc2d2022-001383"
+  ],
+  "AgF2": [
+    "mst-mono-mc2d2022-002188"
+  ],
+  "AgF4Xe2": [
+    "mst-mono-mc2d2022-000107",
+    "mst-mono-mc2d2022-002411",
+    "mst-mono-mc2d2022-002667"
+  ],
+  "AgGaP2Se6": [
+    "mst-mono-mc2d2022-002267"
+  ],
+  "AgHgSBr": [
+    "mst-mono-mc2d2022-001563"
+  ],
+  "AgHgSI": [
+    "mst-mono-mc2d2022-001207"
+  ],
+  "AgI": [
+    "mst-mono-mc2d2022-000092"
+  ],
+  "AgInP2S6": [
+    "mst-mono-mc2d2022-000179"
+  ],
+  "AgInP2Se6": [
+    "mst-mono-mc2d2022-000469"
+  ],
+  "AgN3": [
+    "mst-mono-mc2d2022-000383"
+  ],
+  "AgNH3Br": [
+    "mst-mono-mc2d2022-001598"
+  ],
+  "AgNO2": [
+    "mst-mono-mc2d2022-000597"
+  ],
+  "AgNO3": [
+    "mst-mono-mc2d2022-000390",
+    "mst-mono-mc2d2022-002589"
+  ],
+  "AgNTeO5": [
+    "mst-mono-mc2d2022-002676"
+  ],
+  "AgO2Br": [
+    "mst-mono-mc2d2022-000725"
+  ],
+  "AgO2Cl": [
+    "mst-mono-mc2d2022-000125",
+    "mst-mono-mc2d2022-000600",
+    "mst-mono-mc2d2022-000939",
+    "mst-mono-mc2d2022-002718"
+  ],
+  "AgO3I": [
+    "mst-mono-mc2d2022-000561",
+    "mst-mono-mc2d2022-002465"
+  ],
+  "AgO4Cl": [
+    "mst-mono-mc2d2022-002488"
+  ],
+  "AgPb4O4Cl": [
+    "mst-mono-mc2d2022-001961"
+  ],
+  "AgSb2F12": [
+    "mst-mono-mc2d2022-000223"
+  ],
+  "AgTe": [
+    "mst-mono-mc2d2022-001871",
+    "mst-mono-mc2d2022-002084"
+  ],
+  "AgTe2": [
+    "mst-mono-mc2d2022-002475"
+  ],
+  "AgTl": [
+    "mst-mono-mc2d2022-002510"
+  ],
+  "AgTl3Te2": [
+    "mst-mono-mc2d2022-000991"
+  ],
+  "AgTlC2N2": [
+    "mst-mono-mc2d2022-000294"
+  ],
+  "AgTlTeO3": [
+    "mst-mono-mc2d2022-001652"
+  ],
+  "AgTmP2Se6": [
+    "mst-mono-mc2d2022-002689"
+  ],
+  "Al2O4H2": [
+    "mst-mono-mc2d2022-001536"
+  ],
+  "Al2P3S9": [
+    "mst-mono-mc2d2022-001995"
+  ],
+  "Al2Sb4Te4BrCl8": [
+    "mst-mono-mc2d2022-000514"
+  ],
+  "Al2Si2CNO10": [
+    "mst-mono-mc2d2022-001079"
+  ],
+  "Al2Si2O11": [
+    "mst-mono-mc2d2022-001303"
+  ],
+  "Al2Si2O9": [
+    "mst-mono-mc2d2022-001190"
+  ],
+  "Al2Si2O9H4": [
+    "mst-mono-mc2d2022-000764",
+    "mst-mono-mc2d2022-002071"
+  ],
+  "Al2Si4O11": [
+    "mst-mono-mc2d2022-000484"
+  ],
+  "Al2Si4O12": [
+    "mst-mono-mc2d2022-001897"
+  ],
+  "Al2Si4O12H": [
+    "mst-mono-mc2d2022-001755"
+  ],
+  "Al2Te3": [
+    "mst-mono-mc2d2022-001382"
+  ],
+  "Al2Tl2F8": [
+    "mst-mono-mc2d2022-001559"
+  ],
+  "Al4O12": [
+    "mst-mono-mc2d2022-001142"
+  ],
+  "Al4Si4O18": [
+    "mst-mono-mc2d2022-001035"
+  ],
+  "AlBi2Se2BrCl4": [
+    "mst-mono-mc2d2022-001901"
+  ],
+  "AlBi2Te2BrCl4": [
+    "mst-mono-mc2d2022-001247"
+  ],
+  "AlBiCl6": [
+    "mst-mono-mc2d2022-002720"
+  ],
+  "AlCl3": [
+    "mst-mono-mc2d2022-002486"
+  ],
+  "AlO3H3": [
+    "mst-mono-mc2d2022-001768"
+  ],
+  "AlOCl": [
+    "mst-mono-mc2d2022-002575"
+  ],
+  "AlPbO2H2F3": [
+    "mst-mono-mc2d2022-001704"
+  ],
+  "AlS2O8": [
+    "mst-mono-mc2d2022-002344"
+  ],
+  "AlSe2O8": [
+    "mst-mono-mc2d2022-000895"
+  ],
+  "AlSiTe3": [
+    "mst-mono-mc2d2022-001550"
+  ],
+  "As": [
+    "mst-mono-mc2d2022-000700",
+    "mst-mono-mc2d2022-001514"
+  ],
+  "As2I6": [
+    "mst-mono-mc2d2022-002734"
+  ],
+  "As2O3": [
+    "mst-mono-mc2d2022-000078",
+    "mst-mono-mc2d2022-000421",
+    "mst-mono-mc2d2022-001090",
+    "mst-mono-mc2d2022-002397",
+    "mst-mono-mc2d2022-002467",
+    "mst-mono-mc2d2022-002708"
+  ],
+  "As2PO6H": [
+    "mst-mono-mc2d2022-000222"
+  ],
+  "As2S3": [
+    "mst-mono-mc2d2022-001131",
+    "mst-mono-mc2d2022-001239"
+  ],
+  "As2SO6": [
+    "mst-mono-mc2d2022-000162"
+  ],
+  "As2Se3": [
+    "mst-mono-mc2d2022-002108"
+  ],
+  "As2Te3O11": [
+    "mst-mono-mc2d2022-002083"
+  ],
+  "As3O10H5": [
+    "mst-mono-mc2d2022-001218",
+    "mst-mono-mc2d2022-001272"
+  ],
+  "AsO2": [
+    "mst-mono-mc2d2022-002724"
+  ],
+  "AsPO4": [
+    "mst-mono-mc2d2022-001330"
+  ],
+  "AsSe2": [
+    "mst-mono-mc2d2022-001349"
+  ],
+  "AsTeO5H": [
+    "mst-mono-mc2d2022-000535"
+  ],
+  "Au2O4F2": [
+    "mst-mono-mc2d2022-001193"
+  ],
+  "Au2Pb4Bi2Te4S6": [
+    "mst-mono-mc2d2022-001813"
+  ],
+  "Au2Se2O7": [
+    "mst-mono-mc2d2022-000408"
+  ],
+  "Au2Se3O10": [
+    "mst-mono-mc2d2022-002406"
+  ],
+  "Au2ZnC8N8H16": [
+    "mst-mono-mc2d2022-001474"
+  ],
+  "Au3Bi4Br20": [
+    "mst-mono-mc2d2022-001781"
+  ],
+  "Au3Bi4Cl20": [
+    "mst-mono-mc2d2022-001431"
+  ],
+  "Au3F8": [
+    "mst-mono-mc2d2022-000332"
+  ],
+  "AuBr": [
+    "mst-mono-mc2d2022-001623"
+  ],
+  "AuCOCl": [
+    "mst-mono-mc2d2022-000012"
+  ],
+  "AuI": [
+    "mst-mono-mc2d2022-002671"
+  ],
+  "AuSe": [
+    "mst-mono-mc2d2022-001089",
+    "mst-mono-mc2d2022-001583"
+  ],
+  "AuSeO3Cl": [
+    "mst-mono-mc2d2022-001821",
+    "mst-mono-mc2d2022-002579"
+  ],
+  "AuTe2": [
+    "mst-mono-mc2d2022-001659",
+    "mst-mono-mc2d2022-002416"
+  ],
+  "AuTe2Cl": [
+    "mst-mono-mc2d2022-000654"
+  ],
+  "AuTeI": [
+    "mst-mono-mc2d2022-001250"
+  ],
+  "B2C2P6N2H10": [
+    "mst-mono-mc2d2022-000918"
+  ],
+  "B2C6": [
+    "mst-mono-mc2d2022-001826"
+  ],
+  "B2O6H6": [
+    "mst-mono-mc2d2022-001701"
+  ],
+  "B2Pb4O8H2": [
+    "mst-mono-mc2d2022-001161"
+  ],
+  "B2Pb6SO12": [
+    "mst-mono-mc2d2022-001204"
+  ],
+  "B2S2O9": [
+    "mst-mono-mc2d2022-002001"
+  ],
+  "B2S3": [
+    "mst-mono-mc2d2022-001555"
+  ],
+  "B3C10N3": [
+    "mst-mono-mc2d2022-002476"
+  ],
+  "B4BiO9H3": [
+    "mst-mono-mc2d2022-002409"
+  ],
+  "B4O8H8": [
+    "mst-mono-mc2d2022-000793"
+  ],
+  "BBiO3": [
+    "mst-mono-mc2d2022-000519"
+  ],
+  "BN": [
+    "mst-mono-mc2d2022-000054"
+  ],
+  "Ba2BO3Br": [
+    "mst-mono-mc2d2022-001348"
+  ],
+  "Ba2Bi2O4Br2": [
+    "mst-mono-mc2d2022-000584"
+  ],
+  "Ba2C8O14H12": [
+    "mst-mono-mc2d2022-000455"
+  ],
+  "Ba2Cd": [
+    "mst-mono-mc2d2022-001282"
+  ],
+  "Ba2Cr4P2O20": [
+    "mst-mono-mc2d2022-000353"
+  ],
+  "Ba2Cu2Te4O11Br2": [
+    "mst-mono-mc2d2022-000617"
+  ],
+  "Ba2Ga2O4F10": [
+    "mst-mono-mc2d2022-001952"
+  ],
+  "Ba2GaBiTe5": [
+    "mst-mono-mc2d2022-000215"
+  ],
+  "Ba2GaSbTe5": [
+    "mst-mono-mc2d2022-002280"
+  ],
+  "Ba2Ge2Se5": [
+    "mst-mono-mc2d2022-002388"
+  ],
+  "Ba2Ge2Te5": [
+    "mst-mono-mc2d2022-000428"
+  ],
+  "Ba2Hg": [
+    "mst-mono-mc2d2022-002548"
+  ],
+  "Ba2I2F2": [
+    "mst-mono-mc2d2022-001727"
+  ],
+  "Ba2InO3Br": [
+    "mst-mono-mc2d2022-000862"
+  ],
+  "Ba2N": [
+    "mst-mono-mc2d2022-000960"
+  ],
+  "Ba2Ni3": [
+    "mst-mono-mc2d2022-000580"
+  ],
+  "Ba2O10": [
+    "mst-mono-mc2d2022-002016"
+  ],
+  "Ba2O10H18I2": [
+    "mst-mono-mc2d2022-000993"
+  ],
+  "Ba2O2I4": [
+    "mst-mono-mc2d2022-000642"
+  ],
+  "Ba2Pt": [
+    "mst-mono-mc2d2022-001999"
+  ],
+  "Ba2SnSe5": [
+    "mst-mono-mc2d2022-001188"
+  ],
+  "Ba2Te2S8O14": [
+    "mst-mono-mc2d2022-001936"
+  ],
+  "Ba3In2O5Br2": [
+    "mst-mono-mc2d2022-001110"
+  ],
+  "Ba4Fe2O6Br2": [
+    "mst-mono-mc2d2022-002161"
+  ],
+  "Ba4Hg4Se8": [
+    "mst-mono-mc2d2022-001505"
+  ],
+  "Ba4Si2Te8": [
+    "mst-mono-mc2d2022-000022"
+  ],
+  "Ba4Te2O2": [
+    "mst-mono-mc2d2022-000134"
+  ],
+  "Ba4Te4O16": [
+    "mst-mono-mc2d2022-001681"
+  ],
+  "Ba5In4Te4S7": [
+    "mst-mono-mc2d2022-001770"
+  ],
+  "BaAl2Cl8": [
+    "mst-mono-mc2d2022-002712"
+  ],
+  "BaB2Se6": [
+    "mst-mono-mc2d2022-001007"
+  ],
+  "BaBiO2I": [
+    "mst-mono-mc2d2022-001085"
+  ],
+  "BaC2S2O6F6": [
+    "mst-mono-mc2d2022-002646"
+  ],
+  "BaC6N6O8H8": [
+    "mst-mono-mc2d2022-000296"
+  ],
+  "BaCNSCl": [
+    "mst-mono-mc2d2022-000255"
+  ],
+  "BaCr2N2O8": [
+    "mst-mono-mc2d2022-000373"
+  ],
+  "BaCu": [
+    "mst-mono-mc2d2022-002434"
+  ],
+  "BaF2": [
+    "mst-mono-mc2d2022-001288"
+  ],
+  "BaFe8As2": [
+    "mst-mono-mc2d2022-002651"
+  ],
+  "BaHI": [
+    "mst-mono-mc2d2022-001630"
+  ],
+  "BaMnGe": [
+    "mst-mono-mc2d2022-000005"
+  ],
+  "BaO8Cl2": [
+    "mst-mono-mc2d2022-002249"
+  ],
+  "BaP2O4H4": [
+    "mst-mono-mc2d2022-001610"
+  ],
+  "BaSbSe2F": [
+    "mst-mono-mc2d2022-001220"
+  ],
+  "BaSnF4": [
+    "mst-mono-mc2d2022-001638"
+  ],
+  "Be2As2O10": [
+    "mst-mono-mc2d2022-000521"
+  ],
+  "Be2AsO7H5": [
+    "mst-mono-mc2d2022-002213"
+  ],
+  "Be2BO5": [
+    "mst-mono-mc2d2022-002463"
+  ],
+  "BePbF4": [
+    "mst-mono-mc2d2022-000963"
+  ],
+  "Bi": [
+    "mst-mono-mc2d2022-001498"
+  ],
+  "Bi14I4": [
+    "mst-mono-mc2d2022-002599"
+  ],
+  "Bi14Te13S8": [
+    "mst-mono-mc2d2022-000806"
+  ],
+  "Bi2O2Cl4": [
+    "mst-mono-mc2d2022-000990"
+  ],
+  "Bi2O3": [
+    "mst-mono-mc2d2022-000750",
+    "mst-mono-mc2d2022-000834"
+  ],
+  "Bi2P4O13": [
+    "mst-mono-mc2d2022-002553"
+  ],
+  "Bi2S3": [
+    "mst-mono-mc2d2022-002694"
+  ],
+  "Bi2S6O21": [
+    "mst-mono-mc2d2022-002080"
+  ],
+  "Bi2Se2": [
+    "mst-mono-mc2d2022-002729"
+  ],
+  "Bi2Se3": [
+    "mst-mono-mc2d2022-001529",
+    "mst-mono-mc2d2022-002027"
+  ],
+  "Bi2Se4": [
+    "mst-mono-mc2d2022-001974"
+  ],
+  "Bi2SeO5": [
+    "mst-mono-mc2d2022-002363"
+  ],
+  "Bi2SnTe4": [
+    "mst-mono-mc2d2022-002365"
+  ],
+  "Bi2Te2S": [
+    "mst-mono-mc2d2022-001491",
+    "mst-mono-mc2d2022-002665"
+  ],
+  "Bi2Te2Se": [
+    "mst-mono-mc2d2022-002270"
+  ],
+  "Bi2TeO5": [
+    "mst-mono-mc2d2022-001068"
+  ],
+  "Bi2TeSe2": [
+    "mst-mono-mc2d2022-000079"
+  ],
+  "Bi2Yb2S4O2": [
+    "mst-mono-mc2d2022-002120"
+  ],
+  "Bi3Se4": [
+    "mst-mono-mc2d2022-002691"
+  ],
+  "Bi3Te4": [
+    "mst-mono-mc2d2022-000803"
+  ],
+  "Bi4As2O8Cl2": [
+    "mst-mono-mc2d2022-001446"
+  ],
+  "Bi4Br12": [
+    "mst-mono-mc2d2022-000023"
+  ],
+  "Bi4I": [
+    "mst-mono-mc2d2022-002174"
+  ],
+  "Bi4O6": [
+    "mst-mono-mc2d2022-001499"
+  ],
+  "Bi4S6": [
+    "mst-mono-mc2d2022-001566"
+  ],
+  "Bi4Se6": [
+    "mst-mono-mc2d2022-002693"
+  ],
+  "Bi4Te6": [
+    "mst-mono-mc2d2022-001847"
+  ],
+  "Bi6Se5": [
+    "mst-mono-mc2d2022-001216"
+  ],
+  "Bi9I2": [
+    "mst-mono-mc2d2022-002618"
+  ],
+  "BiBr3": [
+    "mst-mono-mc2d2022-001400"
+  ],
+  "BiCl4": [
+    "mst-mono-mc2d2022-001147",
+    "mst-mono-mc2d2022-001341"
+  ],
+  "BiI3": [
+    "mst-mono-mc2d2022-002544"
+  ],
+  "BiN9": [
+    "mst-mono-mc2d2022-001880"
+  ],
+  "BiO": [
+    "mst-mono-mc2d2022-001981"
+  ],
+  "BiO4I": [
+    "mst-mono-mc2d2022-001667"
+  ],
+  "BiOBr": [
+    "mst-mono-mc2d2022-001553"
+  ],
+  "BiOCl": [
+    "mst-mono-mc2d2022-001342"
+  ],
+  "BiOI": [
+    "mst-mono-mc2d2022-000877"
+  ],
+  "BiPO4": [
+    "mst-mono-mc2d2022-002175"
+  ],
+  "BiSe2O6H": [
+    "mst-mono-mc2d2022-002170"
+  ],
+  "BiTe2": [
+    "mst-mono-mc2d2022-001124"
+  ],
+  "BiTeBr": [
+    "mst-mono-mc2d2022-000596"
+  ],
+  "BiTeCl": [
+    "mst-mono-mc2d2022-001403"
+  ],
+  "BiTeI": [
+    "mst-mono-mc2d2022-000207"
+  ],
+  "BiTeO3I": [
+    "mst-mono-mc2d2022-002156"
+  ],
+  "C": [
+    "mst-mono-mc2d2022-000767",
+    "mst-mono-mc2d2022-000994",
+    "mst-mono-mc2d2022-002065",
+    "mst-mono-mc2d2022-002391"
+  ],
+  "C12N4": [
+    "mst-mono-mc2d2022-001853"
+  ],
+  "C12O8": [
+    "mst-mono-mc2d2022-002491"
+  ],
+  "C20N4": [
+    "mst-mono-mc2d2022-001478"
+  ],
+  "C2Bi2O4": [
+    "mst-mono-mc2d2022-000513"
+  ],
+  "C2F2": [
+    "mst-mono-mc2d2022-001694"
+  ],
+  "C2O2H": [
+    "mst-mono-mc2d2022-002227"
+  ],
+  "C3N4": [
+    "mst-mono-mc2d2022-002625"
+  ],
+  "C4Bi2N18S2O2H12": [
+    "mst-mono-mc2d2022-001824"
+  ],
+  "C4N20O4H4": [
+    "mst-mono-mc2d2022-002022"
+  ],
+  "C4P4Yb2O16H14": [
+    "mst-mono-mc2d2022-001459"
+  ],
+  "C4Sb4N2S6": [
+    "mst-mono-mc2d2022-002418"
+  ],
+  "C6Bi2N6S6OH2": [
+    "mst-mono-mc2d2022-000231"
+  ],
+  "C6Tm2O16H8": [
+    "mst-mono-mc2d2022-000924"
+  ],
+  "C8F4": [
+    "mst-mono-mc2d2022-002039"
+  ],
+  "CLu2Br2": [
+    "mst-mono-mc2d2022-002657"
+  ],
+  "CLu2Cl2": [
+    "mst-mono-mc2d2022-000279"
+  ],
+  "CPO2H4": [
+    "mst-mono-mc2d2022-000356"
+  ],
+  "Ca(OH)2": [
+    "mst-mono-mc2d2022-000586"
+  ],
+  "Ca10Rh2": [
+    "mst-mono-mc2d2022-002554"
+  ],
+  "Ca2AlPbF9": [
+    "mst-mono-mc2d2022-000640"
+  ],
+  "Ca2B6O16H10": [
+    "mst-mono-mc2d2022-000386",
+    "mst-mono-mc2d2022-002135"
+  ],
+  "Ca2Br2F2": [
+    "mst-mono-mc2d2022-002003"
+  ],
+  "Ca2C4": [
+    "mst-mono-mc2d2022-000870"
+  ],
+  "Ca2C4O14H12": [
+    "mst-mono-mc2d2022-000050"
+  ],
+  "Ca2C4P4O18H12": [
+    "mst-mono-mc2d2022-001437"
+  ],
+  "Ca2C8O16H8": [
+    "mst-mono-mc2d2022-001343"
+  ],
+  "Ca2Cu": [
+    "mst-mono-mc2d2022-000869"
+  ],
+  "Ca2CuO2Br2": [
+    "mst-mono-mc2d2022-000077"
+  ],
+  "Ca2CuO2Cl2": [
+    "mst-mono-mc2d2022-000036"
+  ],
+  "Ca2Eu2Cu2O6Cl2": [
+    "mst-mono-mc2d2022-001026"
+  ],
+  "Ca2FeO3Cl": [
+    "mst-mono-mc2d2022-000203"
+  ],
+  "Ca2Gd2Cu2O6Cl2": [
+    "mst-mono-mc2d2022-001086"
+  ],
+  "Ca2N": [
+    "mst-mono-mc2d2022-002153"
+  ],
+  "Ca2N4Cl4": [
+    "mst-mono-mc2d2022-001149"
+  ],
+  "Ca2O2": [
+    "mst-mono-mc2d2022-001316"
+  ],
+  "Ca2P2O12H4": [
+    "mst-mono-mc2d2022-001830"
+  ],
+  "Ca2P2O16I2": [
+    "mst-mono-mc2d2022-000974"
+  ],
+  "Ca2P2O8": [
+    "mst-mono-mc2d2022-002690"
+  ],
+  "Ca2S2O12": [
+    "mst-mono-mc2d2022-000760"
+  ],
+  "Ca2S2O8": [
+    "mst-mono-mc2d2022-000704"
+  ],
+  "Ca3AlAs3": [
+    "mst-mono-mc2d2022-001261"
+  ],
+  "Ca3Cu2O4Br2": [
+    "mst-mono-mc2d2022-000952"
+  ],
+  "Ca3Cu2O4Cl2": [
+    "mst-mono-mc2d2022-000944"
+  ],
+  "Ca3Fe2O5Cl2": [
+    "mst-mono-mc2d2022-002649"
+  ],
+  "Ca3GaAs3": [
+    "mst-mono-mc2d2022-001039"
+  ],
+  "Ca3In2As4": [
+    "mst-mono-mc2d2022-002233"
+  ],
+  "Ca3O6Cl2": [
+    "mst-mono-mc2d2022-002733"
+  ],
+  "Ca3Zn": [
+    "mst-mono-mc2d2022-000149"
+  ],
+  "Ca4Fe2O6Br2": [
+    "mst-mono-mc2d2022-001444"
+  ],
+  "Ca4Se4O12": [
+    "mst-mono-mc2d2022-000420"
+  ],
+  "Ca4Se4O16": [
+    "mst-mono-mc2d2022-002048"
+  ],
+  "Ca5Ir": [
+    "mst-mono-mc2d2022-002041"
+  ],
+  "Ca6B2C2N2Br4": [
+    "mst-mono-mc2d2022-001538"
+  ],
+  "CaAs2F12": [
+    "mst-mono-mc2d2022-000669"
+  ],
+  "CaAu2F12": [
+    "mst-mono-mc2d2022-001101"
+  ],
+  "CaB2O8H8": [
+    "mst-mono-mc2d2022-001242"
+  ],
+  "CaB4N2H20": [
+    "mst-mono-mc2d2022-001323"
+  ],
+  "CaBiO2Cl": [
+    "mst-mono-mc2d2022-000441"
+  ],
+  "CaC2P2O6H8": [
+    "mst-mono-mc2d2022-000006"
+  ],
+  "CaClF": [
+    "mst-mono-mc2d2022-000256"
+  ],
+  "CaCo2Te3O8Cl2": [
+    "mst-mono-mc2d2022-001879"
+  ],
+  "CaHBr": [
+    "mst-mono-mc2d2022-002558"
+  ],
+  "CaHCl": [
+    "mst-mono-mc2d2022-002304"
+  ],
+  "CaHI": [
+    "mst-mono-mc2d2022-002317"
+  ],
+  "CaI2": [
+    "mst-mono-mc2d2022-002018"
+  ],
+  "CaInYbSe4": [
+    "mst-mono-mc2d2022-000123"
+  ],
+  "CaMnAs2O10H6": [
+    "mst-mono-mc2d2022-002113"
+  ],
+  "CaMnGe": [
+    "mst-mono-mc2d2022-002505"
+  ],
+  "CaMnSi": [
+    "mst-mono-mc2d2022-002627"
+  ],
+  "CaN2O6": [
+    "mst-mono-mc2d2022-002555"
+  ],
+  "CaO2H4Cl2": [
+    "mst-mono-mc2d2022-001034"
+  ],
+  "CaO4Cl2": [
+    "mst-mono-mc2d2022-002040"
+  ],
+  "CaOHCl": [
+    "mst-mono-mc2d2022-002742"
+  ],
+  "CaP2O4H4": [
+    "mst-mono-mc2d2022-001970"
+  ],
+  "CaP2O7H6": [
+    "mst-mono-mc2d2022-002094"
+  ],
+  "CaP2O9H6": [
+    "mst-mono-mc2d2022-001484"
+  ],
+  "CaPO4H3": [
+    "mst-mono-mc2d2022-002449"
+  ],
+  "CaPO5H4F": [
+    "mst-mono-mc2d2022-002224"
+  ],
+  "CaRe2CN2O10H6": [
+    "mst-mono-mc2d2022-002043"
+  ],
+  "CaSO6H4": [
+    "mst-mono-mc2d2022-000791",
+    "mst-mono-mc2d2022-000875",
+    "mst-mono-mc2d2022-001353"
+  ],
+  "CaSeO6H4": [
+    "mst-mono-mc2d2022-001298"
+  ],
+  "CaSmCuO3Cl": [
+    "mst-mono-mc2d2022-002046"
+  ],
+  "CaSn2F6": [
+    "mst-mono-mc2d2022-001854"
+  ],
+  "CaTe2O5": [
+    "mst-mono-mc2d2022-002710"
+  ],
+  "CaTeO3": [
+    "mst-mono-mc2d2022-002201"
+  ],
+  "Cd(OH)2": [
+    "mst-mono-mc2d2022-000865"
+  ],
+  "Cd2As2N2O10": [
+    "mst-mono-mc2d2022-000798"
+  ],
+  "Cd2AsCl2": [
+    "mst-mono-mc2d2022-002469"
+  ],
+  "Cd2C12N16H10": [
+    "mst-mono-mc2d2022-000508"
+  ],
+  "Cd2C12N8S4H8": [
+    "mst-mono-mc2d2022-000280"
+  ],
+  "Cd2C4O14": [
+    "mst-mono-mc2d2022-000227"
+  ],
+  "Cd4O4Br4": [
+    "mst-mono-mc2d2022-000088"
+  ],
+  "Cd4O4I4": [
+    "mst-mono-mc2d2022-001373"
+  ],
+  "Cd5N2O16": [
+    "mst-mono-mc2d2022-000463",
+    "mst-mono-mc2d2022-001372"
+  ],
+  "Cd6Se8O24": [
+    "mst-mono-mc2d2022-001047"
+  ],
+  "CdAl2Cl8": [
+    "mst-mono-mc2d2022-000656"
+  ],
+  "CdAlCl4": [
+    "mst-mono-mc2d2022-001803"
+  ],
+  "CdBiO2Cl": [
+    "mst-mono-mc2d2022-002151"
+  ],
+  "CdBiS2Br": [
+    "mst-mono-mc2d2022-000836"
+  ],
+  "CdBiS2Cl": [
+    "mst-mono-mc2d2022-001037"
+  ],
+  "CdBiSe2Br": [
+    "mst-mono-mc2d2022-000194"
+  ],
+  "CdBiSe2I": [
+    "mst-mono-mc2d2022-000267"
+  ],
+  "CdBr2": [
+    "mst-mono-mc2d2022-000259"
+  ],
+  "CdC10N2H8Br2": [
+    "mst-mono-mc2d2022-002398"
+  ],
+  "CdC10N2H8I2": [
+    "mst-mono-mc2d2022-001217"
+  ],
+  "CdC10N4O4H12": [
+    "mst-mono-mc2d2022-002495"
+  ],
+  "CdC12N12H12": [
+    "mst-mono-mc2d2022-000505",
+    "mst-mono-mc2d2022-000555"
+  ],
+  "CdC12N2H10Br2": [
+    "mst-mono-mc2d2022-001938"
+  ],
+  "CdC12N2O2H12Br2": [
+    "mst-mono-mc2d2022-001741"
+  ],
+  "CdC12N2O2H12Cl2": [
+    "mst-mono-mc2d2022-002054"
+  ],
+  "CdC12N6H12I2": [
+    "mst-mono-mc2d2022-002650"
+  ],
+  "CdC14N6S2H10": [
+    "mst-mono-mc2d2022-001392",
+    "mst-mono-mc2d2022-001421"
+  ],
+  "CdC16N6S2H10": [
+    "mst-mono-mc2d2022-002565"
+  ],
+  "CdC2O6H4": [
+    "mst-mono-mc2d2022-000778"
+  ],
+  "CdC4N14H4": [
+    "mst-mono-mc2d2022-000777"
+  ],
+  "CdC4N2H4Cl2": [
+    "mst-mono-mc2d2022-001703"
+  ],
+  "CdC6N5S2": [
+    "mst-mono-mc2d2022-000545"
+  ],
+  "CdC8O12H10": [
+    "mst-mono-mc2d2022-001964"
+  ],
+  "CdCl2": [
+    "mst-mono-mc2d2022-001894"
+  ],
+  "CdHg4C6N6S6Br4": [
+    "mst-mono-mc2d2022-002527"
+  ],
+  "CdHgAsBr": [
+    "mst-mono-mc2d2022-001232"
+  ],
+  "CdI2": [
+    "mst-mono-mc2d2022-001264"
+  ],
+  "CdIBr": [
+    "mst-mono-mc2d2022-000572"
+  ],
+  "CdInGaS4": [
+    "mst-mono-mc2d2022-000752",
+    "mst-mono-mc2d2022-002218"
+  ],
+  "CdNSeO6H": [
+    "mst-mono-mc2d2022-000608"
+  ],
+  "CdO2": [
+    "mst-mono-mc2d2022-000678"
+  ],
+  "CdO3ICl": [
+    "mst-mono-mc2d2022-001129"
+  ],
+  "CdO6I2": [
+    "mst-mono-mc2d2022-000111"
+  ],
+  "CdOCl": [
+    "mst-mono-mc2d2022-002219"
+  ],
+  "CdOHCl": [
+    "mst-mono-mc2d2022-001186",
+    "mst-mono-mc2d2022-002582"
+  ],
+  "CdP2O10": [
+    "mst-mono-mc2d2022-001594"
+  ],
+  "CdP2O4H4": [
+    "mst-mono-mc2d2022-001713"
+  ],
+  "CdP2O7H6": [
+    "mst-mono-mc2d2022-001953"
+  ],
+  "CdPS3": [
+    "mst-mono-mc2d2022-001028"
+  ],
+  "CdPSe3": [
+    "mst-mono-mc2d2022-001374"
+  ],
+  "CdPb2O2Cl2": [
+    "mst-mono-mc2d2022-000064"
+  ],
+  "CdSb2Se3Br2": [
+    "mst-mono-mc2d2022-001979"
+  ],
+  "CdSb6S8I4": [
+    "mst-mono-mc2d2022-002035"
+  ],
+  "CdSbS2Br": [
+    "mst-mono-mc2d2022-001856"
+  ],
+  "CdSbS2Cl": [
+    "mst-mono-mc2d2022-001379"
+  ],
+  "CdSeO4H2": [
+    "mst-mono-mc2d2022-000313"
+  ],
+  "Ce2Br5": [
+    "mst-mono-mc2d2022-002337"
+  ],
+  "Ce2O2Br2": [
+    "mst-mono-mc2d2022-001460"
+  ],
+  "Ce2S2I2": [
+    "mst-mono-mc2d2022-000178"
+  ],
+  "Ce2Sb2S4O2": [
+    "mst-mono-mc2d2022-000034"
+  ],
+  "Ce2Te5": [
+    "mst-mono-mc2d2022-001873"
+  ],
+  "Ce4C2Br5": [
+    "mst-mono-mc2d2022-001845"
+  ],
+  "CeBiS2O": [
+    "mst-mono-mc2d2022-000671"
+  ],
+  "CeI2": [
+    "mst-mono-mc2d2022-002686"
+  ],
+  "CeP2O6H2": [
+    "mst-mono-mc2d2022-000168"
+  ],
+  "CeP3O7H8": [
+    "mst-mono-mc2d2022-001972"
+  ],
+  "CeSiI": [
+    "mst-mono-mc2d2022-002681"
+  ],
+  "CeTe3": [
+    "mst-mono-mc2d2022-000635"
+  ],
+  "Co(OH)2": [
+    "mst-mono-mc2d2022-002621"
+  ],
+  "Co2C12P2N2O6H12": [
+    "mst-mono-mc2d2022-000872"
+  ],
+  "Co2C15N6O6H9": [
+    "mst-mono-mc2d2022-000404"
+  ],
+  "Co2P2O8": [
+    "mst-mono-mc2d2022-000551"
+  ],
+  "Co2P4O8": [
+    "mst-mono-mc2d2022-002061"
+  ],
+  "Co2Se4O16": [
+    "mst-mono-mc2d2022-000083"
+  ],
+  "Co2TeO3Cl2": [
+    "mst-mono-mc2d2022-000753"
+  ],
+  "Co3P2O16H16": [
+    "mst-mono-mc2d2022-001984"
+  ],
+  "Co4N2O12": [
+    "mst-mono-mc2d2022-002384"
+  ],
+  "Co4O4Br4": [
+    "mst-mono-mc2d2022-001267"
+  ],
+  "Co4P4N4O16": [
+    "mst-mono-mc2d2022-001806"
+  ],
+  "CoAs": [
+    "mst-mono-mc2d2022-000601"
+  ],
+  "CoBi2SO7": [
+    "mst-mono-mc2d2022-001195"
+  ],
+  "CoBr2": [
+    "mst-mono-mc2d2022-001532"
+  ],
+  "CoC14N2O8H14": [
+    "mst-mono-mc2d2022-001622"
+  ],
+  "CoC16N8H12": [
+    "mst-mono-mc2d2022-001893"
+  ],
+  "CoC2N2S2": [
+    "mst-mono-mc2d2022-001573"
+  ],
+  "CoC2N2S2O2H4": [
+    "mst-mono-mc2d2022-001172"
+  ],
+  "CoC2P2NO8H11": [
+    "mst-mono-mc2d2022-002223"
+  ],
+  "CoC4N14H4": [
+    "mst-mono-mc2d2022-001156"
+  ],
+  "CoC4N14H6": [
+    "mst-mono-mc2d2022-002248"
+  ],
+  "CoC4N2H4Cl2": [
+    "mst-mono-mc2d2022-000757"
+  ],
+  "CoC4N2O4H8": [
+    "mst-mono-mc2d2022-002306"
+  ],
+  "CoC4O6H6": [
+    "mst-mono-mc2d2022-000470"
+  ],
+  "CoC4O7H8": [
+    "mst-mono-mc2d2022-002393"
+  ],
+  "CoCl2": [
+    "mst-mono-mc2d2022-001283"
+  ],
+  "CoI2": [
+    "mst-mono-mc2d2022-001327"
+  ],
+  "CoN2O2H8F4": [
+    "mst-mono-mc2d2022-000113"
+  ],
+  "CoN2O8H4": [
+    "mst-mono-mc2d2022-001815"
+  ],
+  "CoO2": [
+    "mst-mono-mc2d2022-001240"
+  ],
+  "CoO8Cl2": [
+    "mst-mono-mc2d2022-002396"
+  ],
+  "CoPO4H3": [
+    "mst-mono-mc2d2022-001732"
+  ],
+  "CoPO6H6F": [
+    "mst-mono-mc2d2022-002225"
+  ],
+  "CoPS3": [
+    "mst-mono-mc2d2022-000260"
+  ],
+  "CoPd2Se2": [
+    "mst-mono-mc2d2022-002103"
+  ],
+  "CoPd2Te2": [
+    "mst-mono-mc2d2022-000931"
+  ],
+  "CoS": [
+    "mst-mono-mc2d2022-000714"
+  ],
+  "CoSb2O3Br2": [
+    "mst-mono-mc2d2022-002074"
+  ],
+  "CoSe": [
+    "mst-mono-mc2d2022-001625"
+  ],
+  "CoSe2O8H6": [
+    "mst-mono-mc2d2022-002307"
+  ],
+  "CoSeO4H2": [
+    "mst-mono-mc2d2022-000081",
+    "mst-mono-mc2d2022-001807"
+  ],
+  "CoSi2Se4": [
+    "mst-mono-mc2d2022-002688"
+  ],
+  "CoTe2": [
+    "mst-mono-mc2d2022-000966"
+  ],
+  "CoTl2F4": [
+    "mst-mono-mc2d2022-000881"
+  ],
+  "Cr2Cu4O12": [
+    "mst-mono-mc2d2022-001632"
+  ],
+  "Cr2I6": [
+    "mst-mono-mc2d2022-002360"
+  ],
+  "Cr2O4": [
+    "mst-mono-mc2d2022-001020"
+  ],
+  "Cr2Si2Se6": [
+    "mst-mono-mc2d2022-001425"
+  ],
+  "Cr3O8": [
+    "mst-mono-mc2d2022-000626"
+  ],
+  "Cr3Te4": [
+    "mst-mono-mc2d2022-002276"
+  ],
+  "Cr4N2F16": [
+    "mst-mono-mc2d2022-001836"
+  ],
+  "Cr4O6": [
+    "mst-mono-mc2d2022-002572"
+  ],
+  "Cr4TlBiO14": [
+    "mst-mono-mc2d2022-000052"
+  ],
+  "Cr5Bi6Se16": [
+    "mst-mono-mc2d2022-000476"
+  ],
+  "CrAgP2S6": [
+    "mst-mono-mc2d2022-000062"
+  ],
+  "CrAuTe4": [
+    "mst-mono-mc2d2022-001230"
+  ],
+  "CrBr2": [
+    "mst-mono-mc2d2022-001291"
+  ],
+  "CrBr3": [
+    "mst-mono-mc2d2022-001706"
+  ],
+  "CrCl3": [
+    "mst-mono-mc2d2022-001395",
+    "mst-mono-mc2d2022-002221"
+  ],
+  "CrCu2O8F6": [
+    "mst-mono-mc2d2022-001957"
+  ],
+  "CrGa2S4": [
+    "mst-mono-mc2d2022-000729"
+  ],
+  "CrGa2Se4": [
+    "mst-mono-mc2d2022-001796"
+  ],
+  "CrGeTe3": [
+    "mst-mono-mc2d2022-000687"
+  ],
+  "CrHgPb2O6": [
+    "mst-mono-mc2d2022-000341",
+    "mst-mono-mc2d2022-002126"
+  ],
+  "CrI2": [
+    "mst-mono-mc2d2022-001872"
+  ],
+  "CrO2": [
+    "mst-mono-mc2d2022-000720"
+  ],
+  "CrOBr": [
+    "mst-mono-mc2d2022-000624"
+  ],
+  "CrOCl": [
+    "mst-mono-mc2d2022-001221"
+  ],
+  "CrP2S7": [
+    "mst-mono-mc2d2022-000749"
+  ],
+  "CrPS4": [
+    "mst-mono-mc2d2022-002309",
+    "mst-mono-mc2d2022-002340"
+  ],
+  "CrPSe3": [
+    "mst-mono-mc2d2022-001634"
+  ],
+  "CrPb2F7": [
+    "mst-mono-mc2d2022-000821"
+  ],
+  "CrS2": [
+    "mst-mono-mc2d2022-001479"
+  ],
+  "CrS2O8": [
+    "mst-mono-mc2d2022-002277"
+  ],
+  "CrSBr": [
+    "mst-mono-mc2d2022-000943"
+  ],
+  "CrSe2": [
+    "mst-mono-mc2d2022-000301",
+    "mst-mono-mc2d2022-001676",
+    "mst-mono-mc2d2022-001898"
+  ],
+  "CrSiTe3": [
+    "mst-mono-mc2d2022-001812"
+  ],
+  "CrTe2": [
+    "mst-mono-mc2d2022-001053"
+  ],
+  "CrTe3": [
+    "mst-mono-mc2d2022-001562"
+  ],
+  "Cs2C12Sb2Cl10": [
+    "mst-mono-mc2d2022-002364"
+  ],
+  "Cs2LuBr6": [
+    "mst-mono-mc2d2022-001018"
+  ],
+  "Cs2Pr2O8Cl8": [
+    "mst-mono-mc2d2022-002654"
+  ],
+  "Cs2TmBr6": [
+    "mst-mono-mc2d2022-001494"
+  ],
+  "Cs2YbBr6": [
+    "mst-mono-mc2d2022-001080"
+  ],
+  "Cs3Mo2I9": [
+    "mst-mono-mc2d2022-000037"
+  ],
+  "Cs3Nb2I9": [
+    "mst-mono-mc2d2022-000204"
+  ],
+  "Cs3Sb2I9": [
+    "mst-mono-mc2d2022-000103"
+  ],
+  "Cs3Zr2I9": [
+    "mst-mono-mc2d2022-000206"
+  ],
+  "Cs4Ag4O4": [
+    "mst-mono-mc2d2022-001592"
+  ],
+  "Cs4Au4O4": [
+    "mst-mono-mc2d2022-000246"
+  ],
+  "CsBC3NO2F9": [
+    "mst-mono-mc2d2022-000340"
+  ],
+  "CsBr2F": [
+    "mst-mono-mc2d2022-000632"
+  ],
+  "CsBr3": [
+    "mst-mono-mc2d2022-002353"
+  ],
+  "CsC12N4O10H10": [
+    "mst-mono-mc2d2022-000621"
+  ],
+  "CsC16O6H11Cl4": [
+    "mst-mono-mc2d2022-000065"
+  ],
+  "CsC3N3Se3": [
+    "mst-mono-mc2d2022-000499",
+    "mst-mono-mc2d2022-001913"
+  ],
+  "CsCSO3F3": [
+    "mst-mono-mc2d2022-001940"
+  ],
+  "CsO4H7": [
+    "mst-mono-mc2d2022-002435"
+  ],
+  "CsOsNOF5": [
+    "mst-mono-mc2d2022-001862"
+  ],
+  "CsPO3H3F": [
+    "mst-mono-mc2d2022-000423"
+  ],
+  "CsSb2Se4": [
+    "mst-mono-mc2d2022-000948"
+  ],
+  "CsTe4": [
+    "mst-mono-mc2d2022-000375"
+  ],
+  "CsZr6BI12": [
+    "mst-mono-mc2d2022-000577"
+  ],
+  "CsZr6BI14": [
+    "mst-mono-mc2d2022-000914"
+  ],
+  "Cu(OH)2": [
+    "mst-mono-mc2d2022-001677"
+  ],
+  "Cu10C4O24": [
+    "mst-mono-mc2d2022-000647"
+  ],
+  "Cu2As4S3Cl2": [
+    "mst-mono-mc2d2022-001408"
+  ],
+  "Cu2C10N4O4H6Br2": [
+    "mst-mono-mc2d2022-002383"
+  ],
+  "Cu2C12N10H8": [
+    "mst-mono-mc2d2022-000158"
+  ],
+  "Cu2C12N12": [
+    "mst-mono-mc2d2022-001436"
+  ],
+  "Cu2C12N4S2H8Cl2": [
+    "mst-mono-mc2d2022-002013"
+  ],
+  "Cu2C12N4S2H8Cl4": [
+    "mst-mono-mc2d2022-001378"
+  ],
+  "Cu2C14N10H12": [
+    "mst-mono-mc2d2022-001212"
+  ],
+  "Cu2C14N8H12": [
+    "mst-mono-mc2d2022-001024"
+  ],
+  "Cu2C16N4O2H8Cl2": [
+    "mst-mono-mc2d2022-001485"
+  ],
+  "Cu2C4N16O4H8": [
+    "mst-mono-mc2d2022-002508"
+  ],
+  "Cu2C4N2S2O12H10": [
+    "mst-mono-mc2d2022-001338"
+  ],
+  "Cu2C8O12H12": [
+    "mst-mono-mc2d2022-000001"
+  ],
+  "Cu2CO5H4": [
+    "mst-mono-mc2d2022-000157"
+  ],
+  "Cu2Cl4": [
+    "mst-mono-mc2d2022-001927"
+  ],
+  "Cu2F4": [
+    "mst-mono-mc2d2022-002653"
+  ],
+  "Cu2N2S2O6": [
+    "mst-mono-mc2d2022-001434"
+  ],
+  "Cu2NO6H3": [
+    "mst-mono-mc2d2022-001317"
+  ],
+  "Cu2NSe2O10": [
+    "mst-mono-mc2d2022-000880"
+  ],
+  "Cu2O2": [
+    "mst-mono-mc2d2022-001339"
+  ],
+  "Cu2O3H3Cl": [
+    "mst-mono-mc2d2022-002462"
+  ],
+  "Cu2O4": [
+    "mst-mono-mc2d2022-000336"
+  ],
+  "Cu2O4F2": [
+    "mst-mono-mc2d2022-000287"
+  ],
+  "Cu2O4H2": [
+    "mst-mono-mc2d2022-002256"
+  ],
+  "Cu2P2O7": [
+    "mst-mono-mc2d2022-001769"
+  ],
+  "Cu2P8Se3Br2": [
+    "mst-mono-mc2d2022-002098"
+  ],
+  "Cu2Pb2S2O12": [
+    "mst-mono-mc2d2022-000219"
+  ],
+  "Cu2SO4": [
+    "mst-mono-mc2d2022-000582"
+  ],
+  "Cu2Te": [
+    "mst-mono-mc2d2022-000286"
+  ],
+  "Cu2Te3O8": [
+    "mst-mono-mc2d2022-001410"
+  ],
+  "Cu2Tl2Se2": [
+    "mst-mono-mc2d2022-002376"
+  ],
+  "Cu2Zn2O6H6Cl2": [
+    "mst-mono-mc2d2022-002608"
+  ],
+  "Cu3BiSe2O8": [
+    "mst-mono-mc2d2022-002212"
+  ],
+  "Cu3BiTe2O8Cl": [
+    "mst-mono-mc2d2022-002154"
+  ],
+  "Cu3C12N8H12": [
+    "mst-mono-mc2d2022-002703"
+  ],
+  "Cu3C4P2S2O16": [
+    "mst-mono-mc2d2022-001417"
+  ],
+  "Cu3Pb2NSe2O11": [
+    "mst-mono-mc2d2022-001227"
+  ],
+  "Cu3PbTeO8": [
+    "mst-mono-mc2d2022-000972"
+  ],
+  "Cu3Se2O6Cl2": [
+    "mst-mono-mc2d2022-000118"
+  ],
+  "Cu3Te2O6Br2": [
+    "mst-mono-mc2d2022-000309"
+  ],
+  "Cu3TlS2": [
+    "mst-mono-mc2d2022-002501"
+  ],
+  "Cu3TlSe2": [
+    "mst-mono-mc2d2022-001011"
+  ],
+  "Cu3Yb2Te4O12Cl4": [
+    "mst-mono-mc2d2022-002069"
+  ],
+  "Cu3ZnO6H6Cl2": [
+    "mst-mono-mc2d2022-002739"
+  ],
+  "Cu4As4O22": [
+    "mst-mono-mc2d2022-000587"
+  ],
+  "Cu4Bi4": [
+    "mst-mono-mc2d2022-002034"
+  ],
+  "Cu4C6N12H12Br4": [
+    "mst-mono-mc2d2022-000988"
+  ],
+  "Cu4C8N4S2H6Cl2": [
+    "mst-mono-mc2d2022-002483"
+  ],
+  "Cu4C8O8H12": [
+    "mst-mono-mc2d2022-000282"
+  ],
+  "Cu4Cd2Te6O16Cl4": [
+    "mst-mono-mc2d2022-000557"
+  ],
+  "Cu4Ga4Se14Cl16": [
+    "mst-mono-mc2d2022-001712"
+  ],
+  "Cu4N2O12": [
+    "mst-mono-mc2d2022-000675",
+    "mst-mono-mc2d2022-001315"
+  ],
+  "Cu4O4Cl4": [
+    "mst-mono-mc2d2022-000606"
+  ],
+  "Cu4O6": [
+    "mst-mono-mc2d2022-002357"
+  ],
+  "Cu4O6Cl2": [
+    "mst-mono-mc2d2022-001860"
+  ],
+  "Cu4S3": [
+    "mst-mono-mc2d2022-000166",
+    "mst-mono-mc2d2022-002262"
+  ],
+  "Cu4SO10": [
+    "mst-mono-mc2d2022-000899"
+  ],
+  "Cu4Se12Br4": [
+    "mst-mono-mc2d2022-000009"
+  ],
+  "Cu4Se3": [
+    "mst-mono-mc2d2022-000094"
+  ],
+  "Cu4Te2": [
+    "mst-mono-mc2d2022-002009"
+  ],
+  "Cu6As4S10": [
+    "mst-mono-mc2d2022-002238"
+  ],
+  "Cu8S2O24": [
+    "mst-mono-mc2d2022-001164"
+  ],
+  "Cu9Pb2Se4O16Cl4": [
+    "mst-mono-mc2d2022-000492"
+  ],
+  "CuAgTe2": [
+    "mst-mono-mc2d2022-000490"
+  ],
+  "CuAl2Cl8": [
+    "mst-mono-mc2d2022-001167"
+  ],
+  "CuB2C8N8": [
+    "mst-mono-mc2d2022-002278"
+  ],
+  "CuBO4H4Cl": [
+    "mst-mono-mc2d2022-000409"
+  ],
+  "CuBiP2Se6": [
+    "mst-mono-mc2d2022-000550"
+  ],
+  "CuBiSCl2": [
+    "mst-mono-mc2d2022-000636"
+  ],
+  "CuBr": [
+    "mst-mono-mc2d2022-001965"
+  ],
+  "CuBr2": [
+    "mst-mono-mc2d2022-001300"
+  ],
+  "CuC10N4S4H4Cl2": [
+    "mst-mono-mc2d2022-002517"
+  ],
+  "CuC2N4H3": [
+    "mst-mono-mc2d2022-000056"
+  ],
+  "CuC2NH2Br": [
+    "mst-mono-mc2d2022-001030"
+  ],
+  "CuC2S2O6F6": [
+    "mst-mono-mc2d2022-001304"
+  ],
+  "CuC3N2H3": [
+    "mst-mono-mc2d2022-002494"
+  ],
+  "CuC3N3H4Br": [
+    "mst-mono-mc2d2022-001135",
+    "mst-mono-mc2d2022-002102"
+  ],
+  "CuC3N3H4Cl": [
+    "mst-mono-mc2d2022-001234"
+  ],
+  "CuC3N7H4": [
+    "mst-mono-mc2d2022-000402"
+  ],
+  "CuC4N2H4Cl2": [
+    "mst-mono-mc2d2022-001814"
+  ],
+  "CuC4N8H6": [
+    "mst-mono-mc2d2022-000043"
+  ],
+  "CuC4O5H6": [
+    "mst-mono-mc2d2022-002051"
+  ],
+  "CuC4O6H6": [
+    "mst-mono-mc2d2022-000970"
+  ],
+  "CuC4O8H6": [
+    "mst-mono-mc2d2022-000449"
+  ],
+  "CuC5N3SH4": [
+    "mst-mono-mc2d2022-002580"
+  ],
+  "CuC6N2O4H2": [
+    "mst-mono-mc2d2022-000979"
+  ],
+  "CuC6N6O2H4": [
+    "mst-mono-mc2d2022-002645"
+  ],
+  "CuC6N8O4H4": [
+    "mst-mono-mc2d2022-000683",
+    "mst-mono-mc2d2022-001151"
+  ],
+  "CuC6O6H12": [
+    "mst-mono-mc2d2022-000805"
+  ],
+  "CuC8P2O8H14": [
+    "mst-mono-mc2d2022-001773"
+  ],
+  "CuCN2": [
+    "mst-mono-mc2d2022-000431"
+  ],
+  "CuCN2O3H6": [
+    "mst-mono-mc2d2022-001000"
+  ],
+  "CuCOCl": [
+    "mst-mono-mc2d2022-001671"
+  ],
+  "CuCdO2H4Cl4": [
+    "mst-mono-mc2d2022-000995"
+  ],
+  "CuCl2": [
+    "mst-mono-mc2d2022-002479"
+  ],
+  "CuDyPbSe3": [
+    "mst-mono-mc2d2022-001631"
+  ],
+  "CuErPbSe3": [
+    "mst-mono-mc2d2022-001614"
+  ],
+  "CuGa2Cl8": [
+    "mst-mono-mc2d2022-001187"
+  ],
+  "CuGeO3": [
+    "mst-mono-mc2d2022-001211",
+    "mst-mono-mc2d2022-001767"
+  ],
+  "CuHg2C8N8H16Cl2": [
+    "mst-mono-mc2d2022-002612"
+  ],
+  "CuHgSBr": [
+    "mst-mono-mc2d2022-000086"
+  ],
+  "CuHgSCl": [
+    "mst-mono-mc2d2022-000236",
+    "mst-mono-mc2d2022-001587"
+  ],
+  "CuHgSeBr": [
+    "mst-mono-mc2d2022-002164"
+  ],
+  "CuHoPbSe3": [
+    "mst-mono-mc2d2022-000609"
+  ],
+  "CuI": [
+    "mst-mono-mc2d2022-000746"
+  ],
+  "CuInP2Se6": [
+    "mst-mono-mc2d2022-002668"
+  ],
+  "CuN2O2H8F4": [
+    "mst-mono-mc2d2022-001753"
+  ],
+  "CuN3O9": [
+    "mst-mono-mc2d2022-000237"
+  ],
+  "CuN4S4Br": [
+    "mst-mono-mc2d2022-000007"
+  ],
+  "CuN6": [
+    "mst-mono-mc2d2022-000447"
+  ],
+  "CuO2": [
+    "mst-mono-mc2d2022-002261"
+  ],
+  "CuO6I2": [
+    "mst-mono-mc2d2022-002288"
+  ],
+  "CuO8H4I2": [
+    "mst-mono-mc2d2022-000575"
+  ],
+  "CuOHCl": [
+    "mst-mono-mc2d2022-002446"
+  ],
+  "CuOHF": [
+    "mst-mono-mc2d2022-002167"
+  ],
+  "CuP10": [
+    "mst-mono-mc2d2022-002647"
+  ],
+  "CuP2O4H4": [
+    "mst-mono-mc2d2022-000710",
+    "mst-mono-mc2d2022-002316"
+  ],
+  "CuP4S3Br": [
+    "mst-mono-mc2d2022-002348"
+  ],
+  "CuP4Se3Cl": [
+    "mst-mono-mc2d2022-001040"
+  ],
+  "CuP4Se4I": [
+    "mst-mono-mc2d2022-001063"
+  ],
+  "CuPb2O4Cl2": [
+    "mst-mono-mc2d2022-000882"
+  ],
+  "CuPb4S2O14": [
+    "mst-mono-mc2d2022-000046"
+  ],
+  "CuPb4S2O14H6": [
+    "mst-mono-mc2d2022-001360"
+  ],
+  "CuPbSO6H2": [
+    "mst-mono-mc2d2022-001203"
+  ],
+  "CuPbSe3Lu": [
+    "mst-mono-mc2d2022-000095"
+  ],
+  "CuPbTmSe3": [
+    "mst-mono-mc2d2022-002474"
+  ],
+  "CuPbYbSe3": [
+    "mst-mono-mc2d2022-002482"
+  ],
+  "CuS": [
+    "mst-mono-mc2d2022-000946"
+  ],
+  "CuSb2O3Cl": [
+    "mst-mono-mc2d2022-001433"
+  ],
+  "CuSb6S2O16": [
+    "mst-mono-mc2d2022-001490"
+  ],
+  "CuSbS2": [
+    "mst-mono-mc2d2022-000820"
+  ],
+  "CuSbSe2": [
+    "mst-mono-mc2d2022-000424"
+  ],
+  "CuSe": [
+    "mst-mono-mc2d2022-000051",
+    "mst-mono-mc2d2022-001099"
+  ],
+  "CuSe2Br": [
+    "mst-mono-mc2d2022-001810"
+  ],
+  "CuSe2Cl": [
+    "mst-mono-mc2d2022-001286"
+  ],
+  "CuSe2O5": [
+    "mst-mono-mc2d2022-001654"
+  ],
+  "CuSe2O8H6": [
+    "mst-mono-mc2d2022-000099"
+  ],
+  "CuSiO3": [
+    "mst-mono-mc2d2022-001669"
+  ],
+  "CuTe": [
+    "mst-mono-mc2d2022-000175",
+    "mst-mono-mc2d2022-001045"
+  ],
+  "CuTe2": [
+    "mst-mono-mc2d2022-000283"
+  ],
+  "CuTe2Br": [
+    "mst-mono-mc2d2022-000950"
+  ],
+  "CuTe2Cl": [
+    "mst-mono-mc2d2022-000615"
+  ],
+  "CuTe2I": [
+    "mst-mono-mc2d2022-000722"
+  ],
+  "CuTe4": [
+    "mst-mono-mc2d2022-001137"
+  ],
+  "CuTl2F4": [
+    "mst-mono-mc2d2022-001093"
+  ],
+  "CuTlPSe3": [
+    "mst-mono-mc2d2022-000983"
+  ],
+  "CuTlSO5H": [
+    "mst-mono-mc2d2022-000048"
+  ],
+  "CuTlSeO5H": [
+    "mst-mono-mc2d2022-000682"
+  ],
+  "Dy2As2O8": [
+    "mst-mono-mc2d2022-001819"
+  ],
+  "Dy2Bi2S4O2": [
+    "mst-mono-mc2d2022-001987"
+  ],
+  "Dy2Br6": [
+    "mst-mono-mc2d2022-001438",
+    "mst-mono-mc2d2022-002522"
+  ],
+  "Dy2Cl6": [
+    "mst-mono-mc2d2022-002592"
+  ],
+  "Dy2I6": [
+    "mst-mono-mc2d2022-001146"
+  ],
+  "Dy2O2Br2": [
+    "mst-mono-mc2d2022-000388"
+  ],
+  "Dy2S2I2": [
+    "mst-mono-mc2d2022-001270"
+  ],
+  "Dy2Sb2S4O2": [
+    "mst-mono-mc2d2022-002265"
+  ],
+  "Dy2Te5": [
+    "mst-mono-mc2d2022-000847"
+  ],
+  "Dy2Te5O13": [
+    "mst-mono-mc2d2022-000460"
+  ],
+  "DyCl3": [
+    "mst-mono-mc2d2022-001738"
+  ],
+  "DyI2": [
+    "mst-mono-mc2d2022-002370"
+  ],
+  "DyO2H2Cl": [
+    "mst-mono-mc2d2022-001163"
+  ],
+  "DySBr": [
+    "mst-mono-mc2d2022-001442"
+  ],
+  "DySI": [
+    "mst-mono-mc2d2022-002160"
+  ],
+  "DyTe3": [
+    "mst-mono-mc2d2022-001448"
+  ],
+  "Er2Br2": [
+    "mst-mono-mc2d2022-000457"
+  ],
+  "Er2Br6": [
+    "mst-mono-mc2d2022-002413"
+  ],
+  "Er2Cl6": [
+    "mst-mono-mc2d2022-002045"
+  ],
+  "Er2I6": [
+    "mst-mono-mc2d2022-000883"
+  ],
+  "Er2O2Br2": [
+    "mst-mono-mc2d2022-001275"
+  ],
+  "Er2O2Cl2": [
+    "mst-mono-mc2d2022-001014"
+  ],
+  "Er2O2I2": [
+    "mst-mono-mc2d2022-002696"
+  ],
+  "Er2P6O12": [
+    "mst-mono-mc2d2022-002499"
+  ],
+  "Er2P6O12H12": [
+    "mst-mono-mc2d2022-001265"
+  ],
+  "Er2S2Br2": [
+    "mst-mono-mc2d2022-002706"
+  ],
+  "Er2S2I2": [
+    "mst-mono-mc2d2022-000646"
+  ],
+  "Er2Sb2S4O2": [
+    "mst-mono-mc2d2022-000667"
+  ],
+  "Er2Se2Br2": [
+    "mst-mono-mc2d2022-000060"
+  ],
+  "Er2Se2F2": [
+    "mst-mono-mc2d2022-001208"
+  ],
+  "Er2Te5O13": [
+    "mst-mono-mc2d2022-000792"
+  ],
+  "Er4I5": [
+    "mst-mono-mc2d2022-000807"
+  ],
+  "ErCl3": [
+    "mst-mono-mc2d2022-001904"
+  ],
+  "ErHCl": [
+    "mst-mono-mc2d2022-001571"
+  ],
+  "ErO2H2Cl": [
+    "mst-mono-mc2d2022-000192"
+  ],
+  "ErSCl": [
+    "mst-mono-mc2d2022-002019"
+  ],
+  "ErSeI": [
+    "mst-mono-mc2d2022-000027"
+  ],
+  "ErTe3": [
+    "mst-mono-mc2d2022-002038"
+  ],
+  "Eu2Br6": [
+    "mst-mono-mc2d2022-001580"
+  ],
+  "Eu2H2I2": [
+    "mst-mono-mc2d2022-001178"
+  ],
+  "Eu2I2F2": [
+    "mst-mono-mc2d2022-002325"
+  ],
+  "Eu2O22I6": [
+    "mst-mono-mc2d2022-002176"
+  ],
+  "Eu2O2Br4": [
+    "mst-mono-mc2d2022-000387"
+  ],
+  "Eu2P6O14": [
+    "mst-mono-mc2d2022-001469"
+  ],
+  "Eu2Sb2S4O2": [
+    "mst-mono-mc2d2022-000623"
+  ],
+  "EuAl2Cl8": [
+    "mst-mono-mc2d2022-001067"
+  ],
+  "EuOBr": [
+    "mst-mono-mc2d2022-001387"
+  ],
+  "Fe(OH)2": [
+    "mst-mono-mc2d2022-000075"
+  ],
+  "Fe2Bi2S4Br2": [
+    "mst-mono-mc2d2022-000543"
+  ],
+  "Fe2C2P2O14H6": [
+    "mst-mono-mc2d2022-000147"
+  ],
+  "Fe2C2P2O8H6": [
+    "mst-mono-mc2d2022-001996"
+  ],
+  "Fe2C6O14H4": [
+    "mst-mono-mc2d2022-001108"
+  ],
+  "Fe2C8N16H8": [
+    "mst-mono-mc2d2022-002633"
+  ],
+  "Fe2Ga2S5": [
+    "mst-mono-mc2d2022-000611",
+    "mst-mono-mc2d2022-000627",
+    "mst-mono-mc2d2022-002284"
+  ],
+  "Fe2In2Se5": [
+    "mst-mono-mc2d2022-002111"
+  ],
+  "Fe2P2N2O10": [
+    "mst-mono-mc2d2022-000638"
+  ],
+  "Fe2Pb6F18": [
+    "mst-mono-mc2d2022-000091"
+  ],
+  "Fe2Sb4S8": [
+    "mst-mono-mc2d2022-001531"
+  ],
+  "Fe2Si2BiO9": [
+    "mst-mono-mc2d2022-001582"
+  ],
+  "Fe2Si2SbO9": [
+    "mst-mono-mc2d2022-001154"
+  ],
+  "Fe2Si4O12": [
+    "mst-mono-mc2d2022-002611"
+  ],
+  "Fe2TeSe": [
+    "mst-mono-mc2d2022-000517"
+  ],
+  "Fe3As2O16": [
+    "mst-mono-mc2d2022-001950"
+  ],
+  "Fe3P2O16H16": [
+    "mst-mono-mc2d2022-002552"
+  ],
+  "Fe3S2O14": [
+    "mst-mono-mc2d2022-001683"
+  ],
+  "Fe3S4": [
+    "mst-mono-mc2d2022-001307",
+    "mst-mono-mc2d2022-001414",
+    "mst-mono-mc2d2022-001707"
+  ],
+  "Fe3Sb5O9I3": [
+    "mst-mono-mc2d2022-001922"
+  ],
+  "Fe3Se4": [
+    "mst-mono-mc2d2022-000685"
+  ],
+  "Fe3Si4O12": [
+    "mst-mono-mc2d2022-000365"
+  ],
+  "Fe4Cu2S7": [
+    "mst-mono-mc2d2022-002410"
+  ],
+  "Fe4O6": [
+    "mst-mono-mc2d2022-001914"
+  ],
+  "Fe4Tl2S6": [
+    "mst-mono-mc2d2022-001150"
+  ],
+  "Fe6PbS4O28": [
+    "mst-mono-mc2d2022-001689"
+  ],
+  "FeAl2S4": [
+    "mst-mono-mc2d2022-001608",
+    "mst-mono-mc2d2022-002021"
+  ],
+  "FeAs": [
+    "mst-mono-mc2d2022-001655"
+  ],
+  "FeBr2": [
+    "mst-mono-mc2d2022-002000"
+  ],
+  "FeBr3": [
+    "mst-mono-mc2d2022-002104"
+  ],
+  "FeC10N2H8F3": [
+    "mst-mono-mc2d2022-000663"
+  ],
+  "FeC8O12H10": [
+    "mst-mono-mc2d2022-002025"
+  ],
+  "FeCPO4H5": [
+    "mst-mono-mc2d2022-001835"
+  ],
+  "FeCl2": [
+    "mst-mono-mc2d2022-001786"
+  ],
+  "FeCl3": [
+    "mst-mono-mc2d2022-000303"
+  ],
+  "FeCu2O8F6": [
+    "mst-mono-mc2d2022-001916"
+  ],
+  "FeCuC5N6O3": [
+    "mst-mono-mc2d2022-001306"
+  ],
+  "FeGa2S4": [
+    "mst-mono-mc2d2022-002093"
+  ],
+  "FeHgO2F5": [
+    "mst-mono-mc2d2022-000274"
+  ],
+  "FeI2": [
+    "mst-mono-mc2d2022-001543"
+  ],
+  "FeNS2O8": [
+    "mst-mono-mc2d2022-000374"
+  ],
+  "FeNiC14N8H12": [
+    "mst-mono-mc2d2022-000589"
+  ],
+  "FeNiC4N4O2": [
+    "mst-mono-mc2d2022-000104"
+  ],
+  "FeO2": [
+    "mst-mono-mc2d2022-000848",
+    "mst-mono-mc2d2022-000858"
+  ],
+  "FeO2H": [
+    "mst-mono-mc2d2022-001992"
+  ],
+  "FeOCl": [
+    "mst-mono-mc2d2022-002333"
+  ],
+  "FeP3O9H6": [
+    "mst-mono-mc2d2022-001600"
+  ],
+  "FePS3": [
+    "mst-mono-mc2d2022-001249"
+  ],
+  "FePSe3": [
+    "mst-mono-mc2d2022-001358"
+  ],
+  "FePd2Se2": [
+    "mst-mono-mc2d2022-000127"
+  ],
+  "FeS": [
+    "mst-mono-mc2d2022-000631"
+  ],
+  "FeSe": [
+    "mst-mono-mc2d2022-001399"
+  ],
+  "FeSe2": [
+    "mst-mono-mc2d2022-002206"
+  ],
+  "FeSn2C6N6": [
+    "mst-mono-mc2d2022-001386"
+  ],
+  "FeTe": [
+    "mst-mono-mc2d2022-002182"
+  ],
+  "FeTe2O6": [
+    "mst-mono-mc2d2022-001687"
+  ],
+  "FeTlSe2": [
+    "mst-mono-mc2d2022-001458"
+  ],
+  "Ga2B4P4O24": [
+    "mst-mono-mc2d2022-000569"
+  ],
+  "Ga2S3": [
+    "mst-mono-mc2d2022-000172"
+  ],
+  "Ga2Se2": [
+    "mst-mono-mc2d2022-001844"
+  ],
+  "Ga2Te2Br2": [
+    "mst-mono-mc2d2022-000602"
+  ],
+  "Ga3S2O14": [
+    "mst-mono-mc2d2022-000913"
+  ],
+  "Ga4O4Cl4": [
+    "mst-mono-mc2d2022-001213"
+  ],
+  "GaGeTe": [
+    "mst-mono-mc2d2022-000568"
+  ],
+  "GaN2H5F2": [
+    "mst-mono-mc2d2022-000660"
+  ],
+  "GaPS4": [
+    "mst-mono-mc2d2022-002152"
+  ],
+  "GaS": [
+    "mst-mono-mc2d2022-001643",
+    "mst-mono-mc2d2022-001653"
+  ],
+  "GaS2O8": [
+    "mst-mono-mc2d2022-001390"
+  ],
+  "GaSe": [
+    "mst-mono-mc2d2022-001560",
+    "mst-mono-mc2d2022-001822"
+  ],
+  "GaSe2O8": [
+    "mst-mono-mc2d2022-001384"
+  ],
+  "GaSeO4H": [
+    "mst-mono-mc2d2022-000397"
+  ],
+  "GaTe": [
+    "mst-mono-mc2d2022-000297",
+    "mst-mono-mc2d2022-000525"
+  ],
+  "GaTeCl": [
+    "mst-mono-mc2d2022-001426"
+  ],
+  "Gd": [
+    "mst-mono-mc2d2022-000105"
+  ],
+  "Gd2Bi2S4O2": [
+    "mst-mono-mc2d2022-001483"
+  ],
+  "Gd2Br2": [
+    "mst-mono-mc2d2022-001244"
+  ],
+  "Gd2Br6": [
+    "mst-mono-mc2d2022-000300",
+    "mst-mono-mc2d2022-002011"
+  ],
+  "Gd2C2Br2": [
+    "mst-mono-mc2d2022-002632"
+  ],
+  "Gd2C4S2O16H14": [
+    "mst-mono-mc2d2022-000909"
+  ],
+  "Gd2CCl2": [
+    "mst-mono-mc2d2022-002545"
+  ],
+  "Gd2Cl2": [
+    "mst-mono-mc2d2022-002421"
+  ],
+  "Gd2Cl6": [
+    "mst-mono-mc2d2022-001248"
+  ],
+  "Gd2Ga2I2": [
+    "mst-mono-mc2d2022-001517"
+  ],
+  "Gd2GeBr2": [
+    "mst-mono-mc2d2022-000038"
+  ],
+  "Gd2GeI2": [
+    "mst-mono-mc2d2022-000957"
+  ],
+  "Gd2I2": [
+    "mst-mono-mc2d2022-000538"
+  ],
+  "Gd2I6": [
+    "mst-mono-mc2d2022-001888",
+    "mst-mono-mc2d2022-002323"
+  ],
+  "Gd2N2O10": [
+    "mst-mono-mc2d2022-002066"
+  ],
+  "Gd2N2O10H4": [
+    "mst-mono-mc2d2022-002260"
+  ],
+  "Gd2O22I6": [
+    "mst-mono-mc2d2022-001117"
+  ],
+  "Gd2O2Br2": [
+    "mst-mono-mc2d2022-000371"
+  ],
+  "Gd2O4Br2": [
+    "mst-mono-mc2d2022-001545"
+  ],
+  "Gd2S2I2": [
+    "mst-mono-mc2d2022-001130",
+    "mst-mono-mc2d2022-001473"
+  ],
+  "Gd2Sb2S4O2": [
+    "mst-mono-mc2d2022-001933"
+  ],
+  "Gd2Se2I2": [
+    "mst-mono-mc2d2022-000598"
+  ],
+  "Gd2Te6": [
+    "mst-mono-mc2d2022-002313"
+  ],
+  "GdI2": [
+    "mst-mono-mc2d2022-001912"
+  ],
+  "Ge2Te2": [
+    "mst-mono-mc2d2022-002366"
+  ],
+  "Ge3Bi2O9": [
+    "mst-mono-mc2d2022-000942"
+  ],
+  "Ge3F8": [
+    "mst-mono-mc2d2022-001006"
+  ],
+  "Ge3Sb2O9": [
+    "mst-mono-mc2d2022-000736"
+  ],
+  "GeAs": [
+    "mst-mono-mc2d2022-002234"
+  ],
+  "GeAs2": [
+    "mst-mono-mc2d2022-002089"
+  ],
+  "GeAsSe": [
+    "mst-mono-mc2d2022-000080"
+  ],
+  "GeBi2Te4": [
+    "mst-mono-mc2d2022-001012",
+    "mst-mono-mc2d2022-002226"
+  ],
+  "GeBr2": [
+    "mst-mono-mc2d2022-001977"
+  ],
+  "GeI2": [
+    "mst-mono-mc2d2022-000156",
+    "mst-mono-mc2d2022-002596"
+  ],
+  "GeP": [
+    "mst-mono-mc2d2022-001997"
+  ],
+  "GeP3": [
+    "mst-mono-mc2d2022-000816"
+  ],
+  "GePb2S4": [
+    "mst-mono-mc2d2022-001452"
+  ],
+  "GePbS3": [
+    "mst-mono-mc2d2022-002008"
+  ],
+  "GePbS6O21": [
+    "mst-mono-mc2d2022-000473"
+  ],
+  "GeS": [
+    "mst-mono-mc2d2022-000293"
+  ],
+  "GeS2": [
+    "mst-mono-mc2d2022-000495"
+  ],
+  "GeSb2Te4": [
+    "mst-mono-mc2d2022-002195"
+  ],
+  "GeSe": [
+    "mst-mono-mc2d2022-000465"
+  ],
+  "GeTe": [
+    "mst-mono-mc2d2022-002622"
+  ],
+  "Hf2Br2": [
+    "mst-mono-mc2d2022-001115"
+  ],
+  "Hf2Cl2": [
+    "mst-mono-mc2d2022-002092"
+  ],
+  "Hf2Te10": [
+    "mst-mono-mc2d2022-002700"
+  ],
+  "Hf2Tl4S6": [
+    "mst-mono-mc2d2022-001759"
+  ],
+  "Hf2Tl4Se6": [
+    "mst-mono-mc2d2022-000378"
+  ],
+  "Hf3Cu2Tl2Se8": [
+    "mst-mono-mc2d2022-002198"
+  ],
+  "Hf3Te2": [
+    "mst-mono-mc2d2022-000452"
+  ],
+  "Hf4N4F16": [
+    "mst-mono-mc2d2022-002507"
+  ],
+  "Hf6N2F26": [
+    "mst-mono-mc2d2022-000102"
+  ],
+  "HfCuTlS3": [
+    "mst-mono-mc2d2022-002371"
+  ],
+  "HfCuTlSe3": [
+    "mst-mono-mc2d2022-002332"
+  ],
+  "HfFeCl6": [
+    "mst-mono-mc2d2022-002296"
+  ],
+  "HfGeTe": [
+    "mst-mono-mc2d2022-001747"
+  ],
+  "HfGeTe4": [
+    "mst-mono-mc2d2022-001277"
+  ],
+  "HfMo2O8": [
+    "mst-mono-mc2d2022-001016"
+  ],
+  "HfNBr": [
+    "mst-mono-mc2d2022-001102",
+    "mst-mono-mc2d2022-001967"
+  ],
+  "HfNCl": [
+    "mst-mono-mc2d2022-001526"
+  ],
+  "HfNI": [
+    "mst-mono-mc2d2022-000394"
+  ],
+  "HfS2": [
+    "mst-mono-mc2d2022-000648"
+  ],
+  "HfS3": [
+    "mst-mono-mc2d2022-001121"
+  ],
+  "HfSe2": [
+    "mst-mono-mc2d2022-000775"
+  ],
+  "HfSe3": [
+    "mst-mono-mc2d2022-001714"
+  ],
+  "HfSiSe": [
+    "mst-mono-mc2d2022-002081"
+  ],
+  "HfSiTe": [
+    "mst-mono-mc2d2022-000707"
+  ],
+  "HfTe2": [
+    "mst-mono-mc2d2022-000076"
+  ],
+  "HfTe3": [
+    "mst-mono-mc2d2022-000252"
+  ],
+  "HfTl2PbS4": [
+    "mst-mono-mc2d2022-000969"
+  ],
+  "Hg2C2S2O6F6": [
+    "mst-mono-mc2d2022-000533"
+  ],
+  "Hg2C4N4O4": [
+    "mst-mono-mc2d2022-000191"
+  ],
+  "Hg2C8N6H10Cl4": [
+    "mst-mono-mc2d2022-002610"
+  ],
+  "Hg2GeO4": [
+    "mst-mono-mc2d2022-000954"
+  ],
+  "Hg2N2Cl2": [
+    "mst-mono-mc2d2022-000074"
+  ],
+  "Hg2N2S2O6Cl2": [
+    "mst-mono-mc2d2022-000698"
+  ],
+  "Hg2O": [
+    "mst-mono-mc2d2022-000110",
+    "mst-mono-mc2d2022-001906"
+  ],
+  "Hg2O8Cl2": [
+    "mst-mono-mc2d2022-001320"
+  ],
+  "Hg2OCl": [
+    "mst-mono-mc2d2022-000894"
+  ],
+  "Hg2OI": [
+    "mst-mono-mc2d2022-002020"
+  ],
+  "Hg2PO3F": [
+    "mst-mono-mc2d2022-000372"
+  ],
+  "Hg2Pb4O4Br6": [
+    "mst-mono-mc2d2022-001648"
+  ],
+  "Hg2S2O10": [
+    "mst-mono-mc2d2022-001073"
+  ],
+  "Hg2SO4": [
+    "mst-mono-mc2d2022-002272"
+  ],
+  "Hg2Sb2F14": [
+    "mst-mono-mc2d2022-001954"
+  ],
+  "Hg2SeO3": [
+    "mst-mono-mc2d2022-000319"
+  ],
+  "Hg2SeO4": [
+    "mst-mono-mc2d2022-001618"
+  ],
+  "Hg2TeBr3": [
+    "mst-mono-mc2d2022-001396",
+    "mst-mono-mc2d2022-001440"
+  ],
+  "Hg3AsO5": [
+    "mst-mono-mc2d2022-001052"
+  ],
+  "Hg3AsS4Br": [
+    "mst-mono-mc2d2022-002159"
+  ],
+  "Hg3AsS4Cl": [
+    "mst-mono-mc2d2022-000298"
+  ],
+  "Hg3AsSe4Br": [
+    "mst-mono-mc2d2022-002026"
+  ],
+  "Hg3AsSe4I": [
+    "mst-mono-mc2d2022-000426"
+  ],
+  "Hg3B2O6": [
+    "mst-mono-mc2d2022-000033"
+  ],
+  "Hg3Br2": [
+    "mst-mono-mc2d2022-001917"
+  ],
+  "Hg3Ge2Se8": [
+    "mst-mono-mc2d2022-002412"
+  ],
+  "Hg3N2": [
+    "mst-mono-mc2d2022-001337"
+  ],
+  "Hg3NO4H": [
+    "mst-mono-mc2d2022-001326"
+  ],
+  "Hg3S2": [
+    "mst-mono-mc2d2022-002220"
+  ],
+  "Hg3S2O10H2": [
+    "mst-mono-mc2d2022-002380"
+  ],
+  "Hg3SO6": [
+    "mst-mono-mc2d2022-002367"
+  ],
+  "Hg3SbAsS3": [
+    "mst-mono-mc2d2022-001075"
+  ],
+  "Hg3Se4O5": [
+    "mst-mono-mc2d2022-002715"
+  ],
+  "Hg3SeO6": [
+    "mst-mono-mc2d2022-000159"
+  ],
+  "Hg3Te2": [
+    "mst-mono-mc2d2022-001788"
+  ],
+  "Hg3TeBr4": [
+    "mst-mono-mc2d2022-000119"
+  ],
+  "Hg3Tl2S4": [
+    "mst-mono-mc2d2022-001351"
+  ],
+  "Hg3Tl2Se4": [
+    "mst-mono-mc2d2022-002542"
+  ],
+  "Hg4C4N20H8Cl4": [
+    "mst-mono-mc2d2022-001865"
+  ],
+  "Hg4C4N8": [
+    "mst-mono-mc2d2022-000392"
+  ],
+  "Hg4N4S4": [
+    "mst-mono-mc2d2022-000329"
+  ],
+  "Hg4O16Br4": [
+    "mst-mono-mc2d2022-002311"
+  ],
+  "Hg4P4O16": [
+    "mst-mono-mc2d2022-002728"
+  ],
+  "Hg4Te4O12F4": [
+    "mst-mono-mc2d2022-001554"
+  ],
+  "Hg5Cl10": [
+    "mst-mono-mc2d2022-001934"
+  ],
+  "Hg5O2": [
+    "mst-mono-mc2d2022-001398"
+  ],
+  "Hg6Te4Se2O20": [
+    "mst-mono-mc2d2022-001665"
+  ],
+  "Hg8C4N8Cl8": [
+    "mst-mono-mc2d2022-000272"
+  ],
+  "HgB2C8N8": [
+    "mst-mono-mc2d2022-002404"
+  ],
+  "HgBr2": [
+    "mst-mono-mc2d2022-000912"
+  ],
+  "HgC2N2S2": [
+    "mst-mono-mc2d2022-001128"
+  ],
+  "HgC2N4H4Cl2": [
+    "mst-mono-mc2d2022-000205"
+  ],
+  "HgC4N2H4Br2": [
+    "mst-mono-mc2d2022-001228"
+  ],
+  "HgC4N2H4Cl2": [
+    "mst-mono-mc2d2022-001820"
+  ],
+  "HgC4S2H10": [
+    "mst-mono-mc2d2022-000398"
+  ],
+  "HgCNSCl": [
+    "mst-mono-mc2d2022-002134"
+  ],
+  "HgGaCl4": [
+    "mst-mono-mc2d2022-000838"
+  ],
+  "HgI2": [
+    "mst-mono-mc2d2022-002614",
+    "mst-mono-mc2d2022-002623"
+  ],
+  "HgNH2Cl": [
+    "mst-mono-mc2d2022-001422"
+  ],
+  "HgNO2": [
+    "mst-mono-mc2d2022-002613"
+  ],
+  "HgNO3": [
+    "mst-mono-mc2d2022-001932"
+  ],
+  "HgNO3I": [
+    "mst-mono-mc2d2022-001236"
+  ],
+  "HgO": [
+    "mst-mono-mc2d2022-000711",
+    "mst-mono-mc2d2022-002464"
+  ],
+  "HgO3Br": [
+    "mst-mono-mc2d2022-001642"
+  ],
+  "HgO4HCl": [
+    "mst-mono-mc2d2022-001415"
+  ],
+  "HgPS3": [
+    "mst-mono-mc2d2022-000265"
+  ],
+  "HgPSe3": [
+    "mst-mono-mc2d2022-002535"
+  ],
+  "HgSeO3": [
+    "mst-mono-mc2d2022-000815"
+  ],
+  "HgSeO5H2": [
+    "mst-mono-mc2d2022-002663"
+  ],
+  "Ho2Br2": [
+    "mst-mono-mc2d2022-002395"
+  ],
+  "Ho2Br6": [
+    "mst-mono-mc2d2022-001333",
+    "mst-mono-mc2d2022-002240"
+  ],
+  "Ho2Cl6": [
+    "mst-mono-mc2d2022-001305",
+    "mst-mono-mc2d2022-002116"
+  ],
+  "Ho2I6": [
+    "mst-mono-mc2d2022-001693"
+  ],
+  "Ho2O2Br2": [
+    "mst-mono-mc2d2022-001745"
+  ],
+  "Ho2O2Cl2": [
+    "mst-mono-mc2d2022-001864"
+  ],
+  "Ho2S2Br2": [
+    "mst-mono-mc2d2022-001726"
+  ],
+  "Ho2Sb2S4O2": [
+    "mst-mono-mc2d2022-000922"
+  ],
+  "Ho2Se2F2": [
+    "mst-mono-mc2d2022-002146"
+  ],
+  "Ho2Se2I2": [
+    "mst-mono-mc2d2022-000226"
+  ],
+  "Ho2Te5": [
+    "mst-mono-mc2d2022-001672"
+  ],
+  "Ho2Te5O13": [
+    "mst-mono-mc2d2022-000958"
+  ],
+  "HoO2H2Cl": [
+    "mst-mono-mc2d2022-001691"
+  ],
+  "HoTe3": [
+    "mst-mono-mc2d2022-000768"
+  ],
+  "In": [
+    "mst-mono-mc2d2022-000233",
+    "mst-mono-mc2d2022-001542"
+  ],
+  "In2As2O5Cl2": [
+    "mst-mono-mc2d2022-002319"
+  ],
+  "In2Cl6": [
+    "mst-mono-mc2d2022-001279"
+  ],
+  "In2GaBiS6": [
+    "mst-mono-mc2d2022-001750"
+  ],
+  "In2Se": [
+    "mst-mono-mc2d2022-001619"
+  ],
+  "In2Se2O8H4": [
+    "mst-mono-mc2d2022-002067"
+  ],
+  "In2Se3": [
+    "mst-mono-mc2d2022-002721"
+  ],
+  "In2Te3": [
+    "mst-mono-mc2d2022-000510"
+  ],
+  "In3Se4": [
+    "mst-mono-mc2d2022-001756"
+  ],
+  "In3Te4": [
+    "mst-mono-mc2d2022-000536"
+  ],
+  "In4Bi2S9": [
+    "mst-mono-mc2d2022-000096"
+  ],
+  "In4Te4O12Br4": [
+    "mst-mono-mc2d2022-001321"
+  ],
+  "InBi": [
+    "mst-mono-mc2d2022-000112"
+  ],
+  "InBi2Se4Br": [
+    "mst-mono-mc2d2022-000458"
+  ],
+  "InBr3": [
+    "mst-mono-mc2d2022-000742"
+  ],
+  "InCSeO6H2": [
+    "mst-mono-mc2d2022-001528"
+  ],
+  "InCSeO7H4": [
+    "mst-mono-mc2d2022-001071"
+  ],
+  "InGaS3": [
+    "mst-mono-mc2d2022-002231"
+  ],
+  "InN2H5F2": [
+    "mst-mono-mc2d2022-000198"
+  ],
+  "InO9I3": [
+    "mst-mono-mc2d2022-000776"
+  ],
+  "InOBr": [
+    "mst-mono-mc2d2022-000831"
+  ],
+  "InP2S7": [
+    "mst-mono-mc2d2022-001296"
+  ],
+  "InP3": [
+    "mst-mono-mc2d2022-000135"
+  ],
+  "InS2O8": [
+    "mst-mono-mc2d2022-002194"
+  ],
+  "InSb2S4Br": [
+    "mst-mono-mc2d2022-000620"
+  ],
+  "InSb2S4Cl": [
+    "mst-mono-mc2d2022-000487"
+  ],
+  "InSb2Se4Br": [
+    "mst-mono-mc2d2022-001662"
+  ],
+  "InSe": [
+    "mst-mono-mc2d2022-001145",
+    "mst-mono-mc2d2022-001176",
+    "mst-mono-mc2d2022-002118"
+  ],
+  "InSe2": [
+    "mst-mono-mc2d2022-002217"
+  ],
+  "InSiTe3": [
+    "mst-mono-mc2d2022-000379"
+  ],
+  "InTeBr": [
+    "mst-mono-mc2d2022-000453"
+  ],
+  "InTeCl": [
+    "mst-mono-mc2d2022-000754"
+  ],
+  "InTeI": [
+    "mst-mono-mc2d2022-001078"
+  ],
+  "InTeO3Cl": [
+    "mst-mono-mc2d2022-002239"
+  ],
+  "Ir2As2": [
+    "mst-mono-mc2d2022-000511"
+  ],
+  "Ir2I6": [
+    "mst-mono-mc2d2022-001062"
+  ],
+  "Ir2P2": [
+    "mst-mono-mc2d2022-000327"
+  ],
+  "IrBr3": [
+    "mst-mono-mc2d2022-001885"
+  ],
+  "IrCl3": [
+    "mst-mono-mc2d2022-001527"
+  ],
+  "IrN4Cl6": [
+    "mst-mono-mc2d2022-000310"
+  ],
+  "IrTe2": [
+    "mst-mono-mc2d2022-000139",
+    "mst-mono-mc2d2022-002598",
+    "mst-mono-mc2d2022-002655"
+  ],
+  "K": [
+    "mst-mono-mc2d2022-000497",
+    "mst-mono-mc2d2022-001939"
+  ],
+  "K2Ag2GeS4": [
+    "mst-mono-mc2d2022-000461"
+  ],
+  "K2Ag2GeSe4": [
+    "mst-mono-mc2d2022-000738"
+  ],
+  "K2Ag2Te2": [
+    "mst-mono-mc2d2022-001480"
+  ],
+  "K2Ag2Te2S6": [
+    "mst-mono-mc2d2022-000266"
+  ],
+  "K2Al2C2O10": [
+    "mst-mono-mc2d2022-000132"
+  ],
+  "K2As2O4F8": [
+    "mst-mono-mc2d2022-000603"
+  ],
+  "K2B2C18N6H6F4": [
+    "mst-mono-mc2d2022-000833"
+  ],
+  "K2B2N4H12": [
+    "mst-mono-mc2d2022-001455"
+  ],
+  "K2C12Sb2Br10": [
+    "mst-mono-mc2d2022-002581"
+  ],
+  "K2C6N8O10H2": [
+    "mst-mono-mc2d2022-000915"
+  ],
+  "K2C8O4F4": [
+    "mst-mono-mc2d2022-000759"
+  ],
+  "K2C8S2O6F18": [
+    "mst-mono-mc2d2022-002468"
+  ],
+  "K2CaS2O9H2": [
+    "mst-mono-mc2d2022-002559"
+  ],
+  "K2Cd2As2": [
+    "mst-mono-mc2d2022-002662"
+  ],
+  "K2CdN12": [
+    "mst-mono-mc2d2022-002268"
+  ],
+  "K2CoC4N4S4O3": [
+    "mst-mono-mc2d2022-001029"
+  ],
+  "K2CoS2": [
+    "mst-mono-mc2d2022-000032"
+  ],
+  "K2CoSe2": [
+    "mst-mono-mc2d2022-002675"
+  ],
+  "K2Cr2CdO10H4": [
+    "mst-mono-mc2d2022-001407"
+  ],
+  "K2Cr6Bi2O24": [
+    "mst-mono-mc2d2022-000251"
+  ],
+  "K2Cu3Se4O12": [
+    "mst-mono-mc2d2022-001944"
+  ],
+  "K2Cu5Te5": [
+    "mst-mono-mc2d2022-001064"
+  ],
+  "K2CuP2O7": [
+    "mst-mono-mc2d2022-002644"
+  ],
+  "K2CuSO4Cl2": [
+    "mst-mono-mc2d2022-000933"
+  ],
+  "K2Dy2I6": [
+    "mst-mono-mc2d2022-000355"
+  ],
+  "K2Fe2P2N2O14": [
+    "mst-mono-mc2d2022-002725"
+  ],
+  "K2Fe4S6": [
+    "mst-mono-mc2d2022-001578"
+  ],
+  "K2Fe4Se6": [
+    "mst-mono-mc2d2022-000690"
+  ],
+  "K2FeC4O4": [
+    "mst-mono-mc2d2022-002617"
+  ],
+  "K2FeP2O7": [
+    "mst-mono-mc2d2022-001782"
+  ],
+  "K2Ga2H4": [
+    "mst-mono-mc2d2022-002274"
+  ],
+  "K2Ge6As6": [
+    "mst-mono-mc2d2022-002087"
+  ],
+  "K2GeAs2": [
+    "mst-mono-mc2d2022-000745"
+  ],
+  "K2GeP2O8H2F2": [
+    "mst-mono-mc2d2022-001245"
+  ],
+  "K2GeSe3": [
+    "mst-mono-mc2d2022-000612"
+  ],
+  "K2GeSe4": [
+    "mst-mono-mc2d2022-001565"
+  ],
+  "K2GeTe4": [
+    "mst-mono-mc2d2022-000471"
+  ],
+  "K2Hg4S2O6Cl6": [
+    "mst-mono-mc2d2022-000249"
+  ],
+  "K2HgS2": [
+    "mst-mono-mc2d2022-000779",
+    "mst-mono-mc2d2022-000850"
+  ],
+  "K2Ir2N2O4Br10": [
+    "mst-mono-mc2d2022-001319"
+  ],
+  "K2Ir2N2O4Cl10": [
+    "mst-mono-mc2d2022-000218"
+  ],
+  "K2IrCOBr5": [
+    "mst-mono-mc2d2022-000273"
+  ],
+  "K2IrNH3Cl5": [
+    "mst-mono-mc2d2022-001175"
+  ],
+  "K2La2Si2Se8": [
+    "mst-mono-mc2d2022-001380"
+  ],
+  "K2Mg5Sn3": [
+    "mst-mono-mc2d2022-001497"
+  ],
+  "K2MgCr2O10H4": [
+    "mst-mono-mc2d2022-000686"
+  ],
+  "K2MgH4": [
+    "mst-mono-mc2d2022-002029"
+  ],
+  "K2Mn2O4Cl6": [
+    "mst-mono-mc2d2022-000629"
+  ],
+  "K2MnS2": [
+    "mst-mono-mc2d2022-001730"
+  ],
+  "K2MnSe2": [
+    "mst-mono-mc2d2022-001464"
+  ],
+  "K2Mo2Cu2O10": [
+    "mst-mono-mc2d2022-001077"
+  ],
+  "K2Mo3O10": [
+    "mst-mono-mc2d2022-002385"
+  ],
+  "K2Mo4O13": [
+    "mst-mono-mc2d2022-001453"
+  ],
+  "K2Mo6P4O28": [
+    "mst-mono-mc2d2022-001096"
+  ],
+  "K2Na2Os2N2O4F10": [
+    "mst-mono-mc2d2022-001742"
+  ],
+  "K2NaGaAs2": [
+    "mst-mono-mc2d2022-002117"
+  ],
+  "K2NaInAs2": [
+    "mst-mono-mc2d2022-001520"
+  ],
+  "K2Nb3Br9": [
+    "mst-mono-mc2d2022-000552"
+  ],
+  "K2Nb3Cl9": [
+    "mst-mono-mc2d2022-001668"
+  ],
+  "K2NbAgS4": [
+    "mst-mono-mc2d2022-001849"
+  ],
+  "K2NbCuS4": [
+    "mst-mono-mc2d2022-001033"
+  ],
+  "K2NbCuSe4": [
+    "mst-mono-mc2d2022-002541"
+  ],
+  "K2NiAs2": [
+    "mst-mono-mc2d2022-000905"
+  ],
+  "K2O2I2Cl4": [
+    "mst-mono-mc2d2022-002509"
+  ],
+  "K2OHBr": [
+    "mst-mono-mc2d2022-001761"
+  ],
+  "K2P2O5F2": [
+    "mst-mono-mc2d2022-001401",
+    "mst-mono-mc2d2022-002127"
+  ],
+  "K2P30": [
+    "mst-mono-mc2d2022-001116"
+  ],
+  "K2Pb2O2Br6": [
+    "mst-mono-mc2d2022-002121"
+  ],
+  "K2PdAs2": [
+    "mst-mono-mc2d2022-001413"
+  ],
+  "K2PdC4N4S4": [
+    "mst-mono-mc2d2022-001680"
+  ],
+  "K2PdF4": [
+    "mst-mono-mc2d2022-000809"
+  ],
+  "K2PdN4O10H4": [
+    "mst-mono-mc2d2022-001855"
+  ],
+  "K2PdP2": [
+    "mst-mono-mc2d2022-000503"
+  ],
+  "K2PdS2": [
+    "mst-mono-mc2d2022-001968"
+  ],
+  "K2PdSe2": [
+    "mst-mono-mc2d2022-001508"
+  ],
+  "K2Pt2N2Br6": [
+    "mst-mono-mc2d2022-002379"
+  ],
+  "K2Pt2N2Cl6": [
+    "mst-mono-mc2d2022-002315"
+  ],
+  "K2PtC4N4Br2": [
+    "mst-mono-mc2d2022-000808"
+  ],
+  "K2PtC4N4Cl2": [
+    "mst-mono-mc2d2022-000245"
+  ],
+  "K2PtC4N4I2": [
+    "mst-mono-mc2d2022-000344"
+  ],
+  "K2PtC4N4S4": [
+    "mst-mono-mc2d2022-001602"
+  ],
+  "K2PtN3O6Cl3": [
+    "mst-mono-mc2d2022-002400"
+  ],
+  "K2PtS2": [
+    "mst-mono-mc2d2022-001734"
+  ],
+  "K2PtSe2": [
+    "mst-mono-mc2d2022-002145"
+  ],
+  "K2PtTe2": [
+    "mst-mono-mc2d2022-000518"
+  ],
+  "K2RuNOCl5": [
+    "mst-mono-mc2d2022-000784"
+  ],
+  "K2S2O5": [
+    "mst-mono-mc2d2022-001356"
+  ],
+  "K2S2O7": [
+    "mst-mono-mc2d2022-001170"
+  ],
+  "K2SeO10H2I2": [
+    "mst-mono-mc2d2022-000496"
+  ],
+  "K2Si6As6": [
+    "mst-mono-mc2d2022-002496"
+  ],
+  "K2SiAs2": [
+    "mst-mono-mc2d2022-001419"
+  ],
+  "K2SiP2": [
+    "mst-mono-mc2d2022-000085"
+  ],
+  "K2SmP2S7": [
+    "mst-mono-mc2d2022-000846"
+  ],
+  "K2SnAs2S6": [
+    "mst-mono-mc2d2022-000145"
+  ],
+  "K2Sr2I6": [
+    "mst-mono-mc2d2022-000692"
+  ],
+  "K2Ta3Cl9": [
+    "mst-mono-mc2d2022-000225"
+  ],
+  "K2TaCuSe4": [
+    "mst-mono-mc2d2022-002436"
+  ],
+  "K2TeO12I2": [
+    "mst-mono-mc2d2022-000797"
+  ],
+  "K2TiHF7": [
+    "mst-mono-mc2d2022-001495"
+  ],
+  "K2VAgSe4": [
+    "mst-mono-mc2d2022-001604"
+  ],
+  "K2VP2O8": [
+    "mst-mono-mc2d2022-001044"
+  ],
+  "K2WSe4": [
+    "mst-mono-mc2d2022-000337"
+  ],
+  "K2Yb2I6": [
+    "mst-mono-mc2d2022-001962"
+  ],
+  "K2ZrTe3": [
+    "mst-mono-mc2d2022-001843"
+  ],
+  "K3AuSn4": [
+    "mst-mono-mc2d2022-000868"
+  ],
+  "K3BS3": [
+    "mst-mono-mc2d2022-000004"
+  ],
+  "K3GeTe3": [
+    "mst-mono-mc2d2022-001980"
+  ],
+  "K3In2As3": [
+    "mst-mono-mc2d2022-000616"
+  ],
+  "K3InP2": [
+    "mst-mono-mc2d2022-001990"
+  ],
+  "K3Mo2Br9": [
+    "mst-mono-mc2d2022-001409"
+  ],
+  "K3Mo2Cl9": [
+    "mst-mono-mc2d2022-002110"
+  ],
+  "K3Na2SnAs3": [
+    "mst-mono-mc2d2022-000250"
+  ],
+  "K3Nb2Cu3S8": [
+    "mst-mono-mc2d2022-002079"
+  ],
+  "K3PdS2O6HCl2": [
+    "mst-mono-mc2d2022-001792"
+  ],
+  "K3RhC4O12H8Cl2": [
+    "mst-mono-mc2d2022-001152"
+  ],
+  "K3RuP5Se10": [
+    "mst-mono-mc2d2022-002547"
+  ],
+  "K3Sb2N2O6F7": [
+    "mst-mono-mc2d2022-001510"
+  ],
+  "K3Ta2Ag3Se8": [
+    "mst-mono-mc2d2022-001715"
+  ],
+  "K3Ta2Cu3S8": [
+    "mst-mono-mc2d2022-001651"
+  ],
+  "K3Ta2Cu3Se8": [
+    "mst-mono-mc2d2022-000874"
+  ],
+  "K3Ti2Br9": [
+    "mst-mono-mc2d2022-002031"
+  ],
+  "K3V5O14": [
+    "mst-mono-mc2d2022-001381"
+  ],
+  "K4BaV2S8": [
+    "mst-mono-mc2d2022-000285"
+  ],
+  "K4C4S4O16H12": [
+    "mst-mono-mc2d2022-002162"
+  ],
+  "K4Ca2S4O18": [
+    "mst-mono-mc2d2022-001219"
+  ],
+  "K4Cd4Ge4As8": [
+    "mst-mono-mc2d2022-000896"
+  ],
+  "K4CdAs2": [
+    "mst-mono-mc2d2022-000200"
+  ],
+  "K4CdP2": [
+    "mst-mono-mc2d2022-002150"
+  ],
+  "K4Ce4P8S24": [
+    "mst-mono-mc2d2022-001257"
+  ],
+  "K4Cu2Sb2S6": [
+    "mst-mono-mc2d2022-000352"
+  ],
+  "K4Cu4O4": [
+    "mst-mono-mc2d2022-001488"
+  ],
+  "K4EuP2S8": [
+    "mst-mono-mc2d2022-000783"
+  ],
+  "K4Ge4S10": [
+    "mst-mono-mc2d2022-000160"
+  ],
+  "K4Hg2Cl8": [
+    "mst-mono-mc2d2022-001951"
+  ],
+  "K4Hg6S8": [
+    "mst-mono-mc2d2022-002697"
+  ],
+  "K4HgAs2": [
+    "mst-mono-mc2d2022-001273"
+  ],
+  "K4In4P8Se24": [
+    "mst-mono-mc2d2022-002101"
+  ],
+  "K4La4P8S24": [
+    "mst-mono-mc2d2022-001352"
+  ],
+  "K4Mo2O4F8": [
+    "mst-mono-mc2d2022-001367"
+  ],
+  "K4N4S4O12": [
+    "mst-mono-mc2d2022-002490"
+  ],
+  "K4Nb2O4F10": [
+    "mst-mono-mc2d2022-002642"
+  ],
+  "K4O8Cl4": [
+    "mst-mono-mc2d2022-002513"
+  ],
+  "K4P4O13H2": [
+    "mst-mono-mc2d2022-000432"
+  ],
+  "K4PdP2S8": [
+    "mst-mono-mc2d2022-000291"
+  ],
+  "K4Pr4P8S24": [
+    "mst-mono-mc2d2022-001118"
+  ],
+  "K4Ru2N2O4F10": [
+    "mst-mono-mc2d2022-000399"
+  ],
+  "K4S10": [
+    "mst-mono-mc2d2022-001650"
+  ],
+  "K4Tc2N2O4F10": [
+    "mst-mono-mc2d2022-000926"
+  ],
+  "K4V6O16": [
+    "mst-mono-mc2d2022-001959"
+  ],
+  "K4VC7N7": [
+    "mst-mono-mc2d2022-002114"
+  ],
+  "K4ZnAs2": [
+    "mst-mono-mc2d2022-000610"
+  ],
+  "K4Zr6CBr18": [
+    "mst-mono-mc2d2022-001420"
+  ],
+  "K5Ag2As3Se9": [
+    "mst-mono-mc2d2022-001313"
+  ],
+  "K5Tl3O": [
+    "mst-mono-mc2d2022-002664"
+  ],
+  "K6In11": [
+    "mst-mono-mc2d2022-002243"
+  ],
+  "K6Tl11": [
+    "mst-mono-mc2d2022-001678"
+  ],
+  "K8Fe2": [
+    "mst-mono-mc2d2022-001397"
+  ],
+  "K8ZnTl10": [
+    "mst-mono-mc2d2022-002588"
+  ],
+  "KAg3Se2": [
+    "mst-mono-mc2d2022-001617"
+  ],
+  "KAg3Te2": [
+    "mst-mono-mc2d2022-001725"
+  ],
+  "KAgSe": [
+    "mst-mono-mc2d2022-001471"
+  ],
+  "KAl2Br7": [
+    "mst-mono-mc2d2022-002244"
+  ],
+  "KAlP4O14H4": [
+    "mst-mono-mc2d2022-000030"
+  ],
+  "KAlTe2": [
+    "mst-mono-mc2d2022-000109"
+  ],
+  "KAs2F7": [
+    "mst-mono-mc2d2022-002057"
+  ],
+  "KAsO2": [
+    "mst-mono-mc2d2022-001579"
+  ],
+  "KAsOF4": [
+    "mst-mono-mc2d2022-000802"
+  ],
+  "KAuO2Br4": [
+    "mst-mono-mc2d2022-001929"
+  ],
+  "KAuPSe3": [
+    "mst-mono-mc2d2022-002408"
+  ],
+  "KAuS": [
+    "mst-mono-mc2d2022-002343"
+  ],
+  "KAuS5": [
+    "mst-mono-mc2d2022-001385"
+  ],
+  "KAuSe": [
+    "mst-mono-mc2d2022-002525"
+  ],
+  "KAuSe5": [
+    "mst-mono-mc2d2022-001412"
+  ],
+  "KB5O8": [
+    "mst-mono-mc2d2022-000968"
+  ],
+  "KBC4O8": [
+    "mst-mono-mc2d2022-002181"
+  ],
+  "KBCF6": [
+    "mst-mono-mc2d2022-001260"
+  ],
+  "KBaSbSe3": [
+    "mst-mono-mc2d2022-001629"
+  ],
+  "KBeN3H6": [
+    "mst-mono-mc2d2022-002215"
+  ],
+  "KBiP2Se6": [
+    "mst-mono-mc2d2022-001312"
+  ],
+  "KC10S4O8H2": [
+    "mst-mono-mc2d2022-000117"
+  ],
+  "KC2N3": [
+    "mst-mono-mc2d2022-002427",
+    "mst-mono-mc2d2022-002470"
+  ],
+  "KC2N8O2H3": [
+    "mst-mono-mc2d2022-002012"
+  ],
+  "KC2O3H3": [
+    "mst-mono-mc2d2022-002123"
+  ],
+  "KC2S3H3": [
+    "mst-mono-mc2d2022-002251"
+  ],
+  "KC3O3H3": [
+    "mst-mono-mc2d2022-002437"
+  ],
+  "KC3O3H7": [
+    "mst-mono-mc2d2022-000539",
+    "mst-mono-mc2d2022-000649"
+  ],
+  "KC6NO3H2Cl2": [
+    "mst-mono-mc2d2022-001405"
+  ],
+  "KCN": [
+    "mst-mono-mc2d2022-000670"
+  ],
+  "KCN2O4Br": [
+    "mst-mono-mc2d2022-000643"
+  ],
+  "KCN7": [
+    "mst-mono-mc2d2022-000563"
+  ],
+  "KCNH3": [
+    "mst-mono-mc2d2022-002493"
+  ],
+  "KCO2H": [
+    "mst-mono-mc2d2022-000389"
+  ],
+  "KCO3": [
+    "mst-mono-mc2d2022-002719"
+  ],
+  "KCO3H": [
+    "mst-mono-mc2d2022-000527",
+    "mst-mono-mc2d2022-002242"
+  ],
+  "KCa2P4O18H11": [
+    "mst-mono-mc2d2022-000108",
+    "mst-mono-mc2d2022-002473"
+  ],
+  "KCl": [
+    "mst-mono-mc2d2022-002287"
+  ],
+  "KCrC4O10H4": [
+    "mst-mono-mc2d2022-000228"
+  ],
+  "KCrO3Cl": [
+    "mst-mono-mc2d2022-002301"
+  ],
+  "KCrO6I": [
+    "mst-mono-mc2d2022-002173"
+  ],
+  "KCu3Te2": [
+    "mst-mono-mc2d2022-001032"
+  ],
+  "KCu8Se2": [
+    "mst-mono-mc2d2022-001684"
+  ],
+  "KCuTe": [
+    "mst-mono-mc2d2022-001779"
+  ],
+  "KEuCu2Te4": [
+    "mst-mono-mc2d2022-002285"
+  ],
+  "KEuPS4": [
+    "mst-mono-mc2d2022-002628"
+  ],
+  "KEuPSe4": [
+    "mst-mono-mc2d2022-002546"
+  ],
+  "KFeC6N3O3": [
+    "mst-mono-mc2d2022-000712"
+  ],
+  "KFeP2O6H2": [
+    "mst-mono-mc2d2022-000066"
+  ],
+  "KFeP4O14H4": [
+    "mst-mono-mc2d2022-000244"
+  ],
+  "KFeSe2": [
+    "mst-mono-mc2d2022-000002"
+  ],
+  "KGaTe2": [
+    "mst-mono-mc2d2022-001070"
+  ],
+  "KHfCuS3": [
+    "mst-mono-mc2d2022-001827"
+  ],
+  "KHgC2N2I": [
+    "mst-mono-mc2d2022-000100"
+  ],
+  "KHgC3N3O3": [
+    "mst-mono-mc2d2022-000892"
+  ],
+  "KI3": [
+    "mst-mono-mc2d2022-002560"
+  ],
+  "KICl4": [
+    "mst-mono-mc2d2022-001688"
+  ],
+  "KIn2Br6": [
+    "mst-mono-mc2d2022-002730"
+  ],
+  "KLaP2Se6": [
+    "mst-mono-mc2d2022-000929"
+  ],
+  "KLi2O3H3": [
+    "mst-mono-mc2d2022-000980"
+  ],
+  "KLiCO3": [
+    "mst-mono-mc2d2022-001989"
+  ],
+  "KLiWO5H2": [
+    "mst-mono-mc2d2022-002711"
+  ],
+  "KMg2B12O30H19": [
+    "mst-mono-mc2d2022-001752"
+  ],
+  "KMgC2O10": [
+    "mst-mono-mc2d2022-001185"
+  ],
+  "KMgC2O10H9": [
+    "mst-mono-mc2d2022-000787"
+  ],
+  "KMnO2H4Cl3": [
+    "mst-mono-mc2d2022-000911"
+  ],
+  "KMnPO3F3": [
+    "mst-mono-mc2d2022-000998"
+  ],
+  "KMo2O2Cl7": [
+    "mst-mono-mc2d2022-002504"
+  ],
+  "KMo3O9": [
+    "mst-mono-mc2d2022-000014"
+  ],
+  "KN2SO2F5": [
+    "mst-mono-mc2d2022-000774"
+  ],
+  "KNH2": [
+    "mst-mono-mc2d2022-000240"
+  ],
+  "KNO3": [
+    "mst-mono-mc2d2022-000416",
+    "mst-mono-mc2d2022-002394"
+  ],
+  "KNSO3H2": [
+    "mst-mono-mc2d2022-002382"
+  ],
+  "KNSeO3H2": [
+    "mst-mono-mc2d2022-001013"
+  ],
+  "KNa2P3N3O8H7": [
+    "mst-mono-mc2d2022-001558"
+  ],
+  "KNaCO9H12": [
+    "mst-mono-mc2d2022-001758"
+  ],
+  "KNb3O8": [
+    "mst-mono-mc2d2022-000346"
+  ],
+  "KNbAg2Se4": [
+    "mst-mono-mc2d2022-002451"
+  ],
+  "KNbCl6": [
+    "mst-mono-mc2d2022-000015",
+    "mst-mono-mc2d2022-001328"
+  ],
+  "KNbCu2S4": [
+    "mst-mono-mc2d2022-000325"
+  ],
+  "KNbCu2Se4": [
+    "mst-mono-mc2d2022-002095"
+  ],
+  "KNdO4Cl4": [
+    "mst-mono-mc2d2022-000433"
+  ],
+  "KNdS2O8": [
+    "mst-mono-mc2d2022-000187"
+  ],
+  "KNiC2O10H9": [
+    "mst-mono-mc2d2022-000819"
+  ],
+  "KO2Cl": [
+    "mst-mono-mc2d2022-000350",
+    "mst-mono-mc2d2022-001621"
+  ],
+  "KO2H4F": [
+    "mst-mono-mc2d2022-001733"
+  ],
+  "KO3Br": [
+    "mst-mono-mc2d2022-000071"
+  ],
+  "KO3Cl": [
+    "mst-mono-mc2d2022-000028",
+    "mst-mono-mc2d2022-000262",
+    "mst-mono-mc2d2022-001066"
+  ],
+  "KO3I": [
+    "mst-mono-mc2d2022-001661"
+  ],
+  "KO4Cl": [
+    "mst-mono-mc2d2022-001061"
+  ],
+  "KOCl": [
+    "mst-mono-mc2d2022-001235"
+  ],
+  "KOsNOF5": [
+    "mst-mono-mc2d2022-002230"
+  ],
+  "KP(OH)2": [
+    "mst-mono-mc2d2022-000799"
+  ],
+  "KPNO2H": [
+    "mst-mono-mc2d2022-001875"
+  ],
+  "KPNO3H3": [
+    "mst-mono-mc2d2022-001439"
+  ],
+  "KPO3": [
+    "mst-mono-mc2d2022-002279"
+  ],
+  "KPO3H3F": [
+    "mst-mono-mc2d2022-000163"
+  ],
+  "KPO4H2": [
+    "mst-mono-mc2d2022-002318"
+  ],
+  "KPSe6": [
+    "mst-mono-mc2d2022-001739"
+  ],
+  "KPb2C2O6F": [
+    "mst-mono-mc2d2022-002302"
+  ],
+  "KPdCuSe5": [
+    "mst-mono-mc2d2022-001509"
+  ],
+  "KPrSiSe4": [
+    "mst-mono-mc2d2022-001138"
+  ],
+  "KPt2S3": [
+    "mst-mono-mc2d2022-002214"
+  ],
+  "KPt2Se3": [
+    "mst-mono-mc2d2022-000395"
+  ],
+  "KRe2O4F7": [
+    "mst-mono-mc2d2022-002701"
+  ],
+  "KSb2F7": [
+    "mst-mono-mc2d2022-000945"
+  ],
+  "KSeO2F": [
+    "mst-mono-mc2d2022-000477"
+  ],
+  "KSnAs": [
+    "mst-mono-mc2d2022-000174"
+  ],
+  "KSnC2O4F": [
+    "mst-mono-mc2d2022-002204"
+  ],
+  "KSnPS4": [
+    "mst-mono-mc2d2022-000152"
+  ],
+  "KTaAg2Se4": [
+    "mst-mono-mc2d2022-002714"
+  ],
+  "KTaCu2Se4": [
+    "mst-mono-mc2d2022-000634"
+  ],
+  "KTe2F9": [
+    "mst-mono-mc2d2022-000581"
+  ],
+  "KTeF5": [
+    "mst-mono-mc2d2022-000607"
+  ],
+  "KTiPS5": [
+    "mst-mono-mc2d2022-000230"
+  ],
+  "KTiPSe5": [
+    "mst-mono-mc2d2022-000967"
+  ],
+  "KTiS2": [
+    "mst-mono-mc2d2022-000261"
+  ],
+  "KTlCl4": [
+    "mst-mono-mc2d2022-000953"
+  ],
+  "KTlO": [
+    "mst-mono-mc2d2022-000672"
+  ],
+  "KTmI3": [
+    "mst-mono-mc2d2022-002185"
+  ],
+  "KV3O8": [
+    "mst-mono-mc2d2022-001155"
+  ],
+  "KV3Se2O12": [
+    "mst-mono-mc2d2022-001719"
+  ],
+  "KVCu2S4": [
+    "mst-mono-mc2d2022-000962"
+  ],
+  "KVCu2Se4": [
+    "mst-mono-mc2d2022-002736"
+  ],
+  "KVOF3": [
+    "mst-mono-mc2d2022-000039"
+  ],
+  "KVOF4": [
+    "mst-mono-mc2d2022-002529"
+  ],
+  "KVP2O6H2": [
+    "mst-mono-mc2d2022-002731"
+  ],
+  "KVSO8H4": [
+    "mst-mono-mc2d2022-000173"
+  ],
+  "KWNClF5": [
+    "mst-mono-mc2d2022-002354"
+  ],
+  "KYMo2O8": [
+    "mst-mono-mc2d2022-002570"
+  ],
+  "KYP2Se6": [
+    "mst-mono-mc2d2022-001572"
+  ],
+  "KZnB3H12": [
+    "mst-mono-mc2d2022-001935"
+  ],
+  "KZnP2O8H3": [
+    "mst-mono-mc2d2022-001424"
+  ],
+  "KZnP2O9H5": [
+    "mst-mono-mc2d2022-000167"
+  ],
+  "KZrCuS3": [
+    "mst-mono-mc2d2022-001838"
+  ],
+  "KZrCuSe3": [
+    "mst-mono-mc2d2022-000771"
+  ],
+  "La2AsI2": [
+    "mst-mono-mc2d2022-001581"
+  ],
+  "La2Bi2S4O2": [
+    "mst-mono-mc2d2022-000070"
+  ],
+  "La2Bi2Se4O2": [
+    "mst-mono-mc2d2022-001907"
+  ],
+  "La2C2Br2": [
+    "mst-mono-mc2d2022-001461"
+  ],
+  "La2C2I2": [
+    "mst-mono-mc2d2022-001141"
+  ],
+  "La2C4P4O12H16": [
+    "mst-mono-mc2d2022-001640"
+  ],
+  "La2GeI2": [
+    "mst-mono-mc2d2022-000893"
+  ],
+  "La2I2": [
+    "mst-mono-mc2d2022-001347"
+  ],
+  "La2I5": [
+    "mst-mono-mc2d2022-001955"
+  ],
+  "La2N2O10H4": [
+    "mst-mono-mc2d2022-001985"
+  ],
+  "La2O4Cl2": [
+    "mst-mono-mc2d2022-000706"
+  ],
+  "La2PBr2": [
+    "mst-mono-mc2d2022-001377"
+  ],
+  "La2PI2": [
+    "mst-mono-mc2d2022-001852"
+  ],
+  "La2S2": [
+    "mst-mono-mc2d2022-002403"
+  ],
+  "La2S4O14": [
+    "mst-mono-mc2d2022-002149"
+  ],
+  "La2Sb2Se4O2": [
+    "mst-mono-mc2d2022-002417"
+  ],
+  "La2SbI2": [
+    "mst-mono-mc2d2022-002487"
+  ],
+  "La2Si2I2": [
+    "mst-mono-mc2d2022-000393"
+  ],
+  "La2SiO4I2": [
+    "mst-mono-mc2d2022-000744"
+  ],
+  "La2Te5": [
+    "mst-mono-mc2d2022-002574"
+  ],
+  "La2TeI2": [
+    "mst-mono-mc2d2022-002327"
+  ],
+  "La2Ti2O8": [
+    "mst-mono-mc2d2022-001173"
+  ],
+  "La2Tl4P4S14": [
+    "mst-mono-mc2d2022-002299"
+  ],
+  "La4C2Br5": [
+    "mst-mono-mc2d2022-002292"
+  ],
+  "La8Si4O16I8": [
+    "mst-mono-mc2d2022-001081"
+  ],
+  "LaBr2": [
+    "mst-mono-mc2d2022-001206"
+  ],
+  "LaCl": [
+    "mst-mono-mc2d2022-001502"
+  ],
+  "LaEuI4": [
+    "mst-mono-mc2d2022-001588"
+  ],
+  "LaGeI": [
+    "mst-mono-mc2d2022-002726"
+  ],
+  "LaHBr2": [
+    "mst-mono-mc2d2022-002062"
+  ],
+  "LaI2": [
+    "mst-mono-mc2d2022-001335"
+  ],
+  "LaI3": [
+    "mst-mono-mc2d2022-002172"
+  ],
+  "LaNb2O7": [
+    "mst-mono-mc2d2022-002630"
+  ],
+  "LaOBr": [
+    "mst-mono-mc2d2022-002346"
+  ],
+  "LaOI": [
+    "mst-mono-mc2d2022-000314"
+  ],
+  "LaSmI4": [
+    "mst-mono-mc2d2022-001789"
+  ],
+  "LaTe2Se": [
+    "mst-mono-mc2d2022-000462"
+  ],
+  "LaTe3": [
+    "mst-mono-mc2d2022-000546"
+  ],
+  "Li10Si2": [
+    "mst-mono-mc2d2022-001025"
+  ],
+  "Li2Al2YbF12": [
+    "mst-mono-mc2d2022-000317"
+  ],
+  "Li2B2Se5": [
+    "mst-mono-mc2d2022-001973"
+  ],
+  "Li2C12N4O10H10": [
+    "mst-mono-mc2d2022-002537"
+  ],
+  "Li2C2": [
+    "mst-mono-mc2d2022-000115"
+  ],
+  "Li2C2N2S2": [
+    "mst-mono-mc2d2022-000020"
+  ],
+  "Li2C2N8O2H4": [
+    "mst-mono-mc2d2022-000844"
+  ],
+  "Li2C2N8O6H8": [
+    "mst-mono-mc2d2022-000242"
+  ],
+  "Li2C5O7H4": [
+    "mst-mono-mc2d2022-000316"
+  ],
+  "Li2C6O6H10": [
+    "mst-mono-mc2d2022-002331"
+  ],
+  "Li2C6S2O10H8": [
+    "mst-mono-mc2d2022-000269"
+  ],
+  "Li2CeAs2": [
+    "mst-mono-mc2d2022-000625"
+  ],
+  "Li2CeP2": [
+    "mst-mono-mc2d2022-001887"
+  ],
+  "Li2Co2P2O8": [
+    "mst-mono-mc2d2022-001797"
+  ],
+  "Li2CuAs": [
+    "mst-mono-mc2d2022-001892"
+  ],
+  "Li2Fe2P2O8": [
+    "mst-mono-mc2d2022-001368"
+  ],
+  "Li2Ga2N8H16": [
+    "mst-mono-mc2d2022-001345"
+  ],
+  "Li2Ge3Te6": [
+    "mst-mono-mc2d2022-001941"
+  ],
+  "Li2Mg2P2O8": [
+    "mst-mono-mc2d2022-000057"
+  ],
+  "Li2Mn2P2O8": [
+    "mst-mono-mc2d2022-001601"
+  ],
+  "Li2MoF6": [
+    "mst-mono-mc2d2022-000949"
+  ],
+  "Li2Nb6Cl18": [
+    "mst-mono-mc2d2022-002199"
+  ],
+  "Li2NdAs2": [
+    "mst-mono-mc2d2022-001599"
+  ],
+  "Li2P30": [
+    "mst-mono-mc2d2022-002602"
+  ],
+  "Li2PdH2": [
+    "mst-mono-mc2d2022-001162"
+  ],
+  "Li2PrAs2": [
+    "mst-mono-mc2d2022-000238"
+  ],
+  "Li2PrP2": [
+    "mst-mono-mc2d2022-000323"
+  ],
+  "Li2PtH2": [
+    "mst-mono-mc2d2022-000782"
+  ],
+  "Li2PtO6": [
+    "mst-mono-mc2d2022-001886"
+  ],
+  "Li2PtO6H6": [
+    "mst-mono-mc2d2022-000679"
+  ],
+  "Li2Sb4F14": [
+    "mst-mono-mc2d2022-001729"
+  ],
+  "Li2Te2O5": [
+    "mst-mono-mc2d2022-001111"
+  ],
+  "Li2TeO3": [
+    "mst-mono-mc2d2022-000887"
+  ],
+  "Li2TiF6": [
+    "mst-mono-mc2d2022-000486"
+  ],
+  "Li2V2Cu4O12": [
+    "mst-mono-mc2d2022-000376"
+  ],
+  "Li2V4O10": [
+    "mst-mono-mc2d2022-002106"
+  ],
+  "Li2ZnBr4": [
+    "mst-mono-mc2d2022-001649"
+  ],
+  "Li2ZnI4": [
+    "mst-mono-mc2d2022-001948"
+  ],
+  "Li3As": [
+    "mst-mono-mc2d2022-001800"
+  ],
+  "Li3FeC6O17H10": [
+    "mst-mono-mc2d2022-001056"
+  ],
+  "Li3TeO4H": [
+    "mst-mono-mc2d2022-000857"
+  ],
+  "Li4Al4H16": [
+    "mst-mono-mc2d2022-001720"
+  ],
+  "Li4C10O14": [
+    "mst-mono-mc2d2022-001423"
+  ],
+  "Li4C8O8Br4": [
+    "mst-mono-mc2d2022-000867"
+  ],
+  "Li4C8O8Cl4": [
+    "mst-mono-mc2d2022-000197"
+  ],
+  "Li4Mo4S8": [
+    "mst-mono-mc2d2022-000796"
+  ],
+  "Li4N4": [
+    "mst-mono-mc2d2022-001354"
+  ],
+  "Li4O3H3Br": [
+    "mst-mono-mc2d2022-000098"
+  ],
+  "Li4P2S8": [
+    "mst-mono-mc2d2022-000540"
+  ],
+  "Li4RhS3O13H7": [
+    "mst-mono-mc2d2022-000897"
+  ],
+  "Li4S4": [
+    "mst-mono-mc2d2022-002489"
+  ],
+  "Li4Se4O16H4": [
+    "mst-mono-mc2d2022-001744"
+  ],
+  "Li4SrP2": [
+    "mst-mono-mc2d2022-000955"
+  ],
+  "Li4Ti8O18": [
+    "mst-mono-mc2d2022-002063"
+  ],
+  "Li4Zn2Cl8": [
+    "mst-mono-mc2d2022-000055"
+  ],
+  "Li5NBr2": [
+    "mst-mono-mc2d2022-002564"
+  ],
+  "Li5O2Br3": [
+    "mst-mono-mc2d2022-002200"
+  ],
+  "Li6C3": [
+    "mst-mono-mc2d2022-002077"
+  ],
+  "Li6Si": [
+    "mst-mono-mc2d2022-001123"
+  ],
+  "LiAlCl4": [
+    "mst-mono-mc2d2022-000832"
+  ],
+  "LiAlN4H8": [
+    "mst-mono-mc2d2022-001148"
+  ],
+  "LiAlP2S6": [
+    "mst-mono-mc2d2022-000653"
+  ],
+  "LiAlTe2": [
+    "mst-mono-mc2d2022-001743"
+  ],
+  "LiAsO3": [
+    "mst-mono-mc2d2022-001158"
+  ],
+  "LiAuC4S4O12F12": [
+    "mst-mono-mc2d2022-001184"
+  ],
+  "LiAuI4": [
+    "mst-mono-mc2d2022-000567"
+  ],
+  "LiAuS4O14": [
+    "mst-mono-mc2d2022-002049"
+  ],
+  "LiBC2O4F2": [
+    "mst-mono-mc2d2022-002597"
+  ],
+  "LiBH4": [
+    "mst-mono-mc2d2022-002197"
+  ],
+  "LiBO4H2": [
+    "mst-mono-mc2d2022-000396"
+  ],
+  "LiBOH6": [
+    "mst-mono-mc2d2022-000324"
+  ],
+  "LiBiO2": [
+    "mst-mono-mc2d2022-002405"
+  ],
+  "LiC12": [
+    "mst-mono-mc2d2022-001285"
+  ],
+  "LiC2SH5": [
+    "mst-mono-mc2d2022-000360"
+  ],
+  "LiC3N3O3H3Cl": [
+    "mst-mono-mc2d2022-000907"
+  ],
+  "LiC5N2O5H5": [
+    "mst-mono-mc2d2022-002680"
+  ],
+  "LiCPO3H4": [
+    "mst-mono-mc2d2022-002497"
+  ],
+  "LiCSO3F3": [
+    "mst-mono-mc2d2022-000921"
+  ],
+  "LiCoAs": [
+    "mst-mono-mc2d2022-002179"
+  ],
+  "LiCu2P": [
+    "mst-mono-mc2d2022-002637"
+  ],
+  "LiCuO2H4Cl3": [
+    "mst-mono-mc2d2022-001978"
+  ],
+  "LiFeAs": [
+    "mst-mono-mc2d2022-002271"
+  ],
+  "LiFeP": [
+    "mst-mono-mc2d2022-000619"
+  ],
+  "LiGaBr3": [
+    "mst-mono-mc2d2022-000971"
+  ],
+  "LiGaBr4": [
+    "mst-mono-mc2d2022-000502"
+  ],
+  "LiGaCl4": [
+    "mst-mono-mc2d2022-000268"
+  ],
+  "LiGaI3": [
+    "mst-mono-mc2d2022-001564"
+  ],
+  "LiHfS2": [
+    "mst-mono-mc2d2022-001098"
+  ],
+  "LiInO12I4": [
+    "mst-mono-mc2d2022-000529"
+  ],
+  "LiMnSe2": [
+    "mst-mono-mc2d2022-001876"
+  ],
+  "LiMnTe2": [
+    "mst-mono-mc2d2022-002709"
+  ],
+  "LiNH3I": [
+    "mst-mono-mc2d2022-000992"
+  ],
+  "LiNO3H2": [
+    "mst-mono-mc2d2022-001585",
+    "mst-mono-mc2d2022-002532"
+  ],
+  "LiNb6Cl19": [
+    "mst-mono-mc2d2022-000445"
+  ],
+  "LiNbS2": [
+    "mst-mono-mc2d2022-002004"
+  ],
+  "LiO": [
+    "mst-mono-mc2d2022-000089"
+  ],
+  "LiO2": [
+    "mst-mono-mc2d2022-001723"
+  ],
+  "LiO2Cl": [
+    "mst-mono-mc2d2022-001802"
+  ],
+  "LiOH": [
+    "mst-mono-mc2d2022-000928"
+  ],
+  "LiP": [
+    "mst-mono-mc2d2022-000910"
+  ],
+  "LiP(OH)2": [
+    "mst-mono-mc2d2022-001266"
+  ],
+  "LiReO2F4": [
+    "mst-mono-mc2d2022-000011"
+  ],
+  "LiReO4": [
+    "mst-mono-mc2d2022-002359"
+  ],
+  "LiSO3F": [
+    "mst-mono-mc2d2022-000622"
+  ],
+  "LiSO4H": [
+    "mst-mono-mc2d2022-002252"
+  ],
+  "LiSbO2": [
+    "mst-mono-mc2d2022-000121"
+  ],
+  "LiSnN3H6": [
+    "mst-mono-mc2d2022-001346"
+  ],
+  "LiTi2S4": [
+    "mst-mono-mc2d2022-002263"
+  ],
+  "LiTi2Se4": [
+    "mst-mono-mc2d2022-001522"
+  ],
+  "LiTiNCl": [
+    "mst-mono-mc2d2022-000202"
+  ],
+  "LiTiS2O": [
+    "mst-mono-mc2d2022-001575"
+  ],
+  "LiTl": [
+    "mst-mono-mc2d2022-000141"
+  ],
+  "LiTlPO3H": [
+    "mst-mono-mc2d2022-000964"
+  ],
+  "LiV2O5": [
+    "mst-mono-mc2d2022-002165"
+  ],
+  "LiVO3": [
+    "mst-mono-mc2d2022-000697"
+  ],
+  "LiWCl6": [
+    "mst-mono-mc2d2022-000221"
+  ],
+  "Lu2Br6": [
+    "mst-mono-mc2d2022-001832"
+  ],
+  "Lu2Cl6": [
+    "mst-mono-mc2d2022-001765"
+  ],
+  "Lu2I6": [
+    "mst-mono-mc2d2022-001370"
+  ],
+  "LuHCl": [
+    "mst-mono-mc2d2022-002090"
+  ],
+  "Mg(OH)2": [
+    "mst-mono-mc2d2022-000530"
+  ],
+  "Mg2": [
+    "mst-mono-mc2d2022-000639"
+  ],
+  "Mg2Al2Se5": [
+    "mst-mono-mc2d2022-002282"
+  ],
+  "Mg2C10N4O10H8": [
+    "mst-mono-mc2d2022-001139"
+  ],
+  "Mg2Cl4": [
+    "mst-mono-mc2d2022-001010",
+    "mst-mono-mc2d2022-001708"
+  ],
+  "Mg2Ga2S5": [
+    "mst-mono-mc2d2022-001823"
+  ],
+  "Mg2O3H2": [
+    "mst-mono-mc2d2022-000758"
+  ],
+  "Mg2S2O8": [
+    "mst-mono-mc2d2022-000930"
+  ],
+  "Mg3": [
+    "mst-mono-mc2d2022-000898"
+  ],
+  "Mg3O4H2": [
+    "mst-mono-mc2d2022-002377"
+  ],
+  "Mg3O6H6": [
+    "mst-mono-mc2d2022-001482"
+  ],
+  "Mg3P2O16": [
+    "mst-mono-mc2d2022-001920"
+  ],
+  "Mg3P2O16H16": [
+    "mst-mono-mc2d2022-000737",
+    "mst-mono-mc2d2022-002534"
+  ],
+  "Mg3P2O8": [
+    "mst-mono-mc2d2022-000357"
+  ],
+  "Mg3Si2O9": [
+    "mst-mono-mc2d2022-002352",
+    "mst-mono-mc2d2022-002717"
+  ],
+  "Mg3Si2O9H4": [
+    "mst-mono-mc2d2022-001698"
+  ],
+  "Mg3Si4O12": [
+    "mst-mono-mc2d2022-002053"
+  ],
+  "Mg3Si4O12H2": [
+    "mst-mono-mc2d2022-002439"
+  ],
+  "Mg4": [
+    "mst-mono-mc2d2022-000177"
+  ],
+  "Mg4O5H2": [
+    "mst-mono-mc2d2022-002591"
+  ],
+  "Mg5O6H2": [
+    "mst-mono-mc2d2022-000885"
+  ],
+  "Mg6": [
+    "mst-mono-mc2d2022-001292"
+  ],
+  "MgAl2H8": [
+    "mst-mono-mc2d2022-000232"
+  ],
+  "MgAl2S4": [
+    "mst-mono-mc2d2022-000541",
+    "mst-mono-mc2d2022-001692"
+  ],
+  "MgAl2Se4": [
+    "mst-mono-mc2d2022-002538"
+  ],
+  "MgAlF5": [
+    "mst-mono-mc2d2022-001686"
+  ],
+  "MgAu2F12": [
+    "mst-mono-mc2d2022-002335"
+  ],
+  "MgBr2": [
+    "mst-mono-mc2d2022-001017"
+  ],
+  "MgC5O7H7": [
+    "mst-mono-mc2d2022-002142"
+  ],
+  "MgCl2": [
+    "mst-mono-mc2d2022-000456"
+  ],
+  "MgCu3O6H6Cl2": [
+    "mst-mono-mc2d2022-001072"
+  ],
+  "MgGa2Se4": [
+    "mst-mono-mc2d2022-000258"
+  ],
+  "MgHg3O6Cl8": [
+    "mst-mono-mc2d2022-001590"
+  ],
+  "MgI2": [
+    "mst-mono-mc2d2022-001921"
+  ],
+  "MgMoTeO6": [
+    "mst-mono-mc2d2022-000247"
+  ],
+  "MgN2O8H4": [
+    "mst-mono-mc2d2022-000811"
+  ],
+  "MgO8H4Cl2": [
+    "mst-mono-mc2d2022-000590"
+  ],
+  "MgPS3": [
+    "mst-mono-mc2d2022-002356"
+  ],
+  "MgPSe3": [
+    "mst-mono-mc2d2022-001031"
+  ],
+  "MgSb2F12": [
+    "mst-mono-mc2d2022-002372"
+  ],
+  "MgZn7O8": [
+    "mst-mono-mc2d2022-002523"
+  ],
+  "Mn(OH)2": [
+    "mst-mono-mc2d2022-001561"
+  ],
+  "Mn2As2N2O10": [
+    "mst-mono-mc2d2022-000366"
+  ],
+  "Mn2Bi2": [
+    "mst-mono-mc2d2022-000381"
+  ],
+  "Mn2C10N4O10H8": [
+    "mst-mono-mc2d2022-000761"
+  ],
+  "Mn2C12S2O8H4": [
+    "mst-mono-mc2d2022-002506"
+  ],
+  "Mn2C4O12H8": [
+    "mst-mono-mc2d2022-002585"
+  ],
+  "Mn2Ga2S5": [
+    "mst-mono-mc2d2022-002137"
+  ],
+  "Mn2Sb4O4F16": [
+    "mst-mono-mc2d2022-001637"
+  ],
+  "Mn2Sb4Se8": [
+    "mst-mono-mc2d2022-001584"
+  ],
+  "Mn2Se2O8": [
+    "mst-mono-mc2d2022-002492"
+  ],
+  "Mn3Sb5O9I3": [
+    "mst-mono-mc2d2022-000338"
+  ],
+  "Mn6Zn2O14": [
+    "mst-mono-mc2d2022-001760"
+  ],
+  "Mn8Sn2S8": [
+    "mst-mono-mc2d2022-002484"
+  ],
+  "MnAl2S4": [
+    "mst-mono-mc2d2022-000927"
+  ],
+  "MnBi2Se4": [
+    "mst-mono-mc2d2022-001441"
+  ],
+  "MnBi2Te4": [
+    "mst-mono-mc2d2022-000481"
+  ],
+  "MnBiS2Br": [
+    "mst-mono-mc2d2022-000655"
+  ],
+  "MnBiS2Cl": [
+    "mst-mono-mc2d2022-001846"
+  ],
+  "MnBiSe2I": [
+    "mst-mono-mc2d2022-002442"
+  ],
+  "MnBr2": [
+    "mst-mono-mc2d2022-000275"
+  ],
+  "MnC10N6Se2H8": [
+    "mst-mono-mc2d2022-001776"
+  ],
+  "MnC10N8O2H8": [
+    "mst-mono-mc2d2022-001512"
+  ],
+  "MnC16N2O4H12": [
+    "mst-mono-mc2d2022-001290"
+  ],
+  "MnC2N3H2Cl": [
+    "mst-mono-mc2d2022-001882"
+  ],
+  "MnC6N4Se2": [
+    "mst-mono-mc2d2022-000401"
+  ],
+  "MnC8O12H10": [
+    "mst-mono-mc2d2022-000985"
+  ],
+  "MnCl2": [
+    "mst-mono-mc2d2022-000128"
+  ],
+  "MnCl4": [
+    "mst-mono-mc2d2022-000558"
+  ],
+  "MnGa2S4": [
+    "mst-mono-mc2d2022-002209"
+  ],
+  "MnI2": [
+    "mst-mono-mc2d2022-000164"
+  ],
+  "MnNiC14N6H10": [
+    "mst-mono-mc2d2022-002254"
+  ],
+  "MnO2": [
+    "mst-mono-mc2d2022-002060"
+  ],
+  "MnPS3": [
+    "mst-mono-mc2d2022-001736"
+  ],
+  "MnPSe3": [
+    "mst-mono-mc2d2022-001537"
+  ],
+  "MnRe2O8": [
+    "mst-mono-mc2d2022-000790"
+  ],
+  "MnSO4H2": [
+    "mst-mono-mc2d2022-001540"
+  ],
+  "MnSb2F12": [
+    "mst-mono-mc2d2022-000574"
+  ],
+  "MnSbS2Br": [
+    "mst-mono-mc2d2022-001991"
+  ],
+  "MnSbS2Cl": [
+    "mst-mono-mc2d2022-000040"
+  ],
+  "MnSbSe2I": [
+    "mst-mono-mc2d2022-000773"
+  ],
+  "MnSe2": [
+    "mst-mono-mc2d2022-001210"
+  ],
+  "Mo2BiO10": [
+    "mst-mono-mc2d2022-002471"
+  ],
+  "Mo2Hg4Se2O12": [
+    "mst-mono-mc2d2022-002338"
+  ],
+  "Mo2Hg4Te2O12": [
+    "mst-mono-mc2d2022-000523"
+  ],
+  "Mo2Mn2O10": [
+    "mst-mono-mc2d2022-002361"
+  ],
+  "Mo2O2Cl4": [
+    "mst-mono-mc2d2022-001427"
+  ],
+  "Mo2O8": [
+    "mst-mono-mc2d2022-001074"
+  ],
+  "Mo2PbSe2O11": [
+    "mst-mono-mc2d2022-000564"
+  ],
+  "Mo2S4I4": [
+    "mst-mono-mc2d2022-001051"
+  ],
+  "Mo2SBr2": [
+    "mst-mono-mc2d2022-000515"
+  ],
+  "Mo2Tl2PbO8": [
+    "mst-mono-mc2d2022-000084"
+  ],
+  "Mo3AgP2O14": [
+    "mst-mono-mc2d2022-002312"
+  ],
+  "Mo3NO9": [
+    "mst-mono-mc2d2022-002228"
+  ],
+  "Mo3NSeO12": [
+    "mst-mono-mc2d2022-002208"
+  ],
+  "Mo3NTeO9": [
+    "mst-mono-mc2d2022-001615"
+  ],
+  "Mo3PbP2O14": [
+    "mst-mono-mc2d2022-000417"
+  ],
+  "Mo3TlO9": [
+    "mst-mono-mc2d2022-001515"
+  ],
+  "Mo4As8O28": [
+    "mst-mono-mc2d2022-001774"
+  ],
+  "Mo4Bi2O16": [
+    "mst-mono-mc2d2022-001225"
+  ],
+  "Mo4O14": [
+    "mst-mono-mc2d2022-000977"
+  ],
+  "Mo4S8": [
+    "mst-mono-mc2d2022-002549"
+  ],
+  "Mo4Zn4O24": [
+    "mst-mono-mc2d2022-000407"
+  ],
+  "Mo5TlO15": [
+    "mst-mono-mc2d2022-000188"
+  ],
+  "Mo6AgTe6": [
+    "mst-mono-mc2d2022-002169"
+  ],
+  "Mo6BiCl15": [
+    "mst-mono-mc2d2022-000302"
+  ],
+  "MoAg2Te4O12": [
+    "mst-mono-mc2d2022-000633"
+  ],
+  "MoBr2": [
+    "mst-mono-mc2d2022-002336"
+  ],
+  "MoCdTeO6": [
+    "mst-mono-mc2d2022-001902"
+  ],
+  "MoCl2": [
+    "mst-mono-mc2d2022-001911"
+  ],
+  "MoCl3": [
+    "mst-mono-mc2d2022-002603"
+  ],
+  "MoCoTeO6": [
+    "mst-mono-mc2d2022-002122"
+  ],
+  "MoHg2O4": [
+    "mst-mono-mc2d2022-002362",
+    "mst-mono-mc2d2022-002620"
+  ],
+  "MoI2": [
+    "mst-mono-mc2d2022-000628"
+  ],
+  "MoMnTeO6": [
+    "mst-mono-mc2d2022-001157"
+  ],
+  "MoNCl3": [
+    "mst-mono-mc2d2022-002235"
+  ],
+  "MoO2Br2": [
+    "mst-mono-mc2d2022-000769"
+  ],
+  "MoO3": [
+    "mst-mono-mc2d2022-001389"
+  ],
+  "MoPO5": [
+    "mst-mono-mc2d2022-002452"
+  ],
+  "MoPbSeO6": [
+    "mst-mono-mc2d2022-002678"
+  ],
+  "MoS2": [
+    "mst-mono-mc2d2022-002073",
+    "mst-mono-mc2d2022-002273"
+  ],
+  "MoSe2": [
+    "mst-mono-mc2d2022-000130"
+  ],
+  "MoTe2": [
+    "mst-mono-mc2d2022-001867",
+    "mst-mono-mc2d2022-002017"
+  ],
+  "MoZnTeO6": [
+    "mst-mono-mc2d2022-000509"
+  ],
+  "N2O8H6": [
+    "mst-mono-mc2d2022-001787"
+  ],
+  "N4": [
+    "mst-mono-mc2d2022-000504"
+  ],
+  "Na": [
+    "mst-mono-mc2d2022-001931"
+  ],
+  "Na2B2O14": [
+    "mst-mono-mc2d2022-002685"
+  ],
+  "Na2B2O8H8": [
+    "mst-mono-mc2d2022-001918"
+  ],
+  "Na2B2Se7": [
+    "mst-mono-mc2d2022-002458"
+  ],
+  "Na2C10N4O8H10": [
+    "mst-mono-mc2d2022-002440"
+  ],
+  "Na2C10O10H16": [
+    "mst-mono-mc2d2022-002275"
+  ],
+  "Na2C14N4S2O12": [
+    "mst-mono-mc2d2022-000756"
+  ],
+  "Na2C2N8O6H8": [
+    "mst-mono-mc2d2022-002068"
+  ],
+  "Na2C3PO7H5": [
+    "mst-mono-mc2d2022-000583"
+  ],
+  "Na2C4N2O6": [
+    "mst-mono-mc2d2022-002438"
+  ],
+  "Na2C4P4N2O12H16": [
+    "mst-mono-mc2d2022-002014"
+  ],
+  "Na2C8O12H14": [
+    "mst-mono-mc2d2022-000978"
+  ],
+  "Na2C8O14H14": [
+    "mst-mono-mc2d2022-001857"
+  ],
+  "Na2C8O8H6": [
+    "mst-mono-mc2d2022-001606"
+  ],
+  "Na2Cd2Cl6": [
+    "mst-mono-mc2d2022-001263"
+  ],
+  "Na2CdS2O10H4": [
+    "mst-mono-mc2d2022-001926"
+  ],
+  "Na2Co4S4O16H6": [
+    "mst-mono-mc2d2022-000263"
+  ],
+  "Na2CoCl4": [
+    "mst-mono-mc2d2022-001947"
+  ],
+  "Na2Dy2Cl8": [
+    "mst-mono-mc2d2022-000290"
+  ],
+  "Na2Eu2Cl8": [
+    "mst-mono-mc2d2022-000702"
+  ],
+  "Na2Fe2S4O4": [
+    "mst-mono-mc2d2022-000941"
+  ],
+  "Na2Fe2Se2O": [
+    "mst-mono-mc2d2022-000429"
+  ],
+  "Na2Gd2Cl8": [
+    "mst-mono-mc2d2022-001500"
+  ],
+  "Na2GeS3": [
+    "mst-mono-mc2d2022-000443"
+  ],
+  "Na2HfO6H6": [
+    "mst-mono-mc2d2022-002520"
+  ],
+  "Na2HgS2": [
+    "mst-mono-mc2d2022-000451"
+  ],
+  "Na2Ho2Cl8": [
+    "mst-mono-mc2d2022-001869"
+  ],
+  "Na2Mg2Cl6": [
+    "mst-mono-mc2d2022-000999"
+  ],
+  "Na2MgS2O8H4": [
+    "mst-mono-mc2d2022-000405"
+  ],
+  "Na2MgSe2O10H4": [
+    "mst-mono-mc2d2022-000827"
+  ],
+  "Na2MnS2O10H4": [
+    "mst-mono-mc2d2022-000087"
+  ],
+  "Na2Mo6P4O28": [
+    "mst-mono-mc2d2022-001928"
+  ],
+  "Na2Nb2S12": [
+    "mst-mono-mc2d2022-000142"
+  ],
+  "Na2Nb2Se4O14": [
+    "mst-mono-mc2d2022-000549"
+  ],
+  "Na2NiSe2O10H4": [
+    "mst-mono-mc2d2022-000976",
+    "mst-mono-mc2d2022-002030"
+  ],
+  "Na2O8Cl2": [
+    "mst-mono-mc2d2022-000472"
+  ],
+  "Na2P30": [
+    "mst-mono-mc2d2022-002310"
+  ],
+  "Na2PS4": [
+    "mst-mono-mc2d2022-001174"
+  ],
+  "Na2PSe3": [
+    "mst-mono-mc2d2022-000879"
+  ],
+  "Na2PdH2": [
+    "mst-mono-mc2d2022-002423"
+  ],
+  "Na2PdO6": [
+    "mst-mono-mc2d2022-001450"
+  ],
+  "Na2PtO6": [
+    "mst-mono-mc2d2022-000547"
+  ],
+  "Na2PtO6H6": [
+    "mst-mono-mc2d2022-002707"
+  ],
+  "Na2Se4O12": [
+    "mst-mono-mc2d2022-000343",
+    "mst-mono-mc2d2022-001196"
+  ],
+  "Na2Sn2O5H4": [
+    "mst-mono-mc2d2022-000902"
+  ],
+  "Na2SnO6H6": [
+    "mst-mono-mc2d2022-000512"
+  ],
+  "Na2Tb2Cl8": [
+    "mst-mono-mc2d2022-001848"
+  ],
+  "Na2Ti2As2O": [
+    "mst-mono-mc2d2022-002498"
+  ],
+  "Na2TiO5H4": [
+    "mst-mono-mc2d2022-001905"
+  ],
+  "Na2TiS2O": [
+    "mst-mono-mc2d2022-000406"
+  ],
+  "Na2V2P2O10": [
+    "mst-mono-mc2d2022-002056"
+  ],
+  "Na2VP2O8": [
+    "mst-mono-mc2d2022-001201"
+  ],
+  "Na2ZnCl4": [
+    "mst-mono-mc2d2022-000668"
+  ],
+  "Na2ZrCu2S4": [
+    "mst-mono-mc2d2022-000526"
+  ],
+  "Na3C2O8H5": [
+    "mst-mono-mc2d2022-002561"
+  ],
+  "Na3CrCl6": [
+    "mst-mono-mc2d2022-001988"
+  ],
+  "Na3CuSnSe4": [
+    "mst-mono-mc2d2022-001454"
+  ],
+  "Na3GeTe3": [
+    "mst-mono-mc2d2022-000369"
+  ],
+  "Na3HoCl6": [
+    "mst-mono-mc2d2022-001811"
+  ],
+  "Na3InCl6": [
+    "mst-mono-mc2d2022-002058"
+  ],
+  "Na3LuCl6": [
+    "mst-mono-mc2d2022-000403"
+  ],
+  "Na3MoCl6": [
+    "mst-mono-mc2d2022-001945"
+  ],
+  "Na3NS2O10H6": [
+    "mst-mono-mc2d2022-001126"
+  ],
+  "Na3PS4": [
+    "mst-mono-mc2d2022-000661"
+  ],
+  "Na3PS4O8H16": [
+    "mst-mono-mc2d2022-002097"
+  ],
+  "Na3ScBr6": [
+    "mst-mono-mc2d2022-002584"
+  ],
+  "Na3ScCl6": [
+    "mst-mono-mc2d2022-001877"
+  ],
+  "Na3SiTe3": [
+    "mst-mono-mc2d2022-002687"
+  ],
+  "Na3YCl6": [
+    "mst-mono-mc2d2022-001486"
+  ],
+  "Na4CdP2": [
+    "mst-mono-mc2d2022-000271"
+  ],
+  "Na4Co2Se4": [
+    "mst-mono-mc2d2022-001241"
+  ],
+  "Na4Cu4O4": [
+    "mst-mono-mc2d2022-002052"
+  ],
+  "Na4Ge2S6O14": [
+    "mst-mono-mc2d2022-001297"
+  ],
+  "Na4HgP2": [
+    "mst-mono-mc2d2022-001909"
+  ],
+  "Na4O12Cl4": [
+    "mst-mono-mc2d2022-000817"
+  ],
+  "Na4S2O10": [
+    "mst-mono-mc2d2022-001778"
+  ],
+  "Na4S2O10H20": [
+    "mst-mono-mc2d2022-002190"
+  ],
+  "Na4Sb4F16": [
+    "mst-mono-mc2d2022-000289"
+  ],
+  "Na4Se2O10": [
+    "mst-mono-mc2d2022-001416"
+  ],
+  "Na4Si2O10": [
+    "mst-mono-mc2d2022-000973"
+  ],
+  "Na4Te2O10": [
+    "mst-mono-mc2d2022-000140"
+  ],
+  "Na4Ti4Si4O18": [
+    "mst-mono-mc2d2022-001183"
+  ],
+  "Na4V2P2O10Cl4": [
+    "mst-mono-mc2d2022-002401"
+  ],
+  "Na6B4N4": [
+    "mst-mono-mc2d2022-000604"
+  ],
+  "Na6N2S2O16H4": [
+    "mst-mono-mc2d2022-001870"
+  ],
+  "NaAlH4": [
+    "mst-mono-mc2d2022-001919"
+  ],
+  "NaAsO2": [
+    "mst-mono-mc2d2022-001059",
+    "mst-mono-mc2d2022-002064"
+  ],
+  "NaAuC4S4O12H12": [
+    "mst-mono-mc2d2022-000485",
+    "mst-mono-mc2d2022-001366"
+  ],
+  "NaAuO12I4": [
+    "mst-mono-mc2d2022-001318"
+  ],
+  "NaB3H8": [
+    "mst-mono-mc2d2022-001109"
+  ],
+  "NaB5O10H4": [
+    "mst-mono-mc2d2022-001114"
+  ],
+  "NaBC4O8": [
+    "mst-mono-mc2d2022-000339"
+  ],
+  "NaBF4": [
+    "mst-mono-mc2d2022-001359"
+  ],
+  "NaBO6H8": [
+    "mst-mono-mc2d2022-000437"
+  ],
+  "NaBO7H8": [
+    "mst-mono-mc2d2022-001628"
+  ],
+  "NaBe2F6": [
+    "mst-mono-mc2d2022-001541"
+  ],
+  "NaC2O3H2": [
+    "mst-mono-mc2d2022-001709"
+  ],
+  "NaC2O5H3": [
+    "mst-mono-mc2d2022-001393"
+  ],
+  "NaC3N3O4H4": [
+    "mst-mono-mc2d2022-000795",
+    "mst-mono-mc2d2022-000891"
+  ],
+  "NaC6N2O6H5": [
+    "mst-mono-mc2d2022-001647"
+  ],
+  "NaC6O2Br4": [
+    "mst-mono-mc2d2022-000822"
+  ],
+  "NaCN": [
+    "mst-mono-mc2d2022-001202"
+  ],
+  "NaCN3S2O2H4": [
+    "mst-mono-mc2d2022-001593"
+  ],
+  "NaCN4OH3": [
+    "mst-mono-mc2d2022-000765"
+  ],
+  "NaCNO2H4": [
+    "mst-mono-mc2d2022-000029"
+  ],
+  "NaCO2H": [
+    "mst-mono-mc2d2022-001690"
+  ],
+  "NaCaB5O17H16": [
+    "mst-mono-mc2d2022-000427"
+  ],
+  "NaCdSbS3": [
+    "mst-mono-mc2d2022-001900"
+  ],
+  "NaCuSe": [
+    "mst-mono-mc2d2022-000677"
+  ],
+  "NaCuTe": [
+    "mst-mono-mc2d2022-001825"
+  ],
+  "NaF2": [
+    "mst-mono-mc2d2022-001430"
+  ],
+  "NaFe2S2O8H3": [
+    "mst-mono-mc2d2022-001735"
+  ],
+  "NaGaH4": [
+    "mst-mono-mc2d2022-001492"
+  ],
+  "NaGe3P3": [
+    "mst-mono-mc2d2022-002125"
+  ],
+  "NaHf2CuSe5": [
+    "mst-mono-mc2d2022-000735"
+  ],
+  "NaHfCuSe3": [
+    "mst-mono-mc2d2022-001597"
+  ],
+  "NaInO12I4": [
+    "mst-mono-mc2d2022-000442"
+  ],
+  "NaMg2S2O8H3": [
+    "mst-mono-mc2d2022-001817"
+  ],
+  "NaMgAs": [
+    "mst-mono-mc2d2022-002530"
+  ],
+  "NaMnTe2": [
+    "mst-mono-mc2d2022-000810"
+  ],
+  "NaNbCl6": [
+    "mst-mono-mc2d2022-002078"
+  ],
+  "NaNbCu2S4": [
+    "mst-mono-mc2d2022-000363",
+    "mst-mono-mc2d2022-002300"
+  ],
+  "NaO2Cl": [
+    "mst-mono-mc2d2022-000614"
+  ],
+  "NaO2H4Br": [
+    "mst-mono-mc2d2022-001280"
+  ],
+  "NaO2H4Cl": [
+    "mst-mono-mc2d2022-002178"
+  ],
+  "NaO2H4I": [
+    "mst-mono-mc2d2022-000122"
+  ],
+  "NaO4": [
+    "mst-mono-mc2d2022-001344"
+  ],
+  "NaO6H4Cl": [
+    "mst-mono-mc2d2022-001192"
+  ],
+  "NaO8I3": [
+    "mst-mono-mc2d2022-001391"
+  ],
+  "NaOH": [
+    "mst-mono-mc2d2022-002253"
+  ],
+  "NaPO6H7": [
+    "mst-mono-mc2d2022-000748"
+  ],
+  "NaPS3": [
+    "mst-mono-mc2d2022-002245"
+  ],
+  "NaPSO8H4": [
+    "mst-mono-mc2d2022-002524"
+  ],
+  "NaPb2C2O7": [
+    "mst-mono-mc2d2022-000345"
+  ],
+  "NaPt2Se3": [
+    "mst-mono-mc2d2022-001956"
+  ],
+  "NaSO2": [
+    "mst-mono-mc2d2022-001546"
+  ],
+  "NaSbP2S6": [
+    "mst-mono-mc2d2022-000576"
+  ],
+  "NaSnP": [
+    "mst-mono-mc2d2022-000734"
+  ],
+  "NaSnPO4HF": [
+    "mst-mono-mc2d2022-000719"
+  ],
+  "NaTeO6H6F": [
+    "mst-mono-mc2d2022-000035"
+  ],
+  "NaV2O5": [
+    "mst-mono-mc2d2022-001119"
+  ],
+  "NaVO9H2I2": [
+    "mst-mono-mc2d2022-000855"
+  ],
+  "NaW2O2Br6": [
+    "mst-mono-mc2d2022-002237"
+  ],
+  "NaYCO10": [
+    "mst-mono-mc2d2022-000886"
+  ],
+  "NaZn2S2O8H3": [
+    "mst-mono-mc2d2022-002566"
+  ],
+  "NaZrCuSe3": [
+    "mst-mono-mc2d2022-000593"
+  ],
+  "NaZrCuTe3": [
+    "mst-mono-mc2d2022-001224"
+  ],
+  "Nb2Ag2Se4O14": [
+    "mst-mono-mc2d2022-002666"
+  ],
+  "Nb2CS2": [
+    "mst-mono-mc2d2022-000888"
+  ],
+  "Nb2CoS4": [
+    "mst-mono-mc2d2022-000068"
+  ],
+  "Nb2CuS4": [
+    "mst-mono-mc2d2022-001394"
+  ],
+  "Nb2GeTe4": [
+    "mst-mono-mc2d2022-001716"
+  ],
+  "Nb2MnS4": [
+    "mst-mono-mc2d2022-000818"
+  ],
+  "Nb2NiS4": [
+    "mst-mono-mc2d2022-002536"
+  ],
+  "Nb2O2Cl4": [
+    "mst-mono-mc2d2022-000556"
+  ],
+  "Nb2PbO6": [
+    "mst-mono-mc2d2022-000069"
+  ],
+  "Nb2PdS6": [
+    "mst-mono-mc2d2022-000837"
+  ],
+  "Nb2PdSe6": [
+    "mst-mono-mc2d2022-002082"
+  ],
+  "Nb2Se3": [
+    "mst-mono-mc2d2022-001169"
+  ],
+  "Nb2Se4I4": [
+    "mst-mono-mc2d2022-001364"
+  ],
+  "Nb2SiTe4": [
+    "mst-mono-mc2d2022-000723"
+  ],
+  "Nb2Te6I": [
+    "mst-mono-mc2d2022-002320"
+  ],
+  "Nb3Br8": [
+    "mst-mono-mc2d2022-000348"
+  ],
+  "Nb3Cl7": [
+    "mst-mono-mc2d2022-001027"
+  ],
+  "Nb3Cl8": [
+    "mst-mono-mc2d2022-002033"
+  ],
+  "Nb3GeTe6": [
+    "mst-mono-mc2d2022-002024"
+  ],
+  "Nb3I8": [
+    "mst-mono-mc2d2022-002659"
+  ],
+  "Nb3SBr7": [
+    "mst-mono-mc2d2022-001751"
+  ],
+  "Nb3SiTe6": [
+    "mst-mono-mc2d2022-001624"
+  ],
+  "Nb3TeCl7": [
+    "mst-mono-mc2d2022-001468"
+  ],
+  "Nb3TeI7": [
+    "mst-mono-mc2d2022-001002"
+  ],
+  "Nb4Co2PdSe12": [
+    "mst-mono-mc2d2022-002328"
+  ],
+  "Nb4Mo6OI22": [
+    "mst-mono-mc2d2022-001038"
+  ],
+  "Nb6In4Cl18": [
+    "mst-mono-mc2d2022-002207"
+  ],
+  "Nb6Tl4Cl18": [
+    "mst-mono-mc2d2022-002698"
+  ],
+  "Nb8C4": [
+    "mst-mono-mc2d2022-002605"
+  ],
+  "Nb8PtSe20": [
+    "mst-mono-mc2d2022-000854"
+  ],
+  "NbCoTe2": [
+    "mst-mono-mc2d2022-002454"
+  ],
+  "NbCrSe5": [
+    "mst-mono-mc2d2022-001103"
+  ],
+  "NbCu2C8N4H8F6": [
+    "mst-mono-mc2d2022-001960"
+  ],
+  "NbF4": [
+    "mst-mono-mc2d2022-000666"
+  ],
+  "NbIrTe4": [
+    "mst-mono-mc2d2022-002290"
+  ],
+  "NbNiTe2": [
+    "mst-mono-mc2d2022-001899"
+  ],
+  "NbNiTe5": [
+    "mst-mono-mc2d2022-002341"
+  ],
+  "NbO2I": [
+    "mst-mono-mc2d2022-000694"
+  ],
+  "NbOBr2": [
+    "mst-mono-mc2d2022-001166"
+  ],
+  "NbOI2": [
+    "mst-mono-mc2d2022-002445"
+  ],
+  "NbOsTe4": [
+    "mst-mono-mc2d2022-000989"
+  ],
+  "NbPdTe5": [
+    "mst-mono-mc2d2022-002414"
+  ],
+  "NbS2": [
+    "mst-mono-mc2d2022-001021",
+    "mst-mono-mc2d2022-002459"
+  ],
+  "NbS2Br2": [
+    "mst-mono-mc2d2022-002571"
+  ],
+  "NbS2Cl2": [
+    "mst-mono-mc2d2022-001268"
+  ],
+  "NbS3": [
+    "mst-mono-mc2d2022-000814",
+    "mst-mono-mc2d2022-000938"
+  ],
+  "NbSe2": [
+    "mst-mono-mc2d2022-000688",
+    "mst-mono-mc2d2022-002447"
+  ],
+  "NbSe2Br2": [
+    "mst-mono-mc2d2022-000498"
+  ],
+  "NbSe2Cl2": [
+    "mst-mono-mc2d2022-000695"
+  ],
+  "NbSe3": [
+    "mst-mono-mc2d2022-000845"
+  ],
+  "NbTe2": [
+    "mst-mono-mc2d2022-000370",
+    "mst-mono-mc2d2022-002578"
+  ],
+  "NbTlOBr4": [
+    "mst-mono-mc2d2022-001731"
+  ],
+  "Nd": [
+    "mst-mono-mc2d2022-002514"
+  ],
+  "Nd2Bi2S4O2": [
+    "mst-mono-mc2d2022-001793"
+  ],
+  "Nd2I6": [
+    "mst-mono-mc2d2022-000061"
+  ],
+  "Nd2N2O10": [
+    "mst-mono-mc2d2022-001462"
+  ],
+  "Nd2O2I2": [
+    "mst-mono-mc2d2022-000467"
+  ],
+  "Nd2O4Br2": [
+    "mst-mono-mc2d2022-002593"
+  ],
+  "Nd2S2I2": [
+    "mst-mono-mc2d2022-002330"
+  ],
+  "Nd2Sb2S4O2": [
+    "mst-mono-mc2d2022-000248"
+  ],
+  "Nd2Te5": [
+    "mst-mono-mc2d2022-002399"
+  ],
+  "NdBr3": [
+    "mst-mono-mc2d2022-000733"
+  ],
+  "NdI2": [
+    "mst-mono-mc2d2022-000788"
+  ],
+  "NdOBr": [
+    "mst-mono-mc2d2022-002679"
+  ],
+  "NdSe2O7H3": [
+    "mst-mono-mc2d2022-000839"
+  ],
+  "NdTe2Se": [
+    "mst-mono-mc2d2022-001535"
+  ],
+  "NdTe3": [
+    "mst-mono-mc2d2022-002246"
+  ],
+  "Ni(OH)2": [
+    "mst-mono-mc2d2022-001534"
+  ],
+  "Ni2Bi6I": [
+    "mst-mono-mc2d2022-001993"
+  ],
+  "Ni2C16N6S4O2H8": [
+    "mst-mono-mc2d2022-001675"
+  ],
+  "Ni2C4N6": [
+    "mst-mono-mc2d2022-002264"
+  ],
+  "Ni2N8O16": [
+    "mst-mono-mc2d2022-000961"
+  ],
+  "Ni2P2N2O10": [
+    "mst-mono-mc2d2022-001143"
+  ],
+  "Ni2P2O10": [
+    "mst-mono-mc2d2022-002032"
+  ],
+  "Ni2P2O7": [
+    "mst-mono-mc2d2022-002119"
+  ],
+  "Ni2SbTe2": [
+    "mst-mono-mc2d2022-000199"
+  ],
+  "Ni2Se2O8": [
+    "mst-mono-mc2d2022-001324"
+  ],
+  "Ni3GeTe2": [
+    "mst-mono-mc2d2022-000997"
+  ],
+  "Ni3P2O16H16": [
+    "mst-mono-mc2d2022-001586"
+  ],
+  "Ni4C8N8": [
+    "mst-mono-mc2d2022-001371"
+  ],
+  "NiAg2C14N2O10H6": [
+    "mst-mono-mc2d2022-000532"
+  ],
+  "NiAu2C8N8H16": [
+    "mst-mono-mc2d2022-002293"
+  ],
+  "NiBr2": [
+    "mst-mono-mc2d2022-000728"
+  ],
+  "NiC2N2": [
+    "mst-mono-mc2d2022-002010"
+  ],
+  "NiC2N2S2": [
+    "mst-mono-mc2d2022-001198"
+  ],
+  "NiC2N3H2Cl": [
+    "mst-mono-mc2d2022-001627"
+  ],
+  "NiC4N2Cl2": [
+    "mst-mono-mc2d2022-000479"
+  ],
+  "NiC4N2O4H8": [
+    "mst-mono-mc2d2022-002526"
+  ],
+  "NiC4O6H6": [
+    "mst-mono-mc2d2022-002677"
+  ],
+  "NiC6N2H4Cl2": [
+    "mst-mono-mc2d2022-000613"
+  ],
+  "NiCdC14N8H12": [
+    "mst-mono-mc2d2022-000789"
+  ],
+  "NiCdC16N6H14": [
+    "mst-mono-mc2d2022-002738"
+  ],
+  "NiCl2": [
+    "mst-mono-mc2d2022-002166"
+  ],
+  "NiGa2S4": [
+    "mst-mono-mc2d2022-000276"
+  ],
+  "NiI2": [
+    "mst-mono-mc2d2022-001976"
+  ],
+  "NiN2O8H4": [
+    "mst-mono-mc2d2022-001269"
+  ],
+  "NiO2": [
+    "mst-mono-mc2d2022-002658"
+  ],
+  "NiO2H": [
+    "mst-mono-mc2d2022-000024"
+  ],
+  "NiO8Cl2": [
+    "mst-mono-mc2d2022-001937"
+  ],
+  "NiPO3H4Cl": [
+    "mst-mono-mc2d2022-002573"
+  ],
+  "NiPS3": [
+    "mst-mono-mc2d2022-000195"
+  ],
+  "NiPSe3": [
+    "mst-mono-mc2d2022-001986"
+  ],
+  "NiPd2Te2": [
+    "mst-mono-mc2d2022-001181"
+  ],
+  "NiSe": [
+    "mst-mono-mc2d2022-001293"
+  ],
+  "NiSi2Se4": [
+    "mst-mono-mc2d2022-000412",
+    "mst-mono-mc2d2022-000524"
+  ],
+  "NiTe": [
+    "mst-mono-mc2d2022-000318"
+  ],
+  "NiTe2": [
+    "mst-mono-mc2d2022-000253"
+  ],
+  "NiTl2C4N4": [
+    "mst-mono-mc2d2022-001104"
+  ],
+  "NiTl2F4": [
+    "mst-mono-mc2d2022-002431"
+  ],
+  "NiZnC14N8H12": [
+    "mst-mono-mc2d2022-000358"
+  ],
+  "O20I8": [
+    "mst-mono-mc2d2022-001501"
+  ],
+  "O2LuH2Cl": [
+    "mst-mono-mc2d2022-000031"
+  ],
+  "O3I": [
+    "mst-mono-mc2d2022-000659"
+  ],
+  "O4H7": [
+    "mst-mono-mc2d2022-000224"
+  ],
+  "O8H14": [
+    "mst-mono-mc2d2022-001036"
+  ],
+  "OH3Cl": [
+    "mst-mono-mc2d2022-000049"
+  ],
+  "OH3F": [
+    "mst-mono-mc2d2022-001808"
+  ],
+  "OLuBr": [
+    "mst-mono-mc2d2022-001783"
+  ],
+  "OLuI": [
+    "mst-mono-mc2d2022-000126"
+  ],
+  "OsOCl2": [
+    "mst-mono-mc2d2022-002211"
+  ],
+  "P": [
+    "mst-mono-mc2d2022-000739",
+    "mst-mono-mc2d2022-001106",
+    "mst-mono-mc2d2022-001784"
+  ],
+  "P2O5": [
+    "mst-mono-mc2d2022-000920"
+  ],
+  "P2O8Lu": [
+    "mst-mono-mc2d2022-000059"
+  ],
+  "P3YbO6H6": [
+    "mst-mono-mc2d2022-002533"
+  ],
+  "PO4H3": [
+    "mst-mono-mc2d2022-000288"
+  ],
+  "PS4Lu": [
+    "mst-mono-mc2d2022-000116"
+  ],
+  "Pb2As3O6Br": [
+    "mst-mono-mc2d2022-000450"
+  ],
+  "Pb2AsO3Cl2": [
+    "mst-mono-mc2d2022-000507"
+  ],
+  "Pb2Bi2Se5": [
+    "mst-mono-mc2d2022-001924"
+  ],
+  "Pb2Bi2Te5": [
+    "mst-mono-mc2d2022-002247"
+  ],
+  "Pb2C10N2O2H8I4": [
+    "mst-mono-mc2d2022-000919"
+  ],
+  "Pb2C10N2S2O4H18": [
+    "mst-mono-mc2d2022-001942"
+  ],
+  "Pb2C12N8O6H12": [
+    "mst-mono-mc2d2022-000801"
+  ],
+  "Pb2C8N2S4H10": [
+    "mst-mono-mc2d2022-001127"
+  ],
+  "Pb2CO6": [
+    "mst-mono-mc2d2022-000766"
+  ],
+  "Pb2I5": [
+    "mst-mono-mc2d2022-000331"
+  ],
+  "Pb2N2O7F2": [
+    "mst-mono-mc2d2022-002516"
+  ],
+  "Pb2N2S4": [
+    "mst-mono-mc2d2022-002450"
+  ],
+  "Pb2N2SeO8": [
+    "mst-mono-mc2d2022-001340"
+  ],
+  "Pb2N6S4H6": [
+    "mst-mono-mc2d2022-002294"
+  ],
+  "Pb2P2O8": [
+    "mst-mono-mc2d2022-000439"
+  ],
+  "Pb2PN2O9H": [
+    "mst-mono-mc2d2022-000212"
+  ],
+  "Pb2Sb2S5": [
+    "mst-mono-mc2d2022-002540"
+  ],
+  "Pb2Se2": [
+    "mst-mono-mc2d2022-002345"
+  ],
+  "Pb3As2O8": [
+    "mst-mono-mc2d2022-001107"
+  ],
+  "Pb3O4H2": [
+    "mst-mono-mc2d2022-002342"
+  ],
+  "Pb3SO6": [
+    "mst-mono-mc2d2022-001915"
+  ],
+  "Pb3Se2O6Br2": [
+    "mst-mono-mc2d2022-002291"
+  ],
+  "Pb3Se2O6Cl2": [
+    "mst-mono-mc2d2022-002269"
+  ],
+  "Pb3Se2O6I2": [
+    "mst-mono-mc2d2022-000630"
+  ],
+  "Pb3SeO5": [
+    "mst-mono-mc2d2022-002577"
+  ],
+  "Pb3Te2O6Br2": [
+    "mst-mono-mc2d2022-001925"
+  ],
+  "Pb4AsO4HCl4": [
+    "mst-mono-mc2d2022-000785"
+  ],
+  "Pb4BiPO8": [
+    "mst-mono-mc2d2022-001663"
+  ],
+  "Pb4CO4H2Cl6": [
+    "mst-mono-mc2d2022-000044",
+    "mst-mono-mc2d2022-002321"
+  ],
+  "Pb4IF7": [
+    "mst-mono-mc2d2022-001889"
+  ],
+  "Pb4O4Cl2": [
+    "mst-mono-mc2d2022-000322"
+  ],
+  "Pb4O4H2I2": [
+    "mst-mono-mc2d2022-002478"
+  ],
+  "Pb4SO8H2": [
+    "mst-mono-mc2d2022-002732"
+  ],
+  "Pb5As3O9": [
+    "mst-mono-mc2d2022-002163"
+  ],
+  "Pb8S2O16": [
+    "mst-mono-mc2d2022-000864"
+  ],
+  "PbAs2S4": [
+    "mst-mono-mc2d2022-000987"
+  ],
+  "PbAsF7": [
+    "mst-mono-mc2d2022-001511"
+  ],
+  "PbBi2Te4": [
+    "mst-mono-mc2d2022-001050"
+  ],
+  "PbBrF": [
+    "mst-mono-mc2d2022-001533"
+  ],
+  "PbC10N2H8Br2": [
+    "mst-mono-mc2d2022-000981"
+  ],
+  "PbC2N2S2": [
+    "mst-mono-mc2d2022-000863"
+  ],
+  "PbC2O4": [
+    "mst-mono-mc2d2022-000645"
+  ],
+  "PbC4N2S4O8H12": [
+    "mst-mono-mc2d2022-002604"
+  ],
+  "PbCN2": [
+    "mst-mono-mc2d2022-000840"
+  ],
+  "PbCO2Cl": [
+    "mst-mono-mc2d2022-002594"
+  ],
+  "PbClF": [
+    "mst-mono-mc2d2022-002640"
+  ],
+  "PbF4": [
+    "mst-mono-mc2d2022-000328"
+  ],
+  "PbI2": [
+    "mst-mono-mc2d2022-001082"
+  ],
+  "PbIF": [
+    "mst-mono-mc2d2022-001679"
+  ],
+  "PbO": [
+    "mst-mono-mc2d2022-000684"
+  ],
+  "PbO4Cl2": [
+    "mst-mono-mc2d2022-000220"
+  ],
+  "PbO6I2": [
+    "mst-mono-mc2d2022-001633"
+  ],
+  "PbOHCl": [
+    "mst-mono-mc2d2022-001189"
+  ],
+  "PbP2O4H4": [
+    "mst-mono-mc2d2022-002576"
+  ],
+  "PbP2O8H4": [
+    "mst-mono-mc2d2022-001868"
+  ],
+  "PbPSe3": [
+    "mst-mono-mc2d2022-001301"
+  ],
+  "PbS2": [
+    "mst-mono-mc2d2022-002702"
+  ],
+  "PbSO3": [
+    "mst-mono-mc2d2022-001329"
+  ],
+  "PbSb2Te4": [
+    "mst-mono-mc2d2022-001259"
+  ],
+  "PbSe2O6": [
+    "mst-mono-mc2d2022-001833"
+  ],
+  "PbSeO3": [
+    "mst-mono-mc2d2022-000662",
+    "mst-mono-mc2d2022-002205"
+  ],
+  "PbSeO4": [
+    "mst-mono-mc2d2022-001215"
+  ],
+  "PbTe": [
+    "mst-mono-mc2d2022-000828"
+  ],
+  "Pd2S2O8": [
+    "mst-mono-mc2d2022-000413",
+    "mst-mono-mc2d2022-001238"
+  ],
+  "Pd2TlSe3": [
+    "mst-mono-mc2d2022-001591"
+  ],
+  "Pd3P2S8": [
+    "mst-mono-mc2d2022-000131"
+  ],
+  "Pd3Pb2Te2": [
+    "mst-mono-mc2d2022-002456"
+  ],
+  "Pd4Te3Br4": [
+    "mst-mono-mc2d2022-002615"
+  ],
+  "Pd5AlI2": [
+    "mst-mono-mc2d2022-001182"
+  ],
+  "PdAgO9I3": [
+    "mst-mono-mc2d2022-000650"
+  ],
+  "PdBi2": [
+    "mst-mono-mc2d2022-000144"
+  ],
+  "PdCl2": [
+    "mst-mono-mc2d2022-002740"
+  ],
+  "PdI2": [
+    "mst-mono-mc2d2022-000243"
+  ],
+  "PdN2O6": [
+    "mst-mono-mc2d2022-001890"
+  ],
+  "PdO6I2": [
+    "mst-mono-mc2d2022-002441"
+  ],
+  "PdPS": [
+    "mst-mono-mc2d2022-000599"
+  ],
+  "PdPS3": [
+    "mst-mono-mc2d2022-000214"
+  ],
+  "PdPSe": [
+    "mst-mono-mc2d2022-002567"
+  ],
+  "PdPb2Se2O6Cl2": [
+    "mst-mono-mc2d2022-001958"
+  ],
+  "PdPb2Te2O6Cl2": [
+    "mst-mono-mc2d2022-000493"
+  ],
+  "PdS2": [
+    "mst-mono-mc2d2022-001696"
+  ],
+  "PdSe8Cl2": [
+    "mst-mono-mc2d2022-001199"
+  ],
+  "PdSeO3": [
+    "mst-mono-mc2d2022-000489",
+    "mst-mono-mc2d2022-001466"
+  ],
+  "PdSnTe": [
+    "mst-mono-mc2d2022-000440"
+  ],
+  "PdTe2": [
+    "mst-mono-mc2d2022-000689"
+  ],
+  "PdTl2C4N4": [
+    "mst-mono-mc2d2022-000843"
+  ],
+  "Pr2Bi2S4O2": [
+    "mst-mono-mc2d2022-000652"
+  ],
+  "Pr2Br2": [
+    "mst-mono-mc2d2022-001094"
+  ],
+  "Pr2Br5": [
+    "mst-mono-mc2d2022-000585"
+  ],
+  "Pr2Br6": [
+    "mst-mono-mc2d2022-002180"
+  ],
+  "Pr2I6": [
+    "mst-mono-mc2d2022-002735"
+  ],
+  "Pr2N2O10": [
+    "mst-mono-mc2d2022-000025"
+  ],
+  "Pr2O4Br2": [
+    "mst-mono-mc2d2022-002322"
+  ],
+  "Pr2S2I2": [
+    "mst-mono-mc2d2022-001375"
+  ],
+  "Pr2Sb2S4O2": [
+    "mst-mono-mc2d2022-002636"
+  ],
+  "Pr2Si2I2": [
+    "mst-mono-mc2d2022-001656"
+  ],
+  "Pr2Te5": [
+    "mst-mono-mc2d2022-001866"
+  ],
+  "PrI2": [
+    "mst-mono-mc2d2022-001087",
+    "mst-mono-mc2d2022-002355"
+  ],
+  "PrOBr": [
+    "mst-mono-mc2d2022-000830"
+  ],
+  "PrTe2Se": [
+    "mst-mono-mc2d2022-001544"
+  ],
+  "PrTe3": [
+    "mst-mono-mc2d2022-001113"
+  ],
+  "Pt2HgSe3": [
+    "mst-mono-mc2d2022-001165"
+  ],
+  "Pt2S2O8": [
+    "mst-mono-mc2d2022-000699",
+    "mst-mono-mc2d2022-001095",
+    "mst-mono-mc2d2022-001685"
+  ],
+  "Pt2TlS3": [
+    "mst-mono-mc2d2022-000560"
+  ],
+  "Pt2TlSe3": [
+    "mst-mono-mc2d2022-002128"
+  ],
+  "Pt2TlTe3": [
+    "mst-mono-mc2d2022-000554"
+  ],
+  "Pt3Te4": [
+    "mst-mono-mc2d2022-002133"
+  ],
+  "Pt4Si4Te4": [
+    "mst-mono-mc2d2022-000146"
+  ],
+  "PtAg2C4O10": [
+    "mst-mono-mc2d2022-002635"
+  ],
+  "PtCu2C6N8H6": [
+    "mst-mono-mc2d2022-001023"
+  ],
+  "PtI2": [
+    "mst-mono-mc2d2022-001447"
+  ],
+  "PtO2": [
+    "mst-mono-mc2d2022-001749"
+  ],
+  "PtS2": [
+    "mst-mono-mc2d2022-002601"
+  ],
+  "PtSe2": [
+    "mst-mono-mc2d2022-002727"
+  ],
+  "PtTe": [
+    "mst-mono-mc2d2022-001357"
+  ],
+  "PtTe2": [
+    "mst-mono-mc2d2022-000124"
+  ],
+  "PtTl2C4N4": [
+    "mst-mono-mc2d2022-002672"
+  ],
+  "Rb2Cu2Te2": [
+    "mst-mono-mc2d2022-002222"
+  ],
+  "Rb2Fe4Se6": [
+    "mst-mono-mc2d2022-000651"
+  ],
+  "Rb2P30": [
+    "mst-mono-mc2d2022-000210"
+  ],
+  "Rb2Pb2I6": [
+    "mst-mono-mc2d2022-000542"
+  ],
+  "Rb2PdHg2Br8": [
+    "mst-mono-mc2d2022-002429"
+  ],
+  "Rb2SnN6H12": [
+    "mst-mono-mc2d2022-001255"
+  ],
+  "Rb2Sr4I10": [
+    "mst-mono-mc2d2022-001214"
+  ],
+  "Rb2VCl6": [
+    "mst-mono-mc2d2022-001310"
+  ],
+  "Rb3Mo2Br9": [
+    "mst-mono-mc2d2022-000284"
+  ],
+  "Rb3Nb2Br9": [
+    "mst-mono-mc2d2022-001861"
+  ],
+  "RbAlN4H8": [
+    "mst-mono-mc2d2022-001722"
+  ],
+  "RbAsO2": [
+    "mst-mono-mc2d2022-000780"
+  ],
+  "RbB5O12H8": [
+    "mst-mono-mc2d2022-000190"
+  ],
+  "RbB6O6H6": [
+    "mst-mono-mc2d2022-000448",
+    "mst-mono-mc2d2022-002586"
+  ],
+  "RbBrF4": [
+    "mst-mono-mc2d2022-002210"
+  ],
+  "RbC2O4H3": [
+    "mst-mono-mc2d2022-002351"
+  ],
+  "RbC4O4H3Cl4": [
+    "mst-mono-mc2d2022-000908"
+  ],
+  "RbCN": [
+    "mst-mono-mc2d2022-000073"
+  ],
+  "RbCSO3F3": [
+    "mst-mono-mc2d2022-002298"
+  ],
+  "RbCl": [
+    "mst-mono-mc2d2022-001850"
+  ],
+  "RbCu2I3": [
+    "mst-mono-mc2d2022-001525"
+  ],
+  "RbFe2Te3": [
+    "mst-mono-mc2d2022-001570"
+  ],
+  "RbGeI3": [
+    "mst-mono-mc2d2022-002297"
+  ],
+  "RbHg3OCl8": [
+    "mst-mono-mc2d2022-002684"
+  ],
+  "RbNb4Br11": [
+    "mst-mono-mc2d2022-001355"
+  ],
+  "RbSb2Se4": [
+    "mst-mono-mc2d2022-001576"
+  ],
+  "RbSbBrF3": [
+    "mst-mono-mc2d2022-002515"
+  ],
+  "RbSi2C6NH18": [
+    "mst-mono-mc2d2022-000211"
+  ],
+  "RbSnI3": [
+    "mst-mono-mc2d2022-000367"
+  ],
+  "RbTaCu2Se4": [
+    "mst-mono-mc2d2022-002519"
+  ],
+  "RbTaCu2Te4": [
+    "mst-mono-mc2d2022-001966"
+  ],
+  "Re2CoO8": [
+    "mst-mono-mc2d2022-001858"
+  ],
+  "Re2N2O4H4": [
+    "mst-mono-mc2d2022-000835"
+  ],
+  "Re2NiO8": [
+    "mst-mono-mc2d2022-001411"
+  ],
+  "Re2PbO8": [
+    "mst-mono-mc2d2022-002085"
+  ],
+  "Re2S2O13": [
+    "mst-mono-mc2d2022-001418"
+  ],
+  "Re2ZnO8": [
+    "mst-mono-mc2d2022-001362"
+  ],
+  "Re3Se4Cl": [
+    "mst-mono-mc2d2022-002186"
+  ],
+  "Re4Sb8O26": [
+    "mst-mono-mc2d2022-001700"
+  ],
+  "Re6Tl2Se8Cl4": [
+    "mst-mono-mc2d2022-002236"
+  ],
+  "Re6TlSe8Cl3": [
+    "mst-mono-mc2d2022-000270"
+  ],
+  "ReAg2Cl6": [
+    "mst-mono-mc2d2022-000026"
+  ],
+  "ReCl3": [
+    "mst-mono-mc2d2022-000361"
+  ],
+  "ReHgO4": [
+    "mst-mono-mc2d2022-000772"
+  ],
+  "ReN2": [
+    "mst-mono-mc2d2022-002375"
+  ],
+  "RePbO4Cl": [
+    "mst-mono-mc2d2022-002250"
+  ],
+  "ReS2": [
+    "mst-mono-mc2d2022-001065",
+    "mst-mono-mc2d2022-002420"
+  ],
+  "ReSe2": [
+    "mst-mono-mc2d2022-000072",
+    "mst-mono-mc2d2022-001840"
+  ],
+  "ReTe2": [
+    "mst-mono-mc2d2022-001015"
+  ],
+  "Rh2As2": [
+    "mst-mono-mc2d2022-000701"
+  ],
+  "RhBr3": [
+    "mst-mono-mc2d2022-000718"
+  ],
+  "RhCl3": [
+    "mst-mono-mc2d2022-000136"
+  ],
+  "RhN4Cl6": [
+    "mst-mono-mc2d2022-000715"
+  ],
+  "RhP": [
+    "mst-mono-mc2d2022-002086"
+  ],
+  "RhTe2": [
+    "mst-mono-mc2d2022-000605"
+  ],
+  "RhTeCl": [
+    "mst-mono-mc2d2022-001432"
+  ],
+  "Ru2As2": [
+    "mst-mono-mc2d2022-001443"
+  ],
+  "Ru6Hg2O12": [
+    "mst-mono-mc2d2022-002695"
+  ],
+  "RuAgF7": [
+    "mst-mono-mc2d2022-002028"
+  ],
+  "RuBi4Br2": [
+    "mst-mono-mc2d2022-001721"
+  ],
+  "RuCl3": [
+    "mst-mono-mc2d2022-001060"
+  ],
+  "RuF4": [
+    "mst-mono-mc2d2022-000292"
+  ],
+  "RuOCl2": [
+    "mst-mono-mc2d2022-002141"
+  ],
+  "S2Lu2Br2": [
+    "mst-mono-mc2d2022-002191"
+  ],
+  "S2Lu2I2": [
+    "mst-mono-mc2d2022-000740"
+  ],
+  "SO4H2": [
+    "mst-mono-mc2d2022-000114"
+  ],
+  "SO6I2": [
+    "mst-mono-mc2d2022-000501"
+  ],
+  "Sb10S12": [
+    "mst-mono-mc2d2022-002241"
+  ],
+  "Sb2Br9": [
+    "mst-mono-mc2d2022-000717"
+  ],
+  "Sb2O3": [
+    "mst-mono-mc2d2022-001429"
+  ],
+  "Sb2P3O9H3": [
+    "mst-mono-mc2d2022-001670"
+  ],
+  "Sb2S2O": [
+    "mst-mono-mc2d2022-001496",
+    "mst-mono-mc2d2022-001613"
+  ],
+  "Sb2S3": [
+    "mst-mono-mc2d2022-002713"
+  ],
+  "Sb2S4O2Lu2": [
+    "mst-mono-mc2d2022-002047"
+  ],
+  "Sb2Te2": [
+    "mst-mono-mc2d2022-000305"
+  ],
+  "Sb2Te2S": [
+    "mst-mono-mc2d2022-001641"
+  ],
+  "Sb2Te2Se": [
+    "mst-mono-mc2d2022-000196"
+  ],
+  "Sb2Te3": [
+    "mst-mono-mc2d2022-000951"
+  ],
+  "Sb2TeSe2": [
+    "mst-mono-mc2d2022-001008",
+    "mst-mono-mc2d2022-002374"
+  ],
+  "Sb2Yb2S4O2": [
+    "mst-mono-mc2d2022-002168"
+  ],
+  "Sb3O2F5": [
+    "mst-mono-mc2d2022-001223"
+  ],
+  "Sb4O5Br2": [
+    "mst-mono-mc2d2022-002607"
+  ],
+  "Sb4O5Cl2": [
+    "mst-mono-mc2d2022-000825"
+  ],
+  "Sb4O6": [
+    "mst-mono-mc2d2022-001179",
+    "mst-mono-mc2d2022-002480"
+  ],
+  "Sb4P2S4O26": [
+    "mst-mono-mc2d2022-002099"
+  ],
+  "Sb4P4O24": [
+    "mst-mono-mc2d2022-002258"
+  ],
+  "Sb4Se4O20F4": [
+    "mst-mono-mc2d2022-000842"
+  ],
+  "Sb4Se6": [
+    "mst-mono-mc2d2022-001664"
+  ],
+  "Sb4Te6": [
+    "mst-mono-mc2d2022-000731"
+  ],
+  "Sb5O7": [
+    "mst-mono-mc2d2022-000906"
+  ],
+  "Sb8N4O24": [
+    "mst-mono-mc2d2022-000414"
+  ],
+  "Sb8O11Cl2": [
+    "mst-mono-mc2d2022-000183"
+  ],
+  "SbAs": [
+    "mst-mono-mc2d2022-001697"
+  ],
+  "SbAsO3": [
+    "mst-mono-mc2d2022-001674"
+  ],
+  "SbI3": [
+    "mst-mono-mc2d2022-000333"
+  ],
+  "SbN9": [
+    "mst-mono-mc2d2022-000347",
+    "mst-mono-mc2d2022-002652"
+  ],
+  "SbOCl": [
+    "mst-mono-mc2d2022-001775"
+  ],
+  "SbPO4": [
+    "mst-mono-mc2d2022-002587"
+  ],
+  "SbTeI": [
+    "mst-mono-mc2d2022-001603"
+  ],
+  "SbTeO3Cl": [
+    "mst-mono-mc2d2022-002308"
+  ],
+  "Sc2Br6": [
+    "mst-mono-mc2d2022-002641"
+  ],
+  "Sc2CCl2": [
+    "mst-mono-mc2d2022-000548"
+  ],
+  "Sc2I6": [
+    "mst-mono-mc2d2022-001891"
+  ],
+  "Sc2NCl2": [
+    "mst-mono-mc2d2022-001673"
+  ],
+  "Sc2O2Cl2": [
+    "mst-mono-mc2d2022-000982"
+  ],
+  "Sc2Te5O13": [
+    "mst-mono-mc2d2022-000553"
+  ],
+  "Sc6C2I11": [
+    "mst-mono-mc2d2022-002350"
+  ],
+  "Sc7Cl10": [
+    "mst-mono-mc2d2022-001226"
+  ],
+  "ScAgP2S6": [
+    "mst-mono-mc2d2022-001153"
+  ],
+  "ScAgP2Se6": [
+    "mst-mono-mc2d2022-002415"
+  ],
+  "ScCl": [
+    "mst-mono-mc2d2022-002705"
+  ],
+  "ScCl3": [
+    "mst-mono-mc2d2022-002472"
+  ],
+  "ScHCl": [
+    "mst-mono-mc2d2022-000466"
+  ],
+  "ScO9I3": [
+    "mst-mono-mc2d2022-002050"
+  ],
+  "ScOBr": [
+    "mst-mono-mc2d2022-000189"
+  ],
+  "ScOI": [
+    "mst-mono-mc2d2022-000143"
+  ],
+  "ScP2S7": [
+    "mst-mono-mc2d2022-001503"
+  ],
+  "ScPS4": [
+    "mst-mono-mc2d2022-000257"
+  ],
+  "Se2Lu2F2": [
+    "mst-mono-mc2d2022-001805"
+  ],
+  "Se2Lu2I2": [
+    "mst-mono-mc2d2022-002171"
+  ],
+  "Se2O8H4": [
+    "mst-mono-mc2d2022-000860"
+  ],
+  "Si3Bi2O9": [
+    "mst-mono-mc2d2022-000364"
+  ],
+  "SiAs": [
+    "mst-mono-mc2d2022-001646"
+  ],
+  "SiAs2": [
+    "mst-mono-mc2d2022-002006"
+  ],
+  "SiH": [
+    "mst-mono-mc2d2022-000516"
+  ],
+  "SiN2F6": [
+    "mst-mono-mc2d2022-000703"
+  ],
+  "SiP": [
+    "mst-mono-mc2d2022-000016"
+  ],
+  "SiP2": [
+    "mst-mono-mc2d2022-000017"
+  ],
+  "SiPb2S4": [
+    "mst-mono-mc2d2022-002303"
+  ],
+  "SiPb2Se4": [
+    "mst-mono-mc2d2022-000264"
+  ],
+  "SiTe2": [
+    "mst-mono-mc2d2022-002132"
+  ],
+  "Sm": [
+    "mst-mono-mc2d2022-000637"
+  ],
+  "Sm2Bi2S4O2": [
+    "mst-mono-mc2d2022-001816"
+  ],
+  "Sm2Bi4Se8": [
+    "mst-mono-mc2d2022-001963"
+  ],
+  "Sm2I2F2": [
+    "mst-mono-mc2d2022-002203"
+  ],
+  "Sm2I6": [
+    "mst-mono-mc2d2022-000786",
+    "mst-mono-mc2d2022-002189"
+  ],
+  "Sm2N2O10": [
+    "mst-mono-mc2d2022-001048"
+  ],
+  "Sm2N2Se4O22": [
+    "mst-mono-mc2d2022-001794"
+  ],
+  "Sm2O20H4I6": [
+    "mst-mono-mc2d2022-001465"
+  ],
+  "Sm2O2I2": [
+    "mst-mono-mc2d2022-001791"
+  ],
+  "Sm2Sb2S4O2": [
+    "mst-mono-mc2d2022-000716"
+  ],
+  "Sm2Te5": [
+    "mst-mono-mc2d2022-000709"
+  ],
+  "Sm4Cl14": [
+    "mst-mono-mc2d2022-001969"
+  ],
+  "SmAl2Cl8": [
+    "mst-mono-mc2d2022-000229"
+  ],
+  "SmO2H2Cl": [
+    "mst-mono-mc2d2022-001042"
+  ],
+  "SmTe3": [
+    "mst-mono-mc2d2022-000732"
+  ],
+  "Sn": [
+    "mst-mono-mc2d2022-002002"
+  ],
+  "Sn2As": [
+    "mst-mono-mc2d2022-001435"
+  ],
+  "Sn2As2O8": [
+    "mst-mono-mc2d2022-001274"
+  ],
+  "Sn2C16O8H8": [
+    "mst-mono-mc2d2022-001763"
+  ],
+  "Sn2C2N2S2F2": [
+    "mst-mono-mc2d2022-002616"
+  ],
+  "Sn2I5": [
+    "mst-mono-mc2d2022-002634"
+  ],
+  "Sn2P": [
+    "mst-mono-mc2d2022-001626"
+  ],
+  "Sn2P2O6": [
+    "mst-mono-mc2d2022-002091"
+  ],
+  "Sn2P2O6H2": [
+    "mst-mono-mc2d2022-002286"
+  ],
+  "Sn2Sb2S5": [
+    "mst-mono-mc2d2022-000013"
+  ],
+  "Sn3S4": [
+    "mst-mono-mc2d2022-000010"
+  ],
+  "Sn4I10": [
+    "mst-mono-mc2d2022-001363"
+  ],
+  "Sn4S4O16": [
+    "mst-mono-mc2d2022-001611"
+  ],
+  "Sn4SI6": [
+    "mst-mono-mc2d2022-001055"
+  ],
+  "Sn6O8": [
+    "mst-mono-mc2d2022-002619"
+  ],
+  "Sn6P2O12": [
+    "mst-mono-mc2d2022-001132"
+  ],
+  "Sn6P4O18": [
+    "mst-mono-mc2d2022-001998"
+  ],
+  "Sn6S6": [
+    "mst-mono-mc2d2022-002638"
+  ],
+  "SnAs": [
+    "mst-mono-mc2d2022-002044"
+  ],
+  "SnBi2Se4": [
+    "mst-mono-mc2d2022-000755"
+  ],
+  "SnC2O3H": [
+    "mst-mono-mc2d2022-000239"
+  ],
+  "SnC2PO3H5": [
+    "mst-mono-mc2d2022-000578"
+  ],
+  "SnC6PO3H5": [
+    "mst-mono-mc2d2022-001644"
+  ],
+  "SnCl2": [
+    "mst-mono-mc2d2022-000335"
+  ],
+  "SnF2": [
+    "mst-mono-mc2d2022-001883"
+  ],
+  "SnF4": [
+    "mst-mono-mc2d2022-002392"
+  ],
+  "SnGeS3": [
+    "mst-mono-mc2d2022-000342"
+  ],
+  "SnI2": [
+    "mst-mono-mc2d2022-002216"
+  ],
+  "SnI3": [
+    "mst-mono-mc2d2022-002381"
+  ],
+  "SnO": [
+    "mst-mono-mc2d2022-001252",
+    "mst-mono-mc2d2022-001489"
+  ],
+  "SnP": [
+    "mst-mono-mc2d2022-001801"
+  ],
+  "SnP2S6": [
+    "mst-mono-mc2d2022-002387"
+  ],
+  "SnP3": [
+    "mst-mono-mc2d2022-001809"
+  ],
+  "SnPO3F": [
+    "mst-mono-mc2d2022-002130"
+  ],
+  "SnPO4": [
+    "mst-mono-mc2d2022-002722"
+  ],
+  "SnPO4H": [
+    "mst-mono-mc2d2022-002100"
+  ],
+  "SnPS3": [
+    "mst-mono-mc2d2022-000925",
+    "mst-mono-mc2d2022-002699"
+  ],
+  "SnPbF4": [
+    "mst-mono-mc2d2022-000483"
+  ],
+  "SnPbS2": [
+    "mst-mono-mc2d2022-000937"
+  ],
+  "SnS": [
+    "mst-mono-mc2d2022-000531"
+  ],
+  "SnS2": [
+    "mst-mono-mc2d2022-001620"
+  ],
+  "SnSO4": [
+    "mst-mono-mc2d2022-000362",
+    "mst-mono-mc2d2022-002005"
+  ],
+  "SnSb2S4": [
+    "mst-mono-mc2d2022-000726"
+  ],
+  "SnSb2Te4": [
+    "mst-mono-mc2d2022-002428"
+  ],
+  "SnSe": [
+    "mst-mono-mc2d2022-001518"
+  ],
+  "SnSe2": [
+    "mst-mono-mc2d2022-000435"
+  ],
+  "SnTe": [
+    "mst-mono-mc2d2022-002386"
+  ],
+  "Sr2BN2I": [
+    "mst-mono-mc2d2022-001194"
+  ],
+  "Sr2C8O14": [
+    "mst-mono-mc2d2022-001041"
+  ],
+  "Sr2C8O14H12": [
+    "mst-mono-mc2d2022-002266"
+  ],
+  "Sr2Ca2Cu2Bi2O8": [
+    "mst-mono-mc2d2022-001605"
+  ],
+  "Sr2CaCu2Bi2O8": [
+    "mst-mono-mc2d2022-001088"
+  ],
+  "Sr2CoO2Br2": [
+    "mst-mono-mc2d2022-000138"
+  ],
+  "Sr2CoO2Cl2": [
+    "mst-mono-mc2d2022-000082"
+  ],
+  "Sr2CoO3Cl": [
+    "mst-mono-mc2d2022-000884"
+  ],
+  "Sr2CuBi2O6": [
+    "mst-mono-mc2d2022-000326",
+    "mst-mono-mc2d2022-002184"
+  ],
+  "Sr2CuO2Br2": [
+    "mst-mono-mc2d2022-002419"
+  ],
+  "Sr2CuO2Cl2": [
+    "mst-mono-mc2d2022-002503"
+  ],
+  "Sr2CuO2I2": [
+    "mst-mono-mc2d2022-001168"
+  ],
+  "Sr2Fe4Se4O2": [
+    "mst-mono-mc2d2022-001896"
+  ],
+  "Sr2FeO3Br": [
+    "mst-mono-mc2d2022-002432"
+  ],
+  "Sr2FeO3Cl": [
+    "mst-mono-mc2d2022-001682"
+  ],
+  "Sr2MnO3Cl": [
+    "mst-mono-mc2d2022-000573"
+  ],
+  "Sr2N": [
+    "mst-mono-mc2d2022-001636"
+  ],
+  "Sr2Nd2Cu2O6Cl2": [
+    "mst-mono-mc2d2022-001289"
+  ],
+  "Sr2NiO3Cl": [
+    "mst-mono-mc2d2022-001334"
+  ],
+  "Sr2O4Cl4": [
+    "mst-mono-mc2d2022-000359"
+  ],
+  "Sr2O4H8Cl4": [
+    "mst-mono-mc2d2022-001136"
+  ],
+  "Sr2PO4I": [
+    "mst-mono-mc2d2022-000464"
+  ],
+  "Sr2Sn2F8": [
+    "mst-mono-mc2d2022-002692"
+  ],
+  "Sr2Tb2F12": [
+    "mst-mono-mc2d2022-002389"
+  ],
+  "Sr3Co2O4Cl2": [
+    "mst-mono-mc2d2022-002407"
+  ],
+  "Sr3Co2O5Cl2": [
+    "mst-mono-mc2d2022-001331"
+  ],
+  "Sr3Fe2O4Cl2": [
+    "mst-mono-mc2d2022-001831"
+  ],
+  "Sr3Fe2O5Br2": [
+    "mst-mono-mc2d2022-002477"
+  ],
+  "Sr3Fe2O5Cl2": [
+    "mst-mono-mc2d2022-001596"
+  ],
+  "Sr4Mn2Bi4O12": [
+    "mst-mono-mc2d2022-002096"
+  ],
+  "Sr4Mn3O8Cl2": [
+    "mst-mono-mc2d2022-002369"
+  ],
+  "Sr4P4O16H8F4": [
+    "mst-mono-mc2d2022-001728"
+  ],
+  "SrAl2Cl8": [
+    "mst-mono-mc2d2022-002460"
+  ],
+  "SrAu2O8": [
+    "mst-mono-mc2d2022-002670"
+  ],
+  "SrBi2O4": [
+    "mst-mono-mc2d2022-002609"
+  ],
+  "SrBiO2I": [
+    "mst-mono-mc2d2022-001302"
+  ],
+  "SrBiS2F": [
+    "mst-mono-mc2d2022-001949"
+  ],
+  "SrBrF": [
+    "mst-mono-mc2d2022-000430"
+  ],
+  "SrCeI4": [
+    "mst-mono-mc2d2022-002511"
+  ],
+  "SrCo2Te3O8Cl2": [
+    "mst-mono-mc2d2022-002349"
+  ],
+  "SrCu": [
+    "mst-mono-mc2d2022-000984"
+  ],
+  "SrCuO4H4": [
+    "mst-mono-mc2d2022-001790"
+  ],
+  "SrHBr": [
+    "mst-mono-mc2d2022-000419"
+  ],
+  "SrHI": [
+    "mst-mono-mc2d2022-001539"
+  ],
+  "SrI2": [
+    "mst-mono-mc2d2022-001197"
+  ],
+  "SrMnGe": [
+    "mst-mono-mc2d2022-001445"
+  ],
+  "SrMo2Se2O11": [
+    "mst-mono-mc2d2022-000041"
+  ],
+  "SrO10": [
+    "mst-mono-mc2d2022-000330"
+  ],
+  "SrO4Cl2": [
+    "mst-mono-mc2d2022-000311"
+  ],
+  "SrOH2I2": [
+    "mst-mono-mc2d2022-002070"
+  ],
+  "SrP2O4H4": [
+    "mst-mono-mc2d2022-001740"
+  ],
+  "SrP2O6H4": [
+    "mst-mono-mc2d2022-002430"
+  ],
+  "SrPO4H3": [
+    "mst-mono-mc2d2022-001009"
+  ],
+  "SrS3O12H4": [
+    "mst-mono-mc2d2022-001237"
+  ],
+  "SrSbSe2F": [
+    "mst-mono-mc2d2022-001456"
+  ],
+  "SrSe2O6H2": [
+    "mst-mono-mc2d2022-001724"
+  ],
+  "SrTa2O7": [
+    "mst-mono-mc2d2022-000415"
+  ],
+  "SrTeO4H2": [
+    "mst-mono-mc2d2022-000093"
+  ],
+  "Ta2Ag2Se4O14": [
+    "mst-mono-mc2d2022-000315"
+  ],
+  "Ta2AgF12": [
+    "mst-mono-mc2d2022-001144"
+  ],
+  "Ta2CS2": [
+    "mst-mono-mc2d2022-001229"
+  ],
+  "Ta2Mo2O11": [
+    "mst-mono-mc2d2022-000595"
+  ],
+  "Ta2Mo2O17": [
+    "mst-mono-mc2d2022-002281"
+  ],
+  "Ta2NiS5": [
+    "mst-mono-mc2d2022-001472"
+  ],
+  "Ta2NiSe5": [
+    "mst-mono-mc2d2022-002500"
+  ],
+  "Ta2NiSe7": [
+    "mst-mono-mc2d2022-000570"
+  ],
+  "Ta2Pd3Te5": [
+    "mst-mono-mc2d2022-001829"
+  ],
+  "Ta2PdS6": [
+    "mst-mono-mc2d2022-000391"
+  ],
+  "Ta2PdSe6": [
+    "mst-mono-mc2d2022-002660"
+  ],
+  "Ta2PtSe7": [
+    "mst-mono-mc2d2022-002324"
+  ],
+  "Ta2Se": [
+    "mst-mono-mc2d2022-001019"
+  ],
+  "Ta2Se3": [
+    "mst-mono-mc2d2022-001971"
+  ],
+  "Ta2Te3": [
+    "mst-mono-mc2d2022-001771"
+  ],
+  "Ta3Br7": [
+    "mst-mono-mc2d2022-001645"
+  ],
+  "Ta3I7": [
+    "mst-mono-mc2d2022-002683"
+  ],
+  "Ta3In2Cl9": [
+    "mst-mono-mc2d2022-001487"
+  ],
+  "Ta3Pd3Te14": [
+    "mst-mono-mc2d2022-002674"
+  ],
+  "Ta3SBr7": [
+    "mst-mono-mc2d2022-001863"
+  ],
+  "Ta3SeI7": [
+    "mst-mono-mc2d2022-002481"
+  ],
+  "Ta3SiTe6": [
+    "mst-mono-mc2d2022-001903"
+  ],
+  "Ta3TeI7": [
+    "mst-mono-mc2d2022-001314"
+  ],
+  "Ta4Co2PdSe12": [
+    "mst-mono-mc2d2022-000182"
+  ],
+  "Ta4Ni6Te10": [
+    "mst-mono-mc2d2022-000106"
+  ],
+  "Ta4Pd3Te16": [
+    "mst-mono-mc2d2022-001365"
+  ],
+  "Ta6S18": [
+    "mst-mono-mc2d2022-002453"
+  ],
+  "Ta6Tl4Cl18": [
+    "mst-mono-mc2d2022-000170"
+  ],
+  "TaCo2Te2": [
+    "mst-mono-mc2d2022-002147"
+  ],
+  "TaCoTe2": [
+    "mst-mono-mc2d2022-000184"
+  ],
+  "TaCu2TlS4": [
+    "mst-mono-mc2d2022-001406"
+  ],
+  "TaFeTe3": [
+    "mst-mono-mc2d2022-000680"
+  ],
+  "TaIrTe4": [
+    "mst-mono-mc2d2022-000047"
+  ],
+  "TaNS2": [
+    "mst-mono-mc2d2022-000506"
+  ],
+  "TaNi2Te2": [
+    "mst-mono-mc2d2022-000923"
+  ],
+  "TaNi2Te3": [
+    "mst-mono-mc2d2022-002143"
+  ],
+  "TaNi2TeSe": [
+    "mst-mono-mc2d2022-000903"
+  ],
+  "TaNiTe2": [
+    "mst-mono-mc2d2022-002196"
+  ],
+  "TaNiTe5": [
+    "mst-mono-mc2d2022-001946"
+  ],
+  "TaOI2": [
+    "mst-mono-mc2d2022-002131"
+  ],
+  "TaOsTe4": [
+    "mst-mono-mc2d2022-002136"
+  ],
+  "TaPtTe5": [
+    "mst-mono-mc2d2022-000762"
+  ],
+  "TaRhTe4": [
+    "mst-mono-mc2d2022-001100"
+  ],
+  "TaRuTe4": [
+    "mst-mono-mc2d2022-001083"
+  ],
+  "TaS2": [
+    "mst-mono-mc2d2022-000186",
+    "mst-mono-mc2d2022-001470"
+  ],
+  "TaS3": [
+    "mst-mono-mc2d2022-000730"
+  ],
+  "TaSe2": [
+    "mst-mono-mc2d2022-000727",
+    "mst-mono-mc2d2022-000741",
+    "mst-mono-mc2d2022-000975"
+  ],
+  "TaSe3": [
+    "mst-mono-mc2d2022-000411",
+    "mst-mono-mc2d2022-000851"
+  ],
+  "TaTe2": [
+    "mst-mono-mc2d2022-000384",
+    "mst-mono-mc2d2022-000444",
+    "mst-mono-mc2d2022-001246"
+  ],
+  "Tb2Br6": [
+    "mst-mono-mc2d2022-000522",
+    "mst-mono-mc2d2022-001764"
+  ],
+  "Tb2C2Br2": [
+    "mst-mono-mc2d2022-001402"
+  ],
+  "Tb2C8O12H12F2": [
+    "mst-mono-mc2d2022-000693"
+  ],
+  "Tb2Ga2I2": [
+    "mst-mono-mc2d2022-000053"
+  ],
+  "Tb2H4Br2": [
+    "mst-mono-mc2d2022-000058"
+  ],
+  "Tb2I6": [
+    "mst-mono-mc2d2022-000277",
+    "mst-mono-mc2d2022-001122"
+  ],
+  "Tb2O2Br2": [
+    "mst-mono-mc2d2022-000571"
+  ],
+  "Tb2S2I2": [
+    "mst-mono-mc2d2022-000956"
+  ],
+  "Tb2Sb2S4O2": [
+    "mst-mono-mc2d2022-001058"
+  ],
+  "Tb2Se2I2": [
+    "mst-mono-mc2d2022-000770"
+  ],
+  "Tb2Te6": [
+    "mst-mono-mc2d2022-001884"
+  ],
+  "TbCl": [
+    "mst-mono-mc2d2022-002283"
+  ],
+  "TbCl3": [
+    "mst-mono-mc2d2022-002255"
+  ],
+  "TbCuPbSe3": [
+    "mst-mono-mc2d2022-000148"
+  ],
+  "TbO2H2Cl": [
+    "mst-mono-mc2d2022-001737"
+  ],
+  "Tc4O14": [
+    "mst-mono-mc2d2022-000986"
+  ],
+  "Te2O5": [
+    "mst-mono-mc2d2022-000873"
+  ],
+  "Te2SO7": [
+    "mst-mono-mc2d2022-000482"
+  ],
+  "Te3Lu": [
+    "mst-mono-mc2d2022-002105"
+  ],
+  "Te3SeO8": [
+    "mst-mono-mc2d2022-000900"
+  ],
+  "Te4O8": [
+    "mst-mono-mc2d2022-001523"
+  ],
+  "Te4O9": [
+    "mst-mono-mc2d2022-000321"
+  ],
+  "Te5O13Lu2": [
+    "mst-mono-mc2d2022-000235"
+  ],
+  "TeO2": [
+    "mst-mono-mc2d2022-001607"
+  ],
+  "TeO3H": [
+    "mst-mono-mc2d2022-000591"
+  ],
+  "Ti2P4O12": [
+    "mst-mono-mc2d2022-000468"
+  ],
+  "Ti2P4O16": [
+    "mst-mono-mc2d2022-001705"
+  ],
+  "Ti2PTe2": [
+    "mst-mono-mc2d2022-000940"
+  ],
+  "Ti3O7H2": [
+    "mst-mono-mc2d2022-001983"
+  ],
+  "TiBr2": [
+    "mst-mono-mc2d2022-001711"
+  ],
+  "TiBr3": [
+    "mst-mono-mc2d2022-001112"
+  ],
+  "TiCl2": [
+    "mst-mono-mc2d2022-000129"
+  ],
+  "TiCl3": [
+    "mst-mono-mc2d2022-001428",
+    "mst-mono-mc2d2022-002550"
+  ],
+  "TiCu2S4": [
+    "mst-mono-mc2d2022-000673"
+  ],
+  "TiCu2Te3": [
+    "mst-mono-mc2d2022-002563"
+  ],
+  "TiCuTlTe3": [
+    "mst-mono-mc2d2022-001766"
+  ],
+  "TiH4": [
+    "mst-mono-mc2d2022-002334"
+  ],
+  "TiI2": [
+    "mst-mono-mc2d2022-000295"
+  ],
+  "TiNBr": [
+    "mst-mono-mc2d2022-000180"
+  ],
+  "TiNCl": [
+    "mst-mono-mc2d2022-000781"
+  ],
+  "TiNI": [
+    "mst-mono-mc2d2022-002202"
+  ],
+  "TiOBr": [
+    "mst-mono-mc2d2022-002232"
+  ],
+  "TiOCl": [
+    "mst-mono-mc2d2022-002055"
+  ],
+  "TiS2": [
+    "mst-mono-mc2d2022-000824"
+  ],
+  "TiS3": [
+    "mst-mono-mc2d2022-002257"
+  ],
+  "TiSe2": [
+    "mst-mono-mc2d2022-000307"
+  ],
+  "TiTe2": [
+    "mst-mono-mc2d2022-000171"
+  ],
+  "TiTl2F6": [
+    "mst-mono-mc2d2022-001256"
+  ],
+  "TiTl4S4": [
+    "mst-mono-mc2d2022-002329"
+  ],
+  "TiTl4Se4": [
+    "mst-mono-mc2d2022-001376"
+  ],
+  "TiTlPS5": [
+    "mst-mono-mc2d2022-000018"
+  ],
+  "TiV2Te4": [
+    "mst-mono-mc2d2022-001477"
+  ],
+  "Tl": [
+    "mst-mono-mc2d2022-000334",
+    "mst-mono-mc2d2022-002295"
+  ],
+  "Tl2B3S10": [
+    "mst-mono-mc2d2022-001092"
+  ],
+  "Tl2C14N6O2H8": [
+    "mst-mono-mc2d2022-002568"
+  ],
+  "Tl2CS3": [
+    "mst-mono-mc2d2022-002626"
+  ],
+  "Tl2Cl6": [
+    "mst-mono-mc2d2022-001881"
+  ],
+  "Tl2F6": [
+    "mst-mono-mc2d2022-000351"
+  ],
+  "Tl2Ge2S5": [
+    "mst-mono-mc2d2022-000382"
+  ],
+  "Tl2Ge2Se5": [
+    "mst-mono-mc2d2022-000658"
+  ],
+  "Tl2GePbS4": [
+    "mst-mono-mc2d2022-000853"
+  ],
+  "Tl2GeS3": [
+    "mst-mono-mc2d2022-001254"
+  ],
+  "Tl2O": [
+    "mst-mono-mc2d2022-000935"
+  ],
+  "Tl2S": [
+    "mst-mono-mc2d2022-001552",
+    "mst-mono-mc2d2022-002042",
+    "mst-mono-mc2d2022-002737"
+  ],
+  "Tl2S2Cl2": [
+    "mst-mono-mc2d2022-002112"
+  ],
+  "Tl2S2I2": [
+    "mst-mono-mc2d2022-001287"
+  ],
+  "Tl2Sb2P4S12": [
+    "mst-mono-mc2d2022-000500"
+  ],
+  "Tl2SiS3": [
+    "mst-mono-mc2d2022-000320"
+  ],
+  "Tl2SnAs2S6": [
+    "mst-mono-mc2d2022-000876"
+  ],
+  "Tl2SnS3": [
+    "mst-mono-mc2d2022-000751"
+  ],
+  "Tl2TeS3": [
+    "mst-mono-mc2d2022-002590"
+  ],
+  "Tl3AsS3": [
+    "mst-mono-mc2d2022-000674"
+  ],
+  "Tl3BS3": [
+    "mst-mono-mc2d2022-002289"
+  ],
+  "Tl3BSe3": [
+    "mst-mono-mc2d2022-000889"
+  ],
+  "Tl3S2O9H": [
+    "mst-mono-mc2d2022-000281"
+  ],
+  "Tl3SbS4": [
+    "mst-mono-mc2d2022-000434"
+  ],
+  "Tl4C12S4H8": [
+    "mst-mono-mc2d2022-001994"
+  ],
+  "Tl4C6O8": [
+    "mst-mono-mc2d2022-002305"
+  ],
+  "Tl4C8O8": [
+    "mst-mono-mc2d2022-002193"
+  ],
+  "Tl4O3": [
+    "mst-mono-mc2d2022-000708"
+  ],
+  "Tl4S3": [
+    "mst-mono-mc2d2022-001325"
+  ],
+  "TlB3S10": [
+    "mst-mono-mc2d2022-002076"
+  ],
+  "TlBS2": [
+    "mst-mono-mc2d2022-000800"
+  ],
+  "TlBiP2S6": [
+    "mst-mono-mc2d2022-001481"
+  ],
+  "TlC3N3O": [
+    "mst-mono-mc2d2022-001457"
+  ],
+  "TlF": [
+    "mst-mono-mc2d2022-000154"
+  ],
+  "TlO3I": [
+    "mst-mono-mc2d2022-001859"
+  ],
+  "TlO9I3": [
+    "mst-mono-mc2d2022-000165"
+  ],
+  "TlP5": [
+    "mst-mono-mc2d2022-001493"
+  ],
+  "TlPO4": [
+    "mst-mono-mc2d2022-000418"
+  ],
+  "TlPO4H2": [
+    "mst-mono-mc2d2022-001350"
+  ],
+  "TlS2O8": [
+    "mst-mono-mc2d2022-002347"
+  ],
+  "TlSbO3": [
+    "mst-mono-mc2d2022-000804"
+  ],
+  "TlSbSe2": [
+    "mst-mono-mc2d2022-000213"
+  ],
+  "TlTeF5": [
+    "mst-mono-mc2d2022-001134"
+  ],
+  "Tm2Br2F2": [
+    "mst-mono-mc2d2022-000812"
+  ],
+  "Tm2Br6": [
+    "mst-mono-mc2d2022-000916"
+  ],
+  "Tm2Cl6": [
+    "mst-mono-mc2d2022-000713",
+    "mst-mono-mc2d2022-001504"
+  ],
+  "Tm2I6": [
+    "mst-mono-mc2d2022-000965"
+  ],
+  "Tm2O2Br2": [
+    "mst-mono-mc2d2022-001281"
+  ],
+  "Tm2O2Cl2": [
+    "mst-mono-mc2d2022-002124"
+  ],
+  "Tm2S2I2": [
+    "mst-mono-mc2d2022-002425"
+  ],
+  "Tm2Sb2S4O2": [
+    "mst-mono-mc2d2022-000042"
+  ],
+  "Tm2Se2F2": [
+    "mst-mono-mc2d2022-001361"
+  ],
+  "Tm2Se2I2": [
+    "mst-mono-mc2d2022-001388"
+  ],
+  "Tm2Te5": [
+    "mst-mono-mc2d2022-001233"
+  ],
+  "Tm2Te5O13": [
+    "mst-mono-mc2d2022-000823"
+  ],
+  "TmI2": [
+    "mst-mono-mc2d2022-002148"
+  ],
+  "TmO2H2Cl": [
+    "mst-mono-mc2d2022-000705"
+  ],
+  "TmOI": [
+    "mst-mono-mc2d2022-000153"
+  ],
+  "TmTe3": [
+    "mst-mono-mc2d2022-002600"
+  ],
+  "V2Br6": [
+    "mst-mono-mc2d2022-001159"
+  ],
+  "V2C4N2O2H4F4": [
+    "mst-mono-mc2d2022-000743"
+  ],
+  "V2CoO6": [
+    "mst-mono-mc2d2022-000947"
+  ],
+  "V2CuN2O6H6": [
+    "mst-mono-mc2d2022-000176"
+  ],
+  "V2Dy2O8": [
+    "mst-mono-mc2d2022-001404"
+  ],
+  "V2NiP2O10": [
+    "mst-mono-mc2d2022-002556"
+  ],
+  "V2NiSe4": [
+    "mst-mono-mc2d2022-002422"
+  ],
+  "V2O5": [
+    "mst-mono-mc2d2022-000480",
+    "mst-mono-mc2d2022-001231",
+    "mst-mono-mc2d2022-001569",
+    "mst-mono-mc2d2022-001908",
+    "mst-mono-mc2d2022-002466"
+  ],
+  "V2O5H2": [
+    "mst-mono-mc2d2022-001574"
+  ],
+  "V2O6": [
+    "mst-mono-mc2d2022-000045"
+  ],
+  "V2P2O12": [
+    "mst-mono-mc2d2022-001105",
+    "mst-mono-mc2d2022-002088"
+  ],
+  "V2P4S13": [
+    "mst-mono-mc2d2022-001284"
+  ],
+  "V2Pb4O4F10": [
+    "mst-mono-mc2d2022-000664"
+  ],
+  "V2PbO2F8": [
+    "mst-mono-mc2d2022-000155",
+    "mst-mono-mc2d2022-000436"
+  ],
+  "V2PbO6": [
+    "mst-mono-mc2d2022-002158"
+  ],
+  "V2Tb2O8": [
+    "mst-mono-mc2d2022-000354"
+  ],
+  "V2Te2O7F2": [
+    "mst-mono-mc2d2022-001200"
+  ],
+  "V2Tl2S2O18H12": [
+    "mst-mono-mc2d2022-001762"
+  ],
+  "V3As2O9": [
+    "mst-mono-mc2d2022-000794"
+  ],
+  "V3NSe2O12": [
+    "mst-mono-mc2d2022-000209"
+  ],
+  "V3O10H6": [
+    "mst-mono-mc2d2022-000193"
+  ],
+  "V3O8": [
+    "mst-mono-mc2d2022-000217"
+  ],
+  "V3TlO8": [
+    "mst-mono-mc2d2022-002595"
+  ],
+  "V3TlSe2O12": [
+    "mst-mono-mc2d2022-002433"
+  ],
+  "V4Cu2P4O28": [
+    "mst-mono-mc2d2022-001084"
+  ],
+  "V4O10": [
+    "mst-mono-mc2d2022-000849",
+    "mst-mono-mc2d2022-002673"
+  ],
+  "V4O8H8F8": [
+    "mst-mono-mc2d2022-000681"
+  ],
+  "V4S9Br4": [
+    "mst-mono-mc2d2022-001276"
+  ],
+  "V5Tl3O14": [
+    "mst-mono-mc2d2022-001332"
+  ],
+  "V6N2O16": [
+    "mst-mono-mc2d2022-001780"
+  ],
+  "V6N4O16": [
+    "mst-mono-mc2d2022-001516"
+  ],
+  "V6O18": [
+    "mst-mono-mc2d2022-002528"
+  ],
+  "V6O20": [
+    "mst-mono-mc2d2022-002138"
+  ],
+  "V6Tl4O16": [
+    "mst-mono-mc2d2022-002155"
+  ],
+  "VAgO4H2": [
+    "mst-mono-mc2d2022-000181"
+  ],
+  "VAgP2S6": [
+    "mst-mono-mc2d2022-000377"
+  ],
+  "VAgP2Se6": [
+    "mst-mono-mc2d2022-002140"
+  ],
+  "VBr2": [
+    "mst-mono-mc2d2022-000478"
+  ],
+  "VC10N2H8F3": [
+    "mst-mono-mc2d2022-002023"
+  ],
+  "VC4O6H4F": [
+    "mst-mono-mc2d2022-000438",
+    "mst-mono-mc2d2022-001895"
+  ],
+  "VCl2": [
+    "mst-mono-mc2d2022-001336"
+  ],
+  "VCl3": [
+    "mst-mono-mc2d2022-002624"
+  ],
+  "VF4": [
+    "mst-mono-mc2d2022-000304"
+  ],
+  "VHgO3": [
+    "mst-mono-mc2d2022-000306"
+  ],
+  "VI2": [
+    "mst-mono-mc2d2022-000185"
+  ],
+  "VMoO5": [
+    "mst-mono-mc2d2022-000901"
+  ],
+  "VO2": [
+    "mst-mono-mc2d2022-002139"
+  ],
+  "VO3H2": [
+    "mst-mono-mc2d2022-001718"
+  ],
+  "VOBr": [
+    "mst-mono-mc2d2022-000216"
+  ],
+  "VOBr2": [
+    "mst-mono-mc2d2022-002457"
+  ],
+  "VOCl": [
+    "mst-mono-mc2d2022-000618"
+  ],
+  "VOCl2": [
+    "mst-mono-mc2d2022-000241"
+  ],
+  "VOF3": [
+    "mst-mono-mc2d2022-001702"
+  ],
+  "VP2S7": [
+    "mst-mono-mc2d2022-002539"
+  ],
+  "VPO5": [
+    "mst-mono-mc2d2022-000474",
+    "mst-mono-mc2d2022-002426"
+  ],
+  "VPO7": [
+    "mst-mono-mc2d2022-001451"
+  ],
+  "VPS3": [
+    "mst-mono-mc2d2022-002716"
+  ],
+  "VPbO3Cl": [
+    "mst-mono-mc2d2022-001799"
+  ],
+  "VRe2O9": [
+    "mst-mono-mc2d2022-000137"
+  ],
+  "VS2": [
+    "mst-mono-mc2d2022-000101"
+  ],
+  "VS2O8": [
+    "mst-mono-mc2d2022-002059"
+  ],
+  "VSe2": [
+    "mst-mono-mc2d2022-000890"
+  ],
+  "VSeO5H2": [
+    "mst-mono-mc2d2022-001616"
+  ],
+  "VTe2": [
+    "mst-mono-mc2d2022-000150"
+  ],
+  "VTeO4": [
+    "mst-mono-mc2d2022-001140"
+  ],
+  "VTlO3": [
+    "mst-mono-mc2d2022-001278"
+  ],
+  "W12Cl24": [
+    "mst-mono-mc2d2022-002177"
+  ],
+  "W12I16Cl8": [
+    "mst-mono-mc2d2022-002606"
+  ],
+  "W12I24": [
+    "mst-mono-mc2d2022-002402"
+  ],
+  "W2BiO2Br8": [
+    "mst-mono-mc2d2022-000534"
+  ],
+  "W2BiO2Cl8": [
+    "mst-mono-mc2d2022-002144"
+  ],
+  "W2CoCl10": [
+    "mst-mono-mc2d2022-001251"
+  ],
+  "W2Cu2O8": [
+    "mst-mono-mc2d2022-001748"
+  ],
+  "W2Fe2Cl10": [
+    "mst-mono-mc2d2022-001639"
+  ],
+  "W2FeCl10": [
+    "mst-mono-mc2d2022-002569"
+  ],
+  "W2N3": [
+    "mst-mono-mc2d2022-002656"
+  ],
+  "W2N4Te4O16": [
+    "mst-mono-mc2d2022-000400"
+  ],
+  "W2Tl3Cl9": [
+    "mst-mono-mc2d2022-001746"
+  ],
+  "W3Sn2Cl14": [
+    "mst-mono-mc2d2022-001595"
+  ],
+  "W4PBr11": [
+    "mst-mono-mc2d2022-000813"
+  ],
+  "W4PCl11": [
+    "mst-mono-mc2d2022-000696"
+  ],
+  "W4Pb4O8": [
+    "mst-mono-mc2d2022-000454"
+  ],
+  "W6BiCl15": [
+    "mst-mono-mc2d2022-002557"
+  ],
+  "WBi2Te2O10": [
+    "mst-mono-mc2d2022-001975"
+  ],
+  "WBr2": [
+    "mst-mono-mc2d2022-002629"
+  ],
+  "WCu2S4": [
+    "mst-mono-mc2d2022-000641"
+  ],
+  "WCu2Se4": [
+    "mst-mono-mc2d2022-000829"
+  ],
+  "WHg2O4": [
+    "mst-mono-mc2d2022-000936"
+  ],
+  "WNCl3": [
+    "mst-mono-mc2d2022-000475"
+  ],
+  "WO2Cl2": [
+    "mst-mono-mc2d2022-000562"
+  ],
+  "WO4H2": [
+    "mst-mono-mc2d2022-001097"
+  ],
+  "WP2O8": [
+    "mst-mono-mc2d2022-001567"
+  ],
+  "WS2": [
+    "mst-mono-mc2d2022-000763"
+  ],
+  "WSe2": [
+    "mst-mono-mc2d2022-001046"
+  ],
+  "WSn3O6": [
+    "mst-mono-mc2d2022-002314"
+  ],
+  "WTe2": [
+    "mst-mono-mc2d2022-000588",
+    "mst-mono-mc2d2022-000856"
+  ],
+  "Y2Br2": [
+    "mst-mono-mc2d2022-000747"
+  ],
+  "Y2Br6": [
+    "mst-mono-mc2d2022-001507"
+  ],
+  "Y2C2Cl2": [
+    "mst-mono-mc2d2022-000446"
+  ],
+  "Y2CBr2": [
+    "mst-mono-mc2d2022-002390"
+  ],
+  "Y2CI2": [
+    "mst-mono-mc2d2022-001191"
+  ],
+  "Y2Cl3": [
+    "mst-mono-mc2d2022-002502"
+  ],
+  "Y2GeI2": [
+    "mst-mono-mc2d2022-002373"
+  ],
+  "Y2I2": [
+    "mst-mono-mc2d2022-002583"
+  ],
+  "Y2MoTe3O12": [
+    "mst-mono-mc2d2022-001699"
+  ],
+  "Y2N2O10H4": [
+    "mst-mono-mc2d2022-001660"
+  ],
+  "Y2NCl3": [
+    "mst-mono-mc2d2022-001841"
+  ],
+  "Y2O2Br2": [
+    "mst-mono-mc2d2022-001795"
+  ],
+  "Y2O2I2": [
+    "mst-mono-mc2d2022-002259"
+  ],
+  "Y2P2O12H8": [
+    "mst-mono-mc2d2022-001258"
+  ],
+  "Y2PBr2": [
+    "mst-mono-mc2d2022-001839"
+  ],
+  "Y2S2Br2": [
+    "mst-mono-mc2d2022-002631"
+  ],
+  "Y2Sb2S4O2": [
+    "mst-mono-mc2d2022-002521"
+  ],
+  "Y2Se2F2": [
+    "mst-mono-mc2d2022-000878"
+  ],
+  "Y2Te5O13": [
+    "mst-mono-mc2d2022-001043"
+  ],
+  "Y4Br6": [
+    "mst-mono-mc2d2022-002661"
+  ],
+  "Y4CI5": [
+    "mst-mono-mc2d2022-001054"
+  ],
+  "Y6C2I7": [
+    "mst-mono-mc2d2022-002443"
+  ],
+  "Y6RuI10": [
+    "mst-mono-mc2d2022-000120"
+  ],
+  "Y7C3OI6": [
+    "mst-mono-mc2d2022-000410"
+  ],
+  "Y9C4OI8": [
+    "mst-mono-mc2d2022-000169"
+  ],
+  "YB3NH15": [
+    "mst-mono-mc2d2022-002115"
+  ],
+  "YBi2O4": [
+    "mst-mono-mc2d2022-002455"
+  ],
+  "YC4NO9": [
+    "mst-mono-mc2d2022-002485"
+  ],
+  "YCBr": [
+    "mst-mono-mc2d2022-000368"
+  ],
+  "YCI": [
+    "mst-mono-mc2d2022-002109"
+  ],
+  "YCl": [
+    "mst-mono-mc2d2022-001299"
+  ],
+  "YCl3": [
+    "mst-mono-mc2d2022-001556"
+  ],
+  "YGaI": [
+    "mst-mono-mc2d2022-001120"
+  ],
+  "YI3": [
+    "mst-mono-mc2d2022-001463"
+  ],
+  "YOCl": [
+    "mst-mono-mc2d2022-001710"
+  ],
+  "YTe3": [
+    "mst-mono-mc2d2022-000959"
+  ],
+  "Yb2Br2F2": [
+    "mst-mono-mc2d2022-001205"
+  ],
+  "Yb2Br6": [
+    "mst-mono-mc2d2022-001549"
+  ],
+  "Yb2Cl6": [
+    "mst-mono-mc2d2022-001551",
+    "mst-mono-mc2d2022-002551"
+  ],
+  "Yb2H2Br2": [
+    "mst-mono-mc2d2022-001695"
+  ],
+  "Yb2I2F2": [
+    "mst-mono-mc2d2022-002072"
+  ],
+  "Yb2I6": [
+    "mst-mono-mc2d2022-000871"
+  ],
+  "Yb2O20H4I6": [
+    "mst-mono-mc2d2022-002192"
+  ],
+  "Yb2S2Br2": [
+    "mst-mono-mc2d2022-001612"
+  ],
+  "Yb2S2I2": [
+    "mst-mono-mc2d2022-001577"
+  ],
+  "Yb2Se2F2": [
+    "mst-mono-mc2d2022-001818"
+  ],
+  "Yb2Se2I2": [
+    "mst-mono-mc2d2022-002368"
+  ],
+  "Yb2Te5O13": [
+    "mst-mono-mc2d2022-000565"
+  ],
+  "YbI2": [
+    "mst-mono-mc2d2022-002129"
+  ],
+  "YbO2H2Cl": [
+    "mst-mono-mc2d2022-000425"
+  ],
+  "YbOBr": [
+    "mst-mono-mc2d2022-002339"
+  ],
+  "YbOCl": [
+    "mst-mono-mc2d2022-000067"
+  ],
+  "YbSe2": [
+    "mst-mono-mc2d2022-002643"
+  ],
+  "Zn2BO3Cl2": [
+    "mst-mono-mc2d2022-001049"
+  ],
+  "Zn2C12O8H16": [
+    "mst-mono-mc2d2022-001177"
+  ],
+  "Zn2C16O10H10": [
+    "mst-mono-mc2d2022-001666"
+  ],
+  "Zn2C4P2O8H6": [
+    "mst-mono-mc2d2022-001657"
+  ],
+  "Zn2Hg3Se6": [
+    "mst-mono-mc2d2022-000299"
+  ],
+  "Zn2Hg3Se6Br2": [
+    "mst-mono-mc2d2022-000234"
+  ],
+  "Zn2In2S5": [
+    "mst-mono-mc2d2022-001772",
+    "mst-mono-mc2d2022-001785"
+  ],
+  "Zn2N12": [
+    "mst-mono-mc2d2022-001609"
+  ],
+  "Zn2N4Te2H8": [
+    "mst-mono-mc2d2022-000019"
+  ],
+  "Zn2P3S9": [
+    "mst-mono-mc2d2022-001874"
+  ],
+  "Zn2P4O8": [
+    "mst-mono-mc2d2022-001837"
+  ],
+  "Zn2Sb4O6Cl4": [
+    "mst-mono-mc2d2022-000254"
+  ],
+  "Zn2SeO3Cl2": [
+    "mst-mono-mc2d2022-001589"
+  ],
+  "Zn2Te3O8": [
+    "mst-mono-mc2d2022-000996"
+  ],
+  "Zn3As2O16H16": [
+    "mst-mono-mc2d2022-002562"
+  ],
+  "Zn3In2S6": [
+    "mst-mono-mc2d2022-002682"
+  ],
+  "Zn4As3": [
+    "mst-mono-mc2d2022-002704"
+  ],
+  "Zn4O4Cl4": [
+    "mst-mono-mc2d2022-001828"
+  ],
+  "Zn5N2O16": [
+    "mst-mono-mc2d2022-001449"
+  ],
+  "Zn5O6Cl2": [
+    "mst-mono-mc2d2022-000917"
+  ],
+  "Zn8S2O20": [
+    "mst-mono-mc2d2022-002424"
+  ],
+  "Zn8S2O26": [
+    "mst-mono-mc2d2022-001057"
+  ],
+  "ZnAl2S4": [
+    "mst-mono-mc2d2022-002037"
+  ],
+  "ZnAs2O4": [
+    "mst-mono-mc2d2022-001547"
+  ],
+  "ZnAs4O16H8": [
+    "mst-mono-mc2d2022-000063"
+  ],
+  "ZnB2C8N8": [
+    "mst-mono-mc2d2022-001005"
+  ],
+  "ZnBr2": [
+    "mst-mono-mc2d2022-001557"
+  ],
+  "ZnC11N2O6H16": [
+    "mst-mono-mc2d2022-002639"
+  ],
+  "ZnC2N2S2": [
+    "mst-mono-mc2d2022-001311"
+  ],
+  "ZnC4O6H6": [
+    "mst-mono-mc2d2022-000380"
+  ],
+  "ZnCl2": [
+    "mst-mono-mc2d2022-001834",
+    "mst-mono-mc2d2022-002512"
+  ],
+  "ZnF2": [
+    "mst-mono-mc2d2022-002183"
+  ],
+  "ZnHg3S2Cl4": [
+    "mst-mono-mc2d2022-000308"
+  ],
+  "ZnI2": [
+    "mst-mono-mc2d2022-000861"
+  ],
+  "ZnIn2S4": [
+    "mst-mono-mc2d2022-001757",
+    "mst-mono-mc2d2022-001923",
+    "mst-mono-mc2d2022-001930",
+    "mst-mono-mc2d2022-002036"
+  ],
+  "ZnIn2Se4O12": [
+    "mst-mono-mc2d2022-000826"
+  ],
+  "ZnN2O2H8F4": [
+    "mst-mono-mc2d2022-000665"
+  ],
+  "ZnN2O8H4": [
+    "mst-mono-mc2d2022-001160"
+  ],
+  "ZnN3OH": [
+    "mst-mono-mc2d2022-001519"
+  ],
+  "ZnO2": [
+    "mst-mono-mc2d2022-000459"
+  ],
+  "ZnO4HI": [
+    "mst-mono-mc2d2022-002107"
+  ],
+  "ZnO6H4Cl2": [
+    "mst-mono-mc2d2022-002669"
+  ],
+  "ZnOHF": [
+    "mst-mono-mc2d2022-000934"
+  ],
+  "ZnP2O10H8": [
+    "mst-mono-mc2d2022-000657"
+  ],
+  "ZnP2O4H4": [
+    "mst-mono-mc2d2022-000594"
+  ],
+  "ZnPO5H3": [
+    "mst-mono-mc2d2022-001091"
+  ],
+  "ZnPS3": [
+    "mst-mono-mc2d2022-000021"
+  ],
+  "ZnS": [
+    "mst-mono-mc2d2022-002326"
+  ],
+  "ZnSe2O8H6": [
+    "mst-mono-mc2d2022-000201"
+  ],
+  "ZnSeO4H2": [
+    "mst-mono-mc2d2022-001467"
+  ],
+  "ZnTe2": [
+    "mst-mono-mc2d2022-000721"
+  ],
+  "Zr2C2P2N2O6F6": [
+    "mst-mono-mc2d2022-001910"
+  ],
+  "Zr2H2Br2": [
+    "mst-mono-mc2d2022-001222",
+    "mst-mono-mc2d2022-001243"
+  ],
+  "Zr2H2Cl2": [
+    "mst-mono-mc2d2022-000151"
+  ],
+  "Zr2N2Cl2": [
+    "mst-mono-mc2d2022-001001"
+  ],
+  "Zr2PTe2": [
+    "mst-mono-mc2d2022-001943"
+  ],
+  "Zr2Te10": [
+    "mst-mono-mc2d2022-001658"
+  ],
+  "Zr3Cu2Tl2S8": [
+    "mst-mono-mc2d2022-001369"
+  ],
+  "Zr3Cu2Tl2Se8": [
+    "mst-mono-mc2d2022-001004"
+  ],
+  "Zr3SO9": [
+    "mst-mono-mc2d2022-002444"
+  ],
+  "Zr4H2Br4": [
+    "mst-mono-mc2d2022-002448"
+  ],
+  "Zr6N2F26": [
+    "mst-mono-mc2d2022-001209"
+  ],
+  "ZrBr": [
+    "mst-mono-mc2d2022-001069"
+  ],
+  "ZrCl": [
+    "mst-mono-mc2d2022-001253"
+  ],
+  "ZrCl2": [
+    "mst-mono-mc2d2022-000008"
+  ],
+  "ZrCl3": [
+    "mst-mono-mc2d2022-000494"
+  ],
+  "ZrCu2Te3": [
+    "mst-mono-mc2d2022-002015"
+  ],
+  "ZrCuTlS3": [
+    "mst-mono-mc2d2022-000904"
+  ],
+  "ZrCuTlSe3": [
+    "mst-mono-mc2d2022-001271"
+  ],
+  "ZrFeCl6": [
+    "mst-mono-mc2d2022-001521"
+  ],
+  "ZrGeSe": [
+    "mst-mono-mc2d2022-001878"
+  ],
+  "ZrGeTe": [
+    "mst-mono-mc2d2022-000349"
+  ],
+  "ZrGeTe4": [
+    "mst-mono-mc2d2022-001171"
+  ],
+  "ZrI2": [
+    "mst-mono-mc2d2022-001022"
+  ],
+  "ZrMo2O8": [
+    "mst-mono-mc2d2022-001851"
+  ],
+  "ZrNBr": [
+    "mst-mono-mc2d2022-000592",
+    "mst-mono-mc2d2022-002518",
+    "mst-mono-mc2d2022-002531"
+  ],
+  "ZrNCl": [
+    "mst-mono-mc2d2022-000579",
+    "mst-mono-mc2d2022-002378"
+  ],
+  "ZrNH3F4": [
+    "mst-mono-mc2d2022-001133"
+  ],
+  "ZrNI": [
+    "mst-mono-mc2d2022-000208",
+    "mst-mono-mc2d2022-001568"
+  ],
+  "ZrNS2": [
+    "mst-mono-mc2d2022-001754"
+  ],
+  "ZrO12I4": [
+    "mst-mono-mc2d2022-001777"
+  ],
+  "ZrP2O6H2": [
+    "mst-mono-mc2d2022-001513"
+  ],
+  "ZrP2O8H2": [
+    "mst-mono-mc2d2022-000090"
+  ],
+  "ZrPbF6": [
+    "mst-mono-mc2d2022-001548"
+  ],
+  "ZrS2": [
+    "mst-mono-mc2d2022-000866"
+  ],
+  "ZrS2O12": [
+    "mst-mono-mc2d2022-001476"
+  ],
+  "ZrS3": [
+    "mst-mono-mc2d2022-001294"
+  ],
+  "ZrSe2": [
+    "mst-mono-mc2d2022-001125"
+  ],
+  "ZrSe3": [
+    "mst-mono-mc2d2022-000537"
+  ],
+  "ZrSiSe": [
+    "mst-mono-mc2d2022-001982"
+  ],
+  "ZrSiTe": [
+    "mst-mono-mc2d2022-000691"
+  ],
+  "ZrTe2": [
+    "mst-mono-mc2d2022-001295"
+  ],
+  "ZrTe3": [
+    "mst-mono-mc2d2022-001524"
+  ],
+  "ZrTiSe4": [
+    "mst-mono-mc2d2022-000841"
+  ],
+  "ZrTiTe4": [
+    "mst-mono-mc2d2022-000312"
+  ],
+  "ZrTl2PbS4": [
+    "mst-mono-mc2d2022-001309"
+  ],
+  "ZrTl2S3": [
+    "mst-mono-mc2d2022-001798"
+  ],
+  "ZrTlF5": [
+    "mst-mono-mc2d2022-000932"
+  ]
+}

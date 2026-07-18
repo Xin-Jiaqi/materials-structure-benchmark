@@ -1,0 +1,41 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Ho1       0.5000000000115798  0.2500000000057882  0.3289957591190349  Ho       
+         Ho2       0.5000000000115798  0.2500000000057882  0.5662053924488875  Ho       
+         Te1       0.5000000000115798  0.2500000000057882  0.41300623592475777           Te       
+         Te2       0.5000000000115798  0.749999999994212   0.7365350306188011  Te       
+         Te3       0.5000000000115798  0.749999999994212   0.2632838026220504  Te       
+         Te4       0.5000000000115798  0.749999999994212   0.5000017704522395  Te       
+         Te5       0.5000000000115798  0.2500000000057882  0.6489168359133703  Te       
+         Ho3       0.0       0.749999999994212   0.671004240880828   Ho        
+         Ho4       0.0       0.749999999994212   0.4337946075510888  Ho        
+         Te6       1.267843030018715e-47         0.749999999994212   0.5869937640752422 Te       
+         Te7       5.401011307879726e-46         0.2500000000057882  0.26346496938110453          Te       
+         Te8       5.401011307879726e-46         0.2500000000057882  0.7367161973778428 Te       
+         Te9       7.607058180112289e-48         0.2500000000057882  0.49999822954776046          Te       
+         Te10      0.0       0.749999999994212   0.35108316408661117           Te
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          4.31742889037929
+_cell_length_b                          4.31960845809323
+_cell_length_c                          37.9348010361013

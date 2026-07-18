@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Pt1       0.0       0.2500973282364123  -0.5873175853038444           Pt       
+         Br1       0.0       0.023009327128780756          -0.5832298947747719           Br       
+         Br2       0.0       0.2501718762180268  -0.5031085234347324           Br       
+         N1        0.0       0.25010223691057953           -0.6432681334849372           N        
+         Br3       0.0       0.47719034795849846           -0.5832758747370804           Br       
+         K1        0.5       0.0       -0.5000000000016244           K         
+         K2        0.5       0.5000000000045618  -0.5000000000016244           K        
+         Pt2       0.0       0.7499026717635877  -0.4126824146961556           Pt       
+         Br4       0.0       0.5228096520415015  -0.4167241252629196           Br       
+         Br5       0.0       0.9769906728712192  -0.4167701052252281           Br       
+         Br6       0.0       0.7498281237819733  -0.49689147656526755          Br       
+         N2        0.0       0.7498977630894205  -0.3567318665150627           N
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          4.447959448
+_cell_length_b                          10.9604952717
+_cell_length_c                          30.7810909131

@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Si1       0.0       0.9172540560418274  0.5547914010111175  Si        
+         Si2       1.48164156177329e-26          0.4172542436967918  0.44520840135616785          Si       
+         Si3       0.49999999998644296           0.7012271353397254  0.4884150988040169 Si       
+         Si4       0.49999999998644296           0.2012271514153476  0.5115850051638912 Si       
+         As1       0.49999999998644296           0.5490895911470114  0.4197604724423912 As       
+         As2       0.49999999998644296           0.04908944948403502           0.5802395510234152 As       
+         As3       0.49999999998644296           0.6152057834898481  0.5753741520142391 As       
+         As4       0.49999999998644296           0.11520635811760944           0.4246259537419037 As       
+         As5       0.0       0.8406395495791242  0.46910936132381337           As       
+         As6       0.0       0.3406397065154506  0.5308905758821596  As        
+         As7       0.0       0.7438334442999279  0.6145346024905044  As        
+         As8       0.0       0.2438337178449041  0.385465397509469   As 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.67927244455448
+_cell_length_b                          10.4972316435386
+_cell_length_c                          26.2254146912011

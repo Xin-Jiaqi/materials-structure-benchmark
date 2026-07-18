@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Al1       0.15818909157233174           0.8365246471393575  0.5842863546962231 Al       
+         Al2       0.825941281536228   0.5034314052520135  0.4157107811575638  Al       
+         Cd1       0.49135171540821454           0.1698447581789172  0.5508525437215775 Cd       
+         Cd2       0.49277552511077855           0.17010569972209852           0.44913834351406234          Cd       
+         Cl1       0.23040163771604047           0.08659635663165227           0.6159968202957012 Cl       
+         Cl2       0.7537304857256312  0.25334038684180255           0.38401085074993174          Cl       
+         Cl3       0.4080879225694172  0.5142610230154574  0.616017709049016   Cl       
+         Cl4       0.5760265787273358  0.8257076880010303  0.38398692243916677           Cl       
+         Cl5       0.1584756054262471  0.8365953982717474  0.5027014245403615  Cl       
+         Cl6       0.8256539369829127  0.5033721006677949  0.4972926972817215  Cl       
+         Cl7       0.8358637468496121  0.9088115698310678  0.6160068346163544  Cl       
+         Cl8       0.14828358446508016           0.4311390038123785  0.3839987179498434 Cl
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       59.99839385975186
+_cell_length_a                          6.902291995875071
+_cell_length_b                          6.903990789136501
+_cell_length_c                          26.0325397024

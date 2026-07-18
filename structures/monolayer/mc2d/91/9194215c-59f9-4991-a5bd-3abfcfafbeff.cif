@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Tl1       0.3333333333269544  0.6666666666718442  0.5889759274167747  Tl       
+         Tl2       0.6666666666595942  0.33333333332815585           0.4110240725832254 Tl       
+         Pd1       0.0       0.0       0.5       Pd        
+         Pd2       0.9999999999932743  0.5       0.5       Pd        
+         Pd3       0.49999999999223377           0.49999999998446754           0.5      Pd       
+         Pd4       0.49999999999327427           0.0       0.5       Pd        
+         Se1       0.16940309194285721           0.338806183881157   0.44702631985008645          Se       
+         Se2       0.6611938161113335  0.8305969080594215  0.44702631985008645           Se       
+         Se3       0.1694030919380431  0.8305969080438891  0.44702631985008645           Se       
+         Se4       0.8305969080571427  0.661193816118843   0.5529736801499135  Se       
+         Se5       0.33880618388866657           0.1694030919405785  0.5529736801499135 Se       
+         Se6       0.830596908061957   0.169403091956111   0.5529736801499135  Se
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       120.00000000010289
+_cell_length_a                          7.4341038577
+_cell_length_b                          7.434103857776879
+_cell_length_c                          24.0140929118

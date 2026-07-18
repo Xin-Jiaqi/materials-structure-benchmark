@@ -1,0 +1,40 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Pb1       0.03716057175391557           0.0       -0.02087515825311984         Pb       
+         N1        0.6028199692500585  0.49999999999033884           -0.03469032538409549         N        
+         O1        0.8545024342383364  0.49999999999033884           -0.031123913171948327        O        
+         O2        0.4879269843613323  0.7121810647054432  -0.03649732419473092         O        
+         O3        0.4879269843613323  0.2878189352945587  -0.03649732419473092         O        
+         Pb2       0.03716057175391557           0.0       0.02087515825311984           Pb       
+         N2        0.6028199692500585  0.49999999999033884           0.03469032538409549          N        
+         O4        0.8545024342383364  0.49999999999033884           0.031123913171948327         O        
+         O5        0.4879269843613323  0.2878189352945587  0.03649732419473092           O        
+         O6        0.4879269843613323  0.7121810647054432  0.03649732419473092           O        
+         O7        0.7329678243509236  0.0       0.0       O         
+         F1        0.21667914377662872           0.749558200266201   0.0       F        
+         F2        0.21667914377662872           0.25044179971447655           0.0      F
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          4.98039434477412
+_cell_length_b                          5.17535333590924
+_cell_length_c                          78.9142275524

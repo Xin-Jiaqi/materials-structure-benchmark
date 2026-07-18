@@ -1,0 +1,39 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         In1       0.5000000000000049  0.5025892832321761  0.4538623032219559  In       
+         In2       0.0       0.0026403685856163555         0.5461386817449674  In       
+         In3       0.5000000000000049  0.7976312097140423  0.5224117609986562  In       
+         In4       0.0       0.29767620305177633           0.47758224813147604           In       
+         In5       0.5000000000000049  0.9644617138784463  0.3914008633908706  In       
+         In6       0.0       0.46442987541625286           0.6086026627673754  In       
+         In7       0.5000000000000049  0.26672050317749824           0.5888165942395427 In       
+         In8       0.0       0.7665639484089567  0.41113740859652986           In       
+         Se1       0.5000000000000049  0.6529810598182461  0.36673798224510906           Se       
+         Se2       0.0       0.15282030046810063           0.6332937440021981  Se       
+         Se3       0.5000000000000049  0.12051786386498393           0.48099949227574806          Se       
+         Se4       0.0       0.6205780443773459  0.5189880455341214  Se 
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          4.1302614966994
+_cell_length_b                          12.3949843102631
+_cell_length_c                          23.9808940217985

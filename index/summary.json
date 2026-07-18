@@ -1,0 +1,20 @@
+{
+  "classes": {
+    "computed": 2742,
+    "optimized": 2742,
+    "pristine": 2742
+  },
+  "collections": {
+    "mc2d-2022.84-optimized-monolayers": 2742
+  },
+  "phenomena": {},
+  "quality_flags": {
+    "source-metadata-cell-multiplicity-differs": 13,
+    "source-metadata-composition-mismatch": 3
+  },
+  "record_count": 2742,
+  "schema_version": 1,
+  "structure_types": {
+    "monolayer": 2742
+  }
+}

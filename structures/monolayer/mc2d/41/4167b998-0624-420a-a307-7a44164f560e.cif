@@ -1,0 +1,40 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Co1       0.0       0.0       0.0       Co        
+         Cl1       0.5000000000139944  0.0       0.07806280090636881           Cl       
+         Cl2       0.5000000000139944  0.0       -0.07806280090636881          Cl       
+         H1        0.0       0.3126728588691915  0.10224182285929133           H        
+         H2        0.0       0.6873271411308084  0.10224182285929133           H        
+         C1        0.0       0.396132581369787   0.05640558969858995           C        
+         C2        0.0       0.6038674186302129  0.05640558969858995           C        
+         N1        0.0       0.7118111157013798  0.0       N         
+         N2        0.0       0.2881888842986201  0.0       N         
+         H3        0.0       0.6873271411308084  -0.10224182285929133          H        
+         H4        0.0       0.3126728588691915  -0.10224182285929133          H        
+         C3        0.0       0.6038674186302129  -0.05640558969858995          C        
+         C4        0.0       0.396132581369787   -0.05640558969858995          C
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.5728579315
+_cell_length_b                          6.6608995051
+_cell_length_c                          20.3522868236

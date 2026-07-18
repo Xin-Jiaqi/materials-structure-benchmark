@@ -1,0 +1,42 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         Ni1       0.0       0.015545182359744612          -3.932606634047372e-06       Ni       
+         H1        0.0       0.2348810989364161  0.09987482070436861           H        
+         H2        0.0       0.23489580290589282           -0.09987879187022729         H        
+         H3        0.0       0.5097973698773053  0.10460246668312684           H        
+         H4        0.0       0.5098281542995186  -0.1045906795320328           H        
+         C1        0.0       0.3010493233335245  0.056213208039986196          C        
+         C2        0.0       0.30106087360208283           -0.05621580306953194         C        
+         C3        0.0       0.45316096004469925           0.05835975295666476           C        
+         C4        0.0       0.45317594180869586           -0.058352382383311474        C        
+         C5        0.0       0.5321655276427795  5.700082163367717e-06         C        
+         C6        0.0       0.687691190915671   9.83624541006563e-06          C        
+         N1        0.0       0.22597121345821647           -3.4776068181585505e-06      N        
+         N2        0.0       0.8152430343717498  1.0098883382566665e-05        N        
+         Cl1       0.49999999999999994           0.011417137817406041          -0.08059941280376824         Cl       
+         Cl2       0.49999999999999994           0.011567167161555527          0.08056859627239625          Cl
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.706171317
+_cell_length_b                          9.1117708189
+_cell_length_c                          20.7239644297

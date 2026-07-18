@@ -1,0 +1,41 @@
+
+##########################################################################
+#               Crystallographic Information Format file 
+#               Produced by PyCifRW module
+# 
+#  This is a CIF file.  CIF has been adopted by the International
+#  Union of Crystallography as the standard for data archiving and 
+#  transmission.
+#
+#  For information on this file format, follow the CIF links at
+#  http://www.iucr.org
+##########################################################################
+
+data_0
+
+loop_
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_type_symbol
+         K1        0.0       0.16179853263942215           0.15046527058298392           K        
+         K2        0.0       0.8382014673703331  -0.15046527058298392          K        
+         Si1       0.5000000000134196  0.097237133597421   0.017855125031196652         Si       
+         Si2       0.5000000000134196  0.9027628664025812  -0.017855125031196652        Si       
+         Si3       0.0       0.38808844913485024           0.007507156797457881         Si       
+         Si4       0.0       0.6119115508651516  -0.007507156797457881         Si       
+         Si5       0.0       0.32599514257542084           0.07222637979577207           Si       
+         Si6       0.0       0.6740048574245809  -0.07222637979577207          Si       
+         As1       0.0       0.09056927653231725           0.06089228506481306           As       
+         As2       0.0       0.9094307234676844  -0.06089228506481306          As       
+         As3       0.5000000000134196  0.3887074128954132  0.11026819652658693           As       
+         As4       0.5000000000134196  0.6112925871045896  -0.11026819652658693         As       
+         As5       0.5000000000134196  0.7150233161375183  0.02452209080932975           As       
+         As6       0.5000000000134196  0.28497668386248437           -0.02452209080932975         As
+_cell_angle_alpha                       90.0
+_cell_angle_beta                        90.0
+_cell_angle_gamma                       90.0
+_cell_length_a                          3.72626642755721
+_cell_length_b                          10.2528493504985
+_cell_length_c                          35.0345561772
