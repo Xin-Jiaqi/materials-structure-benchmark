@@ -109,7 +109,9 @@
     "mst-mono-mc2d2022-002714",
     "mst-mono-mc2d2022-002718",
     "mst-mono-mc2d2022-002723",
-    "mst-mono-mc2d2022-002741"
+    "mst-mono-mc2d2022-002741",
+    "mst-bulk-cod-000007",
+    "mst-bulk-cod-000037"
   ],
   "Al": [
     "mst-mono-mc2d2022-000030",
@@ -283,7 +285,12 @@
     "mst-mono-mc2d2022-002708",
     "mst-mono-mc2d2022-002724",
     "mst-mono-mc2d2022-002734",
-    "mst-mono-mc2d2022-002741"
+    "mst-mono-mc2d2022-002741",
+    "mst-bulk-cod-000002",
+    "mst-bulk-cod-000003",
+    "mst-bulk-cod-000006",
+    "mst-bulk-cod-000030",
+    "mst-bulk-cod-000038"
   ],
   "Au": [
     "mst-mono-mc2d2022-000003",
@@ -325,7 +332,10 @@
     "mst-mono-mc2d2022-002525",
     "mst-mono-mc2d2022-002579",
     "mst-mono-mc2d2022-002670",
-    "mst-mono-mc2d2022-002671"
+    "mst-mono-mc2d2022-002671",
+    "mst-bulk-cod-000010",
+    "mst-bulk-cod-000011",
+    "mst-bulk-cod-000012"
   ],
   "B": [
     "mst-mono-mc2d2022-000004",
@@ -587,7 +597,12 @@
     "mst-mono-mc2d2022-002694",
     "mst-mono-mc2d2022-002720",
     "mst-mono-mc2d2022-002723",
-    "mst-mono-mc2d2022-002729"
+    "mst-mono-mc2d2022-002729",
+    "mst-bulk-cod-000009",
+    "mst-bulk-cod-000032",
+    "mst-bulk-cod-000036",
+    "mst-bulk-cod-000051",
+    "mst-bulk-cod-000055"
   ],
   "Br": [
     "mst-mono-mc2d2022-000007",
@@ -836,7 +851,12 @@
     "mst-mono-mc2d2022-002661",
     "mst-mono-mc2d2022-002679",
     "mst-mono-mc2d2022-002706",
-    "mst-mono-mc2d2022-002730"
+    "mst-mono-mc2d2022-002730",
+    "mst-bulk-cod-000004",
+    "mst-bulk-cod-000017",
+    "mst-bulk-cod-000026",
+    "mst-bulk-cod-000034",
+    "mst-bulk-cod-000059"
   ],
   "C": [
     "mst-mono-mc2d2022-000001",
@@ -1374,7 +1394,8 @@
     "mst-mono-mc2d2022-002582",
     "mst-mono-mc2d2022-002650",
     "mst-mono-mc2d2022-002662",
-    "mst-mono-mc2d2022-002738"
+    "mst-mono-mc2d2022-002738",
+    "mst-bulk-cod-000003"
   ],
   "Ce": [
     "mst-mono-mc2d2022-000034",
@@ -1776,7 +1797,17 @@
     "mst-mono-mc2d2022-002733",
     "mst-mono-mc2d2022-002739",
     "mst-mono-mc2d2022-002740",
-    "mst-mono-mc2d2022-002742"
+    "mst-mono-mc2d2022-002742",
+    "mst-bulk-cod-000013",
+    "mst-bulk-cod-000015",
+    "mst-bulk-cod-000018",
+    "mst-bulk-cod-000022",
+    "mst-bulk-cod-000031",
+    "mst-bulk-cod-000037",
+    "mst-bulk-cod-000045",
+    "mst-bulk-cod-000046",
+    "mst-bulk-cod-000057",
+    "mst-bulk-cod-000058"
   ],
   "Co": [
     "mst-mono-mc2d2022-000032",
@@ -1848,7 +1879,9 @@
     "mst-mono-mc2d2022-002454",
     "mst-mono-mc2d2022-002621",
     "mst-mono-mc2d2022-002675",
-    "mst-mono-mc2d2022-002688"
+    "mst-mono-mc2d2022-002688",
+    "mst-bulk-cod-000057",
+    "mst-bulk-cod-000059"
   ],
   "Cr": [
     "mst-mono-mc2d2022-000052",
@@ -1900,7 +1933,8 @@
     "mst-mono-mc2d2022-002309",
     "mst-mono-mc2d2022-002340",
     "mst-mono-mc2d2022-002360",
-    "mst-mono-mc2d2022-002572"
+    "mst-mono-mc2d2022-002572",
+    "mst-bulk-cod-000004"
   ],
   "Cs": [
     "mst-mono-mc2d2022-000037",
@@ -2180,7 +2214,8 @@
     "mst-mono-mc2d2022-002668",
     "mst-mono-mc2d2022-002703",
     "mst-mono-mc2d2022-002736",
-    "mst-mono-mc2d2022-002739"
+    "mst-mono-mc2d2022-002739",
+    "mst-bulk-cod-000031"
   ],
   "Dy": [
     "mst-mono-mc2d2022-000290",
@@ -2432,7 +2467,8 @@
     "mst-mono-mc2d2022-002667",
     "mst-mono-mc2d2022-002692",
     "mst-mono-mc2d2022-002701",
-    "mst-mono-mc2d2022-002741"
+    "mst-mono-mc2d2022-002741",
+    "mst-bulk-cod-000035"
   ],
   "Fe": [
     "mst-mono-mc2d2022-000002",
@@ -2532,7 +2568,9 @@
     "mst-mono-mc2d2022-002633",
     "mst-mono-mc2d2022-002649",
     "mst-mono-mc2d2022-002651",
-    "mst-mono-mc2d2022-002725"
+    "mst-mono-mc2d2022-002725",
+    "mst-bulk-cod-000016",
+    "mst-bulk-cod-000058"
   ],
   "Ga": [
     "mst-mono-mc2d2022-000053",
@@ -2588,7 +2626,9 @@
     "mst-mono-mc2d2022-002267",
     "mst-mono-mc2d2022-002274",
     "mst-mono-mc2d2022-002280",
-    "mst-mono-mc2d2022-002284"
+    "mst-mono-mc2d2022-002284",
+    "mst-bulk-cod-000016",
+    "mst-bulk-cod-000040"
   ],
   "Gd": [
     "mst-mono-mc2d2022-000038",
@@ -2689,7 +2729,9 @@
     "mst-mono-mc2d2022-002505",
     "mst-mono-mc2d2022-002596",
     "mst-mono-mc2d2022-002622",
-    "mst-mono-mc2d2022-002726"
+    "mst-mono-mc2d2022-002726",
+    "mst-bulk-cod-000002",
+    "mst-bulk-cod-000008"
   ],
   "H": [
     "mst-mono-mc2d2022-000001",
@@ -3220,7 +3262,8 @@
     "mst-mono-mc2d2022-002732",
     "mst-mono-mc2d2022-002738",
     "mst-mono-mc2d2022-002739",
-    "mst-mono-mc2d2022-002742"
+    "mst-mono-mc2d2022-002742",
+    "mst-bulk-cod-000023"
   ],
   "Hf": [
     "mst-mono-mc2d2022-000076",
@@ -3369,7 +3412,8 @@
     "mst-mono-mc2d2022-002695",
     "mst-mono-mc2d2022-002697",
     "mst-mono-mc2d2022-002715",
-    "mst-mono-mc2d2022-002728"
+    "mst-mono-mc2d2022-002728",
+    "mst-bulk-cod-000056"
   ],
   "Ho": [
     "mst-mono-mc2d2022-000226",
@@ -3638,7 +3682,16 @@
     "mst-mono-mc2d2022-002696",
     "mst-mono-mc2d2022-002726",
     "mst-mono-mc2d2022-002734",
-    "mst-mono-mc2d2022-002735"
+    "mst-mono-mc2d2022-002735",
+    "mst-bulk-cod-000001",
+    "mst-bulk-cod-000008",
+    "mst-bulk-cod-000009",
+    "mst-bulk-cod-000010",
+    "mst-bulk-cod-000041",
+    "mst-bulk-cod-000047",
+    "mst-bulk-cod-000048",
+    "mst-bulk-cod-000049",
+    "mst-bulk-cod-000056"
   ],
   "In": [
     "mst-mono-mc2d2022-000096",
@@ -3707,7 +3760,8 @@
     "mst-mono-mc2d2022-002668",
     "mst-mono-mc2d2022-002682",
     "mst-mono-mc2d2022-002721",
-    "mst-mono-mc2d2022-002730"
+    "mst-mono-mc2d2022-002730",
+    "mst-bulk-cod-000039"
   ],
   "Ir": [
     "mst-mono-mc2d2022-000047",
@@ -3725,7 +3779,8 @@
     "mst-mono-mc2d2022-002041",
     "mst-mono-mc2d2022-002290",
     "mst-mono-mc2d2022-002598",
-    "mst-mono-mc2d2022-002655"
+    "mst-mono-mc2d2022-002655",
+    "mst-bulk-cod-000017"
   ],
   "K": [
     "mst-mono-mc2d2022-000002",
@@ -4034,7 +4089,13 @@
     "mst-mono-mc2d2022-002725",
     "mst-mono-mc2d2022-002730",
     "mst-mono-mc2d2022-002731",
-    "mst-mono-mc2d2022-002736"
+    "mst-mono-mc2d2022-002736",
+    "mst-bulk-cod-000002",
+    "mst-bulk-cod-000003",
+    "mst-bulk-cod-000011",
+    "mst-bulk-cod-000018",
+    "mst-bulk-cod-000021",
+    "mst-bulk-cod-000030"
   ],
   "La": [
     "mst-mono-mc2d2022-000070",
@@ -4199,7 +4260,9 @@
     "mst-mono-mc2d2022-002637",
     "mst-mono-mc2d2022-002680",
     "mst-mono-mc2d2022-002709",
-    "mst-mono-mc2d2022-002711"
+    "mst-mono-mc2d2022-002711",
+    "mst-bulk-cod-000006",
+    "mst-bulk-cod-000010"
   ],
   "Lu": [
     "mst-mono-mc2d2022-000031",
@@ -4281,7 +4344,8 @@
     "mst-mono-mc2d2022-002534",
     "mst-mono-mc2d2022-002538",
     "mst-mono-mc2d2022-002591",
-    "mst-mono-mc2d2022-002717"
+    "mst-mono-mc2d2022-002717",
+    "mst-bulk-cod-000023"
   ],
   "Mn": [
     "mst-mono-mc2d2022-000005",
@@ -4345,7 +4409,9 @@
     "mst-mono-mc2d2022-002506",
     "mst-mono-mc2d2022-002585",
     "mst-mono-mc2d2022-002627",
-    "mst-mono-mc2d2022-002709"
+    "mst-mono-mc2d2022-002709",
+    "mst-bulk-cod-000041",
+    "mst-bulk-cod-000045"
   ],
   "Mo": [
     "mst-mono-mc2d2022-000014",
@@ -4417,7 +4483,8 @@
     "mst-mono-mc2d2022-002570",
     "mst-mono-mc2d2022-002603",
     "mst-mono-mc2d2022-002620",
-    "mst-mono-mc2d2022-002678"
+    "mst-mono-mc2d2022-002678",
+    "mst-bulk-cod-000050"
   ],
   "N": [
     "mst-mono-mc2d2022-000007",
@@ -4786,7 +4853,10 @@
     "mst-mono-mc2d2022-002680",
     "mst-mono-mc2d2022-002703",
     "mst-mono-mc2d2022-002725",
-    "mst-mono-mc2d2022-002738"
+    "mst-mono-mc2d2022-002738",
+    "mst-bulk-cod-000007",
+    "mst-bulk-cod-000013",
+    "mst-bulk-cod-000035"
   ],
   "Na": [
     "mst-mono-mc2d2022-000029",
@@ -5030,7 +5100,9 @@
     "mst-mono-mc2d2022-002642",
     "mst-mono-mc2d2022-002659",
     "mst-mono-mc2d2022-002666",
-    "mst-mono-mc2d2022-002698"
+    "mst-mono-mc2d2022-002698",
+    "mst-bulk-cod-000015",
+    "mst-bulk-cod-000026"
   ],
   "Nd": [
     "mst-mono-mc2d2022-000061",
@@ -5121,7 +5193,11 @@
     "mst-mono-mc2d2022-002573",
     "mst-mono-mc2d2022-002658",
     "mst-mono-mc2d2022-002677",
-    "mst-mono-mc2d2022-002738"
+    "mst-mono-mc2d2022-002738",
+    "mst-bulk-cod-000014",
+    "mst-bulk-cod-000034",
+    "mst-bulk-cod-000046",
+    "mst-bulk-cod-000047"
   ],
   "O": [
     "mst-mono-mc2d2022-000001",
@@ -6323,7 +6399,12 @@
     "mst-mono-mc2d2022-002732",
     "mst-mono-mc2d2022-002733",
     "mst-mono-mc2d2022-002739",
-    "mst-mono-mc2d2022-002742"
+    "mst-mono-mc2d2022-002742",
+    "mst-bulk-cod-000014",
+    "mst-bulk-cod-000020",
+    "mst-bulk-cod-000021",
+    "mst-bulk-cod-000023",
+    "mst-bulk-cod-000037"
   ],
   "Os": [
     "mst-mono-mc2d2022-000989",
@@ -6612,7 +6693,8 @@
     "mst-mono-mc2d2022-002723",
     "mst-mono-mc2d2022-002725",
     "mst-mono-mc2d2022-002728",
-    "mst-mono-mc2d2022-002731"
+    "mst-mono-mc2d2022-002731",
+    "mst-bulk-cod-000019"
   ],
   "Pb": [
     "mst-mono-mc2d2022-000044",
@@ -6739,7 +6821,8 @@
     "mst-mono-mc2d2022-002640",
     "mst-mono-mc2d2022-002678",
     "mst-mono-mc2d2022-002702",
-    "mst-mono-mc2d2022-002732"
+    "mst-mono-mc2d2022-002732",
+    "mst-bulk-cod-000049"
   ],
   "Pd": [
     "mst-mono-mc2d2022-000127",
@@ -6794,7 +6877,9 @@
     "mst-mono-mc2d2022-002615",
     "mst-mono-mc2d2022-002660",
     "mst-mono-mc2d2022-002674",
-    "mst-mono-mc2d2022-002740"
+    "mst-mono-mc2d2022-002740",
+    "mst-bulk-cod-000025",
+    "mst-bulk-cod-000042"
   ],
   "Pr": [
     "mst-mono-mc2d2022-000025",
@@ -6859,7 +6944,10 @@
     "mst-mono-mc2d2022-002635",
     "mst-mono-mc2d2022-002672",
     "mst-mono-mc2d2022-002707",
-    "mst-mono-mc2d2022-002727"
+    "mst-mono-mc2d2022-002727",
+    "mst-bulk-cod-000029",
+    "mst-bulk-cod-000043",
+    "mst-bulk-cod-000044"
   ],
   "Rb": [
     "mst-mono-mc2d2022-000073",
@@ -7429,7 +7517,16 @@
     "mst-mono-mc2d2022-002716",
     "mst-mono-mc2d2022-002723",
     "mst-mono-mc2d2022-002732",
-    "mst-mono-mc2d2022-002737"
+    "mst-mono-mc2d2022-002737",
+    "mst-bulk-cod-000005",
+    "mst-bulk-cod-000016",
+    "mst-bulk-cod-000025",
+    "mst-bulk-cod-000027",
+    "mst-bulk-cod-000029",
+    "mst-bulk-cod-000036",
+    "mst-bulk-cod-000052",
+    "mst-bulk-cod-000054",
+    "mst-bulk-cod-000055"
   ],
   "Sb": [
     "mst-mono-mc2d2022-000013",
@@ -7544,7 +7641,10 @@
     "mst-mono-mc2d2022-002607",
     "mst-mono-mc2d2022-002636",
     "mst-mono-mc2d2022-002652",
-    "mst-mono-mc2d2022-002713"
+    "mst-mono-mc2d2022-002713",
+    "mst-bulk-cod-000001",
+    "mst-bulk-cod-000024",
+    "mst-bulk-cod-000033"
   ],
   "Sc": [
     "mst-mono-mc2d2022-000143",
@@ -7916,7 +8016,20 @@
     "mst-mono-mc2d2022-002727",
     "mst-mono-mc2d2022-002729",
     "mst-mono-mc2d2022-002736",
-    "mst-mono-mc2d2022-002741"
+    "mst-mono-mc2d2022-002741",
+    "mst-bulk-cod-000011",
+    "mst-bulk-cod-000012",
+    "mst-bulk-cod-000015",
+    "mst-bulk-cod-000024",
+    "mst-bulk-cod-000026",
+    "mst-bulk-cod-000028",
+    "mst-bulk-cod-000032",
+    "mst-bulk-cod-000033",
+    "mst-bulk-cod-000039",
+    "mst-bulk-cod-000040",
+    "mst-bulk-cod-000044",
+    "mst-bulk-cod-000051",
+    "mst-bulk-cod-000053"
   ],
   "Si": [
     "mst-mono-mc2d2022-000016",
@@ -7981,7 +8094,8 @@
     "mst-mono-mc2d2022-002681",
     "mst-mono-mc2d2022-002687",
     "mst-mono-mc2d2022-002688",
-    "mst-mono-mc2d2022-002717"
+    "mst-mono-mc2d2022-002717",
+    "mst-bulk-cod-000035"
   ],
   "Sm": [
     "mst-mono-mc2d2022-000229",
@@ -8081,7 +8195,8 @@
     "mst-mono-mc2d2022-002638",
     "mst-mono-mc2d2022-002692",
     "mst-mono-mc2d2022-002699",
-    "mst-mono-mc2d2022-002722"
+    "mst-mono-mc2d2022-002722",
+    "mst-bulk-cod-000019"
   ],
   "Sr": [
     "mst-mono-mc2d2022-000041",
@@ -8534,7 +8649,14 @@
     "mst-mono-mc2d2022-002687",
     "mst-mono-mc2d2022-002700",
     "mst-mono-mc2d2022-002709",
-    "mst-mono-mc2d2022-002710"
+    "mst-mono-mc2d2022-002710",
+    "mst-bulk-cod-000001",
+    "mst-bulk-cod-000032",
+    "mst-bulk-cod-000033",
+    "mst-bulk-cod-000036",
+    "mst-bulk-cod-000042",
+    "mst-bulk-cod-000043",
+    "mst-bulk-cod-000050"
   ],
   "Ti": [
     "mst-mono-mc2d2022-000018",
@@ -8582,7 +8704,8 @@
     "mst-mono-mc2d2022-002334",
     "mst-mono-mc2d2022-002498",
     "mst-mono-mc2d2022-002550",
-    "mst-mono-mc2d2022-002563"
+    "mst-mono-mc2d2022-002563",
+    "mst-bulk-cod-000005"
   ],
   "Tl": [
     "mst-mono-mc2d2022-000018",
@@ -8698,7 +8821,11 @@
     "mst-mono-mc2d2022-002664",
     "mst-mono-mc2d2022-002672",
     "mst-mono-mc2d2022-002698",
-    "mst-mono-mc2d2022-002737"
+    "mst-mono-mc2d2022-002737",
+    "mst-bulk-cod-000018",
+    "mst-bulk-cod-000020",
+    "mst-bulk-cod-000021",
+    "mst-bulk-cod-000054"
   ],
   "Tm": [
     "mst-mono-mc2d2022-000042",
@@ -8824,7 +8951,8 @@
     "mst-mono-mc2d2022-002673",
     "mst-mono-mc2d2022-002716",
     "mst-mono-mc2d2022-002731",
-    "mst-mono-mc2d2022-002736"
+    "mst-mono-mc2d2022-002736",
+    "mst-bulk-cod-000022"
   ],
   "W": [
     "mst-mono-mc2d2022-000221",
@@ -8862,7 +8990,9 @@
     "mst-mono-mc2d2022-002606",
     "mst-mono-mc2d2022-002629",
     "mst-mono-mc2d2022-002656",
-    "mst-mono-mc2d2022-002711"
+    "mst-mono-mc2d2022-002711",
+    "mst-bulk-cod-000052",
+    "mst-bulk-cod-000053"
   ],
   "Xe": [
     "mst-mono-mc2d2022-000107",
@@ -9017,7 +9147,9 @@
     "mst-mono-mc2d2022-002669",
     "mst-mono-mc2d2022-002682",
     "mst-mono-mc2d2022-002704",
-    "mst-mono-mc2d2022-002739"
+    "mst-mono-mc2d2022-002739",
+    "mst-bulk-cod-000030",
+    "mst-bulk-cod-000048"
   ],
   "Zr": [
     "mst-mono-mc2d2022-000008",
@@ -9081,6 +9213,9 @@
     "mst-mono-mc2d2022-002444",
     "mst-mono-mc2d2022-002448",
     "mst-mono-mc2d2022-002518",
-    "mst-mono-mc2d2022-002531"
+    "mst-mono-mc2d2022-002531",
+    "mst-bulk-cod-000013",
+    "mst-bulk-cod-000027",
+    "mst-bulk-cod-000028"
   ]
 }

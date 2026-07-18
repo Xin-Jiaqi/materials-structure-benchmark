@@ -6,3 +6,13 @@ https://creativecommons.org/licenses/by/4.0/
 Attribution is required. Cite the Materials Cloud archive record and associated
 paper listed in ATTRIBUTION.md. This notice does not change the license of any
 future collection; every collection must declare its own license in the catalog.
+
+Crystallography Open Database records in structures/bulk/cod/ and their
+collection-specific catalog fields are available under the Creative Commons
+CC0 1.0 Universal Public Domain Dedication:
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+COD asks users to acknowledge the original authors of structural data. The
+original bibliographic metadata remains in every CIF and each record links to
+its COD entry. See ATTRIBUTION.md and NOTICE for file-level scope.

@@ -1,6 +1,6 @@
 [project]
 name = "materials-structure-benchmark"
-version = "0.1.0"
+version = "0.2.0"
 description = "Versioned structure fixtures and indexes for materials-science software"
 authors = [{name = "Jiaqi Xin"}]
 requires-python = ">=3.10"
@@ -14,7 +14,8 @@ classifiers = [
 ]
 
 [project.optional-dependencies]
-import = ["materials-structure-core[io]>=0.0.2"]
+import = ["materials-structure-core[io]>=0.0.2", "ase>=3.23"]
+test = ["jsonschema[format]>=4.21"]
 
 [project.scripts]
 materials-catalog-query = "scripts.query_catalog:main"

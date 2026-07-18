@@ -1,0 +1,459 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 18:55:33 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176466 $
+#$URL: svn://www.crystallography.net/cod/cif/8/10/29/8102969.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_8102969
+loop_
+_publ_author_name
+'Prots, Yurii'
+'Aydemir, Umut'
+'\"Ozt\"urk, Sinan S.'
+'Somer, Mehmet'
+_publ_section_title
+;
+Crystal structure of tetrapotassium diarsenidozincate, K~4~ZnAs~2~
+;
+_journal_issue                   3
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first              163
+_journal_page_last               164
+_journal_volume                  222
+_journal_year                    2007
+_chemical_formula_sum            'As2 K4 Zn'
+_chemical_formula_weight         371.6
+_space_group_IT_number           166
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_Hall  '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_date             2007-03-18T12:00:00-00:00
+_audit_creation_method           'WinGX routine CIF_UPDATE'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                120.00
+_cell_formula_units_Z            3
+_cell_length_a                   5.7529(6)
+_cell_length_b                   5.7537(6)
+_cell_length_c                   26.866(4)
+_cell_measurement_temperature    293(2)
+_cell_volume                     770.14(16)
+_computing_cell_refinement       'CrystalClear (Rigaku Corp., 2000)'
+_computing_data_collection       'CrystalClear (Rigaku Corp., 2000)'
+_computing_data_reduction        'CrystalClear (Rigaku Corp., 2000)'
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      295.15
+_diffrn_detector_area_resol_mean 14.6199
+_diffrn_measurement_details
+;
+scan:
+ Number of images: 480
+            Slice: -120.0000 - 120.0000
+      Image width: 0.5000
+         Exp time: 45.0000
+    Rotation axis: Phi
+            Omega: 0.0000
+              Chi: 0.0000
+              Phi: 0.0000
+              XTD: 41.7400
+           2theta: -20.0000
+scan:
+ Number of images: 120
+            Slice: -35.0000 - 25.0000
+      Image width: 0.5000
+         Exp time: 45.0000
+    Rotation axis: Omega
+            Omega: 0.0000
+              Chi: -90.0000
+              Phi: -5.0000
+              XTD: 41.7400
+           2theta: -20.0000
+
+;
+_diffrn_measurement_device       'Rigaku AFC7'
+_diffrn_measurement_method       oscillation
+_diffrn_radiation_detector       'Mercury CCD'
+_diffrn_radiation_monochromator  'Graphite Monochromator'
+_diffrn_radiation_source         'Sealed Tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0000
+_diffrn_reflns_av_sigmaI/netI    0.0492
+_diffrn_reflns_limit_h_max       7
+_diffrn_reflns_limit_h_min       -7
+_diffrn_reflns_limit_k_max       7
+_diffrn_reflns_limit_k_min       -7
+_diffrn_reflns_limit_l_max       36
+_diffrn_reflns_limit_l_min       -35
+_diffrn_reflns_number            1925
+_diffrn_reflns_reduction_process 'Lp corrections applied'
+_diffrn_reflns_theta_max         29.00
+_diffrn_reflns_theta_min         2.27
+_diffrn_source_current           32.0000
+_diffrn_source_power             1.6000
+_diffrn_source_voltage           50.0000
+_exptl_absorpt_coefficient_mu    10.32
+_exptl_absorpt_correction_T_max  1.0000
+_exptl_absorpt_correction_T_min  0.3473
+_exptl_absorpt_correction_type   multi-scan
+_exptl_crystal_colour            metallic
+_exptl_crystal_density_diffrn    2.404
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       'hexagonally-shaped platelet'
+_exptl_crystal_F_000             516
+_exptl_crystal_size_max          0.085
+_exptl_crystal_size_mid          0.085
+_exptl_crystal_size_min          0.023
+_refine_diff_density_max         2.00
+_refine_diff_density_min         -1.12
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.142
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     13
+_refine_ls_number_reflns         1925
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.142
+_refine_ls_R_factor_all          0.050
+_refine_ls_R_factor_gt           0.040
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0116P)^2^+7.5059P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_wR_factor_gt          0.084
+_refine_ls_wR_factor_ref         0.092
+_reflns_number_gt                1680
+_reflns_number_total             1925
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            409919.cff
+_cod_data_source_block           021e-K4ZnAs2
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_exptl_absorpt_correction_type' value 'Multi-scan' changed to
+'multi-scan' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1555 2011-01-17 13:19:09Z saulius 
+;
+_cod_original_cell_volume        770.1(2)
+_cod_original_sg_symbol_H-M      'R -3 m'
+_cod_original_formula_sum        'K4 Zn As2'
+_cod_database_code               8102969
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-y, x-y, z'
+'y, x, -z'
+'-x+y, -x, z'
+'-x, -x+y, -z'
+'x-y, -y, -z'
+'x+2/3, y+1/3, z+1/3'
+'-y+2/3, x-y+1/3, z+1/3'
+'y+2/3, x+1/3, -z+1/3'
+'-x+y+2/3, -x+1/3, z+1/3'
+'-x+2/3, -x+y+1/3, -z+1/3'
+'x-y+2/3, -y+1/3, -z+1/3'
+'x+1/3, y+2/3, z+2/3'
+'-y+1/3, x-y+2/3, z+2/3'
+'y+1/3, x+2/3, -z+2/3'
+'-x+y+1/3, -x+2/3, z+2/3'
+'-x+1/3, -x+y+2/3, -z+2/3'
+'x-y+1/3, -y+2/3, -z+2/3'
+'-x, -y, -z'
+'y, -x+y, -z'
+'-y, -x, z'
+'x-y, x, -z'
+'x, x-y, z'
+'-x+y, y, z'
+'-x+2/3, -y+1/3, -z+1/3'
+'y+2/3, -x+y+1/3, -z+1/3'
+'-y+2/3, -x+1/3, z+1/3'
+'x-y+2/3, x+1/3, -z+1/3'
+'x+2/3, x-y+1/3, z+1/3'
+'-x+y+2/3, y+1/3, z+1/3'
+'-x+1/3, -y+2/3, -z+2/3'
+'y+1/3, -x+y+2/3, -z+2/3'
+'-y+1/3, -x+2/3, z+2/3'
+'x-y+1/3, x+2/3, -z+2/3'
+'x+1/3, x-y+2/3, z+2/3'
+'-x+y+1/3, y+2/3, z+2/3'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+K1 K 6 c 0.0000 0.0000 0.20880(4) 0.0347(3) Uani 1 d S . .
+K2 K 6 c 0.0000 0.0000 0.38479(5) 0.0433(3) Uani 1 d S . .
+Zn Zn 3 a 0.0000 0.0000 0.0000 0.02612(19) Uani 1 d S . .
+As As 6 c 0.0000 0.0000 0.085353(18) 0.02863(15) Uani 1 d S . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+K1 0.0363(3) 0.0363(3) 0.0315(6) 0.000 0.000 0.01817(17)
+K2 0.0312(3) 0.0312(3) 0.0674(9) 0.000 0.000 0.01561(17)
+Zn 0.0267(2) 0.0267(2) 0.0249(4) 0.000 0.000 0.01336(12)
+As 0.02968(18) 0.02968(18) 0.0265(3) 0.000 0.000 0.01484(9)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+K K 0.2009 0.2494 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Zn Zn 0.2839 1.4301 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+As As 0.0499 2.0058 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+As K1 As 107.585(18) . 25 ?
+As K1 As 107.584(18) . 25_455 ?
+As K1 As 111.284(17) 25 25_455 ?
+As K1 As 107.583(18) . 25_445 ?
+As K1 As 111.292(17) 25 25_445 ?
+As K1 As 111.297(17) 25_455 25_445 ?
+As K1 K2 120.59(2) . 31_445 ?
+As K1 K2 131.83(4) 25 31_445 ?
+As K1 K2 55.671(8) 25_455 31_445 ?
+As K1 K2 55.664(8) 25_445 31_445 ?
+As K1 K2 120.58(2) . 31_545 ?
+As K1 K2 55.670(8) 25 31_545 ?
+As K1 K2 131.83(4) 25_455 31_545 ?
+As K1 K2 55.659(8) 25_445 31_545 ?
+K2 K1 K2 96.41(3) 31_445 31_545 ?
+As K1 K2 120.58(2) . 31 ?
+As K1 K2 55.663(8) 25 31 ?
+As K1 K2 55.659(8) 25_455 31 ?
+As K1 K2 131.83(4) 25_445 31 ?
+K2 K1 K2 96.41(3) 31_445 31 ?
+K2 K1 K2 96.42(3) 31_545 31 ?
+As K1 K1 55.72(3) . 25 ?
+As K1 K1 51.863(14) 25 25 ?
+As K1 K1 124.327(10) 25_455 25 ?
+As K1 K1 124.333(10) 25_445 25 ?
+K2 K1 K1 176.31(4) 31_445 25 ?
+K2 K1 K1 86.041(16) 31_545 25 ?
+K2 K1 K1 86.035(16) 31 25 ?
+As K1 K1 55.72(3) . 25_455 ?
+As K1 K1 124.327(10) 25 25_455 ?
+As K1 K1 51.860(14) 25_455 25_455 ?
+As K1 K1 124.338(10) 25_445 25_455 ?
+K2 K1 K1 86.041(16) 31_445 25_455 ?
+K2 K1 K1 176.31(4) 31_545 25_455 ?
+K2 K1 K1 86.030(16) 31 25_455 ?
+K1 K1 K1 91.38(4) 25 25_455 ?
+As K1 K1 55.73(3) . 25_445 ?
+As K1 K1 124.334(10) 25 25_445 ?
+As K1 K1 124.338(10) 25_455 25_445 ?
+As K1 K1 51.857(14) 25_445 25_445 ?
+K2 K1 K1 86.035(16) 31_445 25_445 ?
+K2 K1 K1 86.030(16) 31_545 25_445 ?
+K2 K1 K1 176.31(4) 31 25_445 ?
+K1 K1 K1 91.39(4) 25 25_445 ?
+K1 K1 K1 91.39(4) 25_455 25_445 ?
+As K1 K2 180.0 . . ?
+As K1 K2 72.415(18) 25 . ?
+As K1 K2 72.416(18) 25_455 . ?
+As K1 K2 72.417(18) 25_445 . ?
+K2 K1 K2 59.41(2) 31_445 . ?
+K2 K1 K2 59.42(2) 31_545 . ?
+K2 K1 K2 59.42(2) 31 . ?
+K1 K1 K2 124.28(3) 25 . ?
+K1 K1 K2 124.28(3) 25_455 . ?
+K1 K1 K2 124.27(3) 25_445 . ?
+As K2 As 113.27(2) 7 7_455 ?
+As K2 As 113.27(2) 7 7_445 ?
+As K2 As 113.28(2) 7_455 7_445 ?
+As K2 Zn 37.931(10) 7 7 ?
+As K2 Zn 123.140(6) 7_455 7 ?
+As K2 Zn 123.147(6) 7_445 7 ?
+As K2 Zn 123.140(6) 7 7_455 ?
+As K2 Zn 37.928(10) 7_455 7_455 ?
+As K2 Zn 123.153(6) 7_445 7_455 ?
+Zn K2 Zn 106.17(2) 7 7_455 ?
+As K2 Zn 123.148(6) 7 7_445 ?
+As K2 Zn 123.153(6) 7_455 7_445 ?
+As K2 Zn 37.926(10) 7_445 7_445 ?
+Zn K2 Zn 106.17(2) 7 7_445 ?
+Zn K2 Zn 106.18(2) 7_455 7_445 ?
+As K2 K1 134.08(5) 7 31_445 ?
+As K2 K1 56.663(11) 7_455 31_445 ?
+As K2 K1 56.656(11) 7_445 31_445 ?
+Zn K2 K1 172.01(4) 7 31_445 ?
+Zn K2 K1 78.358(10) 7_455 31_445 ?
+Zn K2 K1 78.351(10) 7_445 31_445 ?
+As K2 K1 56.662(11) 7 31_545 ?
+As K2 K1 134.08(5) 7_455 31_545 ?
+As K2 K1 56.651(11) 7_445 31_545 ?
+Zn K2 K1 78.357(10) 7 31_545 ?
+Zn K2 K1 172.01(4) 7_455 31_545 ?
+Zn K2 K1 78.346(10) 7_445 31_545 ?
+K1 K2 K1 96.41(3) 31_445 31_545 ?
+As K2 K1 56.655(11) 7 31 ?
+As K2 K1 56.651(11) 7_455 31 ?
+As K2 K1 134.09(5) 7_445 31 ?
+Zn K2 K1 78.351(10) 7 31 ?
+Zn K2 K1 78.346(10) 7_455 31 ?
+Zn K2 K1 172.01(4) 7_445 31 ?
+K1 K2 K1 96.41(3) 31_445 31 ?
+K1 K2 K1 96.42(3) 31_545 31 ?
+As K2 K2 155.56(5) 7 31_445 ?
+As K2 K2 78.384(7) 7_455 31_445 ?
+As K2 K2 78.378(7) 7_445 31_445 ?
+Zn K2 K2 117.63(5) 7 31_445 ?
+Zn K2 K2 53.093(12) 7_455 31_445 ?
+Zn K2 K2 53.087(12) 7_445 31_445 ?
+K1 K2 K2 70.36(2) 31_445 31_445 ?
+K1 K2 K2 131.016(9) 31_545 31_445 ?
+K1 K2 K2 131.021(8) 31 31_445 ?
+As K2 K2 78.384(7) 7 31_545 ?
+As K2 K2 155.56(5) 7_455 31_545 ?
+As K2 K2 78.373(7) 7_445 31_545 ?
+Zn K2 K2 53.092(12) 7 31_545 ?
+Zn K2 K2 117.63(5) 7_455 31_545 ?
+Zn K2 K2 53.083(12) 7_445 31_545 ?
+K1 K2 K2 131.016(8) 31_445 31_545 ?
+K1 K2 K2 70.36(2) 31_545 31_545 ?
+K1 K2 K2 131.025(9) 31 31_545 ?
+K2 K2 K2 83.45(4) 31_445 31_545 ?
+As K2 K2 78.378(7) 7 31 ?
+As K2 K2 78.373(7) 7_455 31 ?
+As K2 K2 155.56(5) 7_445 31 ?
+Zn K2 K2 53.086(12) 7 31 ?
+Zn K2 K2 53.082(12) 7_455 31 ?
+Zn K2 K2 117.63(5) 7_445 31 ?
+K1 K2 K2 131.022(9) 31_445 31 ?
+K1 K2 K2 131.026(8) 31_545 31 ?
+K1 K2 K2 70.35(2) 31 31 ?
+K2 K2 K2 83.46(4) 31_445 31 ?
+K2 K2 K2 83.46(4) 31_545 31 ?
+As Zn As 180.0 . 19 ?
+As Zn K2 112.60(2) . 25 ?
+As Zn K2 67.40(2) 19 25 ?
+As Zn K2 67.40(2) . 13_444 ?
+As Zn K2 112.60(2) 19 13_444 ?
+K2 Zn K2 180.00(4) 25 13_444 ?
+As Zn K2 112.60(2) . 25_455 ?
+As Zn K2 67.40(2) 19 25_455 ?
+K2 Zn K2 106.17(2) 25 25_455 ?
+K2 Zn K2 73.83(2) 13_444 25_455 ?
+As Zn K2 67.40(2) . 13_544 ?
+As Zn K2 112.60(2) 19 13_544 ?
+K2 Zn K2 73.83(2) 25 13_544 ?
+K2 Zn K2 106.17(2) 13_444 13_544 ?
+K2 Zn K2 180.00(4) 25_455 13_544 ?
+As Zn K2 112.59(2) . 25_445 ?
+As Zn K2 67.41(2) 19 25_445 ?
+K2 Zn K2 106.17(2) 25 25_445 ?
+K2 Zn K2 73.83(2) 13_444 25_445 ?
+K2 Zn K2 106.18(2) 25_455 25_445 ?
+K2 Zn K2 73.82(2) 13_544 25_445 ?
+As Zn K2 67.41(2) . 13_554 ?
+As Zn K2 112.59(2) 19 13_554 ?
+K2 Zn K2 73.83(2) 25 13_554 ?
+K2 Zn K2 106.17(2) 13_444 13_554 ?
+K2 Zn K2 73.82(2) 25_455 13_554 ?
+K2 Zn K2 106.18(2) 13_544 13_554 ?
+K2 Zn K2 180.00(4) 25_445 13_554 ?
+Zn As K1 180.0 . . ?
+Zn As K2 74.67(2) . 13_444 ?
+K1 As K2 105.33(2) . 13_444 ?
+Zn As K2 74.67(2) . 13_544 ?
+K1 As K2 105.33(2) . 13_544 ?
+K2 As K2 113.27(2) 13_444 13_544 ?
+Zn As K2 74.67(2) . 13_554 ?
+K1 As K2 105.33(2) . 13_554 ?
+K2 As K2 113.27(2) 13_444 13_554 ?
+K2 As K2 113.28(2) 13_544 13_554 ?
+Zn As K1 107.585(18) . 25 ?
+K1 As K1 72.415(18) . 25 ?
+K2 As K1 177.75(3) 13_444 25 ?
+K2 As K1 67.686(13) 13_544 25 ?
+K2 As K1 67.679(13) 13_554 25 ?
+Zn As K1 107.584(18) . 25_455 ?
+K1 As K1 72.416(18) . 25_455 ?
+K2 As K1 67.686(13) 13_444 25_455 ?
+K2 As K1 177.75(3) 13_544 25_455 ?
+K2 As K1 67.673(13) 13_554 25_455 ?
+K1 As K1 111.284(17) 25 25_455 ?
+Zn As K1 107.583(18) . 25_445 ?
+K1 As K1 72.417(18) . 25_445 ?
+K2 As K1 67.679(13) 13_444 25_445 ?
+K2 As K1 67.673(13) 13_544 25_445 ?
+K2 As K1 177.75(3) 13_554 25_445 ?
+K1 As K1 111.292(17) 25 25_445 ?
+K1 As K1 111.297(17) 25_455 25_445 ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+K1 As 3.3165(13) . ?
+K1 As 3.4842(5) 25 ?
+K1 As 3.4845(5) 25_455 ?
+K1 As 3.4847(5) 25_445 ?
+K1 K2 3.8582(10) 31_445 ?
+K1 K2 3.8585(10) 31_545 ?
+K1 K2 3.8586(10) 31 ?
+K1 K1 4.0196(13) 25 ?
+K1 K1 4.0198(13) 25_455 ?
+K1 K1 4.0200(13) 25_445 ?
+K1 K2 4.7281(19) . ?
+K2 As 3.4440(5) 7 ?
+K2 As 3.4443(5) 7_455 ?
+K2 As 3.4445(5) 7_445 ?
+K2 Zn 3.5976(6) 7 ?
+K2 Zn 3.5979(6) 7_455 ?
+K2 Zn 3.5980(6) 7_445 ?
+K2 K1 3.8582(10) 31_445 ?
+K2 K1 3.8585(10) 31_545 ?
+K2 K1 3.8586(10) 31 ?
+K2 K2 4.3217(19) 31_445 ?
+K2 K2 4.3219(19) 31_545 ?
+K2 K2 4.3220(19) 31 ?
+Zn As 2.2931(6) . ?
+Zn As 2.2931(6) 19 ?
+Zn K2 3.5976(6) 25 ?
+Zn K2 3.5976(6) 13_444 ?
+Zn K2 3.5979(6) 25_455 ?
+Zn K2 3.5979(6) 13_544 ?
+Zn K2 3.5980(6) 25_445 ?
+Zn K2 3.5980(6) 13_554 ?
+As K2 3.4440(5) 13_444 ?
+As K2 3.4443(5) 13_544 ?
+As K2 3.4445(5) 13_554 ?
+As K1 3.4842(5) 25 ?
+As K1 3.4845(5) 25_455 ?
+As K1 3.4847(5) 25_445 ?

@@ -1,7 +1,7 @@
 # Preserve crystallographic source bytes exactly. Some canonical archive files
 # intentionally contain trailing spaces, so Git must not normalize them.
-*.cif -text
-*.vasp -text
+*.cif -text -whitespace
+*.vasp -text -whitespace
 *.json text eol=lf
 *.jsonl text eol=lf
 *.md text eol=lf

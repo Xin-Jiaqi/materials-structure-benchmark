@@ -115,19 +115,26 @@
     },
     "provenance": {
       "type": "object",
-      "required": ["source_name", "source_version", "source_id", "source_doi"],
+      "required": ["source_name", "source_version", "source_id"],
       "properties": {
         "source_name": {"type": "string"},
         "source_version": {"type": "string"},
         "source_id": {"type": "string"},
         "source_doi": {"type": "string"},
+        "source_url": {"type": "string", "format": "uri"},
+        "source_revision": {"type": "string"},
+        "source_date": {"type": "string"},
         "source_archive_md5": {"type": "string", "pattern": "^[0-9a-f]{32}$"},
         "metadata_status": {"type": "string"},
         "transformation": {"type": "string"},
         "transformation_status": {"type": "string"},
         "converter": {"type": "string"}
       },
-      "additionalProperties": false
+      "additionalProperties": false,
+      "anyOf": [
+        {"required": ["source_doi"]},
+        {"required": ["source_url"]}
+      ]
     },
     "license": {"type": "string", "minLength": 1},
     "release_status": {"enum": ["public", "internal", "embargoed"]}

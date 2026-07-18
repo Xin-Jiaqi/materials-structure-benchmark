@@ -1,0 +1,46 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-02 09:51:31 +0200 (Wed, 02 Mar 2016) $
+#$Revision: 177123 $
+#$URL: svn://www.crystallography.net/cod/cif/5/91/00/5910026.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_5910026
+_journal_name_full               'The second edition of Structure of Crystals'
+_journal_page_first              232
+_journal_page_last               239
+_chemical_formula_structural     ZrSe2
+_chemical_formula_sum            'Se2 Zr'
+_chemical_name_systematic        'Zirconium diselenide'
+_symmetry_cell_setting           hexagonal
+_symmetry_space_group_name_H-M   'P -3 m 1'
+_audit_creation_date             2005-03-11
+_audit_creation_method
+;
+Pages 232 & 239 from the second edition of Structure of Crystals by RWG Wyckoff
+and http://physics.syr.edu/courses/vrml
+;
+_audit_update_record
+'created by Girish Upreti, Portland State University'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   3.63
+_cell_length_b                   3.63
+_cell_length_c                   5.85
+_cell_volume                     66.757
+_cod_original_sg_symbol_H-M      'P a -3 m 1'
+_cod_original_formula_sum        'Zr Se2'
+_cod_database_code               5910026
+loop_
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_label
+0.00000 0.00000 0.00000 Zr
+0.333333 0.666667 0.2492 Se

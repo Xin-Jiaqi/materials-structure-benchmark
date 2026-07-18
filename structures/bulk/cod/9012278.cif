@@ -1,0 +1,83 @@
+#------------------------------------------------------------------------------
+#$Date: 2024-05-16 09:36:09 +0300 (Thu, 16 May 2024) $
+#$Revision: 291877 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/22/9012278.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9012278
+loop_
+_publ_author_name
+'Giester, G.'
+'Lengauer, C. L.'
+'Tillmanns, E.'
+'Zemann, J.'
+_publ_section_title
+;
+ Tl2S: Re-determination of crystal structure and stereochemical discussion
+ Sample: hypothetical idealized structure
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              322
+_journal_page_last               330
+_journal_paper_doi               10.1006/jssc.2002.9711
+_journal_volume                  168
+_journal_year                    2002
+_chemical_formula_sum            'S Tl2'
+_chemical_name_mineral           Carlinite
+_space_group_IT_number           146
+_symmetry_space_group_name_Hall  'R 3'
+_symmetry_space_group_name_H-M   'R 3 :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   12.150
+_cell_length_b                   12.150
+_cell_length_c                   18.190
+_cell_formula_units_Z            27
+_cell_volume                     2325.498
+_database_code_amcsd             0014030
+_exptl_crystal_density_diffrn    8.499
+_cod_original_sg_symbol_H-M      'R 3'
+_cod_original_formula_sum        'Tl2 S'
+_cod_database_code               9012278
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+2/3+x,1/3+y,1/3+z
+1/3+x,2/3+y,2/3+z
+-y,x-y,z
+2/3-y,1/3+x-y,1/3+z
+1/3-y,2/3+x-y,2/3+z
+-x+y,-x,z
+2/3-x+y,1/3-x,1/3+z
+1/3-x+y,2/3-x,2/3+z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Tl1 0.11111 0.22222 -0.09140
+Tl2 0.44444 0.88889 -0.09140
+Tl3 0.77778 0.55556 -0.09140
+Tl4 0.22222 0.11111 0.09140
+Tl5 0.55556 0.77778 0.09140
+Tl6 0.88889 0.44444 0.09140
+S1 0.00000 0.00000 0.00000
+S2 0.33333 0.66667 0.00000
+S3 0.66667 0.33333 0.00000
+S4 0.00000 0.66667 0.00000
+S5 0.00000 0.33333 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0014030

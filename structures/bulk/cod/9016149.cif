@@ -1,0 +1,77 @@
+#------------------------------------------------------------------------------
+#$Date: 2024-05-29 17:00:33 +0300 (Wed, 29 May 2024) $
+#$Revision: 292100 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/61/9016149.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9016149
+loop_
+_publ_author_name
+'Wilkinson, M. K.'
+'Cable, J. W.'
+'Wollan, E. O.'
+'Koehler, W. C.'
+_publ_section_title
+;
+ Neutron diffraction investigations of the magnetic ordering in FeBr2,
+ CoBr2, FeCl2, and CoCl2
+;
+_journal_name_full               'Physical Review'
+_journal_page_first              497
+_journal_page_last               507
+_journal_paper_doi               10.1103/PhysRev.113.497
+_journal_volume                  113
+_journal_year                    1959
+_chemical_compound_source        Synthetic
+_chemical_formula_sum            'Br2 Co'
+_space_group_IT_number           164
+_symmetry_space_group_name_Hall  '-P 3 2"'
+_symmetry_space_group_name_H-M   'P -3 m 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   3.728
+_cell_length_b                   3.728
+_cell_length_c                   6.169
+_cell_formula_units_Z            1
+_cell_volume                     74.250
+_database_code_amcsd             0018639
+_exptl_crystal_density_diffrn    4.892
+_cod_original_formula_sum        'Co Br2'
+_cod_database_code               9016149
+_amcsd_formula_title             CoBr2
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-y,-x,z
+y,-x+y,-z
+-x,-x+y,-z
+-x+y,-x,z
+-x+y,y,z
+-x,-y,-z
+y,x,-z
+-y,x-y,z
+x,x-y,z
+x-y,x,-z
+x-y,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co 0.00000 0.00000 0.00000
+Br 0.33333 0.66667 0.25000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0018639

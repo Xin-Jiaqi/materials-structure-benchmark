@@ -7,6 +7,8 @@ import unittest
 from collections import defaultdict
 from pathlib import Path
 
+from jsonschema import Draft202012Validator, FormatChecker
+
 
 ROOT = Path(__file__).resolve().parents[1]
 ID_RE = re.compile(r"^mst-[a-z0-9-]+-[0-9]{6}$")
@@ -36,8 +38,19 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(schema["$schema"], "https://json-schema.org/draft/2020-12/schema")
         self.assertEqual(self.taxonomy["schema_version"], 1)
 
+    def test_all_records_satisfy_json_schema(self):
+        schema = json.loads((ROOT / "schema/material-record.schema.json").read_text())
+        validator = Draft202012Validator(schema, format_checker=FormatChecker())
+        errors = []
+        for record in self.records:
+            errors.extend(
+                f"{record['id']}: {error.message}"
+                for error in validator.iter_errors(record)
+            )
+        self.assertEqual(errors, [], "\n".join(errors[:20]))
+
     def test_record_count_ids_and_indexes(self):
-        self.assertEqual(len(self.records), 2742)
+        self.assertEqual(len(self.records), 2801)
         ids = [record["id"] for record in self.records]
         self.assertEqual(len(ids), len(set(ids)))
         self.assertTrue(all(ID_RE.fullmatch(identifier) for identifier in ids))
@@ -86,14 +99,25 @@ class CatalogTests(unittest.TestCase):
             self.assertGreater(composition["number_of_atoms"], 0)
             self.assertEqual(composition["number_of_species"], len(composition["elements"]))
             self.assertEqual(len(composition["elements"]), len(set(composition["elements"])))
-            self.assertEqual(record["license"], "CC-BY-4.0")
-            self.assertEqual(record["provenance"]["source_doi"], "10.24435/materialscloud:36-nd")
-            self.assertEqual(
-                record["provenance"]["source_archive_md5"],
-                "9b234721c75b9c4114c4d8d4aa1a948d",
-            )
-            self.assertIn("materials-structure-core/0.0.2", record["provenance"]["converter"])
-            source_ids.add(record["provenance"]["source_id"])
+            provenance = record["provenance"]
+            self.assertTrue(provenance.get("source_doi") or provenance.get("source_url"))
+            if record["collection"] == "mc2d-2022.84-optimized-monolayers":
+                self.assertEqual(record["license"], "CC-BY-4.0")
+                self.assertEqual(provenance["source_doi"], "10.24435/materialscloud:36-nd")
+                self.assertEqual(
+                    provenance["source_archive_md5"],
+                    "9b234721c75b9c4114c4d8d4aa1a948d",
+                )
+                self.assertIn("materials-structure-core/0.0.2", provenance["converter"])
+            elif record["collection"] == "cod-bulk-parents-2024":
+                self.assertEqual(record["license"], "CC0-1.0")
+                self.assertEqual(
+                    provenance["source_url"],
+                    f"https://www.crystallography.net/cod/{provenance['source_id']}.html",
+                )
+            else:
+                self.fail(f"unexpected collection: {record['collection']}")
+            source_ids.add((record["collection"], provenance["source_id"]))
         self.assertEqual(len(source_ids), len(self.records))
 
     def test_extended_classification_requirements(self):
@@ -117,13 +141,44 @@ class CatalogTests(unittest.TestCase):
                 self.assertNotEqual(record["evidence_level"], "not-evaluated")
 
     def test_mc2d_collection_is_unlabelled_monolayer_parent_data(self):
-        for record in self.records:
-            self.assertEqual(record["collection"], "mc2d-2022.84-optimized-monolayers")
+        records = [
+            record
+            for record in self.records
+            if record["collection"] == "mc2d-2022.84-optimized-monolayers"
+        ]
+        self.assertEqual(len(records), 2742)
+        for record in records:
             self.assertEqual(record["structure_type"], "monolayer")
             self.assertEqual(record["phenomena"], [])
             self.assertEqual(record["evidence_level"], "not-evaluated")
             self.assertNotIn("intercalated", record["classes"])
             self.assertNotIn("stacking-state", record["classes"])
+
+    def test_cod_collection_is_unlabelled_bulk_parent_data(self):
+        records = [
+            record
+            for record in self.records
+            if record["collection"] == "cod-bulk-parents-2024"
+        ]
+        self.assertEqual(len(records), 59)
+        ids = {record["id"] for record in self.records}
+        for record in records:
+            self.assertEqual(record["structure_type"], "bulk")
+            self.assertEqual(record["classes"], ["experimental", "pristine"])
+            self.assertEqual(record["phenomena"], [])
+            self.assertEqual(record["evidence_level"], "not-evaluated")
+            self.assertEqual(len(record["relationships"]), 1)
+            relationship = record["relationships"][0]
+            self.assertEqual(relationship["type"], "bulk-parent-of")
+            self.assertIn(relationship["target_id"], ids)
+            self.assertTrue(record["files"]["cif"].startswith("structures/bulk/cod/"))
+        mismatches = [
+            record
+            for record in records
+            if "bulk-monolayer-composition-mismatch" in record["quality_flags"]
+        ]
+        self.assertEqual(len(mismatches), 1)
+        self.assertEqual(mismatches[0]["provenance"]["source_id"], "9013958")
 
     def test_derived_indexes_match_catalog(self):
         expected_id = {record["id"]: record["files"]["poscar"] for record in self.records}

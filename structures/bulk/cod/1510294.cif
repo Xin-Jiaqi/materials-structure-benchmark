@@ -1,0 +1,66 @@
+#------------------------------------------------------------------------------
+#$Date: 2018-09-27 07:13:35 +0300 (Thu, 27 Sep 2018) $
+#$Revision: 211196 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/51/02/1510294.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1510294
+loop_
+_publ_author_name
+'Rabenau, A.'
+'Schulz, H.'
+_publ_section_title
+;
+ The crystal structures of alpha-AuSe and beta-AuSe
+;
+_journal_name_full               'Journal of the Less-Common Metals'
+_journal_page_first              89
+_journal_page_last               101
+_journal_paper_doi               10.1016/0022-5088(76)90235-6
+_journal_volume                  48
+_journal_year                    1976
+_chemical_formula_sum            'Au Se'
+_space_group_IT_number           12
+_symmetry_space_group_name_Hall  '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 106.03
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   8.355
+_cell_length_b                   3.663
+_cell_length_c                   6.262
+_cell_volume                     184.193
+_citation_journal_id_ASTM        JCOMAH
+_cod_data_source_file            gold_359.cif
+_cod_data_source_block           Au1Se1
+_cod_original_cell_volume        184.1929
+_cod_original_formula_sum        'Au1 Se1'
+_cod_database_code               1510294
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z
+-x,-y,-z
+x,-y,z
+x+1/2,y+1/2,z
+-x+1/2,y+1/2,-z
+-x+1/2,-y+1/2,-z
+x+1/2,-y+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Se1 Se-2 0.162 0 0.732 1 0.0
+Au2 Au+3 0 0.5 0.5 1 0.0
+Au1 Au+1 0 0 0 1 0.0

@@ -45,11 +45,13 @@
     "experimental": "The claim is supported by a cited experiment."
   },
   "quality_flags": {
+    "bulk-monolayer-composition-mismatch": "The mapped bulk parent and monolayer have different reduced compositions; the relationship is retained as source metadata and requires scientific review.",
     "source-metadata-cell-multiplicity-differs": "The archive metadata atom count and canonical CIF use different cell multiplicities while retaining the same reduced composition.",
     "source-metadata-composition-mismatch": "The canonical CIF composition differs from the archive metadata row; metadata-derived scientific properties are omitted."
   },
   "relationship_type": {
     "derived-from": "The record is derived from another structure.",
+    "bulk-parent-of": "A bulk parent linked to a derived or relaxed monolayer record.",
     "parent-monolayer": "A monolayer used to build a stack.",
     "stacking-partner": "The other layer in a heterostructure.",
     "host": "The host structure for an intercalated record.",

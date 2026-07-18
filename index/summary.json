@@ -1,20 +1,24 @@
 {
   "classes": {
     "computed": 2742,
+    "experimental": 59,
     "optimized": 2742,
-    "pristine": 2742
+    "pristine": 2801
   },
   "collections": {
+    "cod-bulk-parents-2024": 59,
     "mc2d-2022.84-optimized-monolayers": 2742
   },
   "phenomena": {},
   "quality_flags": {
+    "bulk-monolayer-composition-mismatch": 1,
     "source-metadata-cell-multiplicity-differs": 13,
     "source-metadata-composition-mismatch": 3
   },
-  "record_count": 2742,
+  "record_count": 2801,
   "schema_version": 1,
   "structure_types": {
+    "bulk": 59,
     "monolayer": 2742
   }
 }

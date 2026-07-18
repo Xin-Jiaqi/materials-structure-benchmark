@@ -1,0 +1,27 @@
+Materials Structure Benchmark — file-level rights and provenance notice
+
+Repository-authored code, schemas, tests, taxonomy, and documentation are
+licensed under BSD-3-Clause as stated in LICENSE.
+
+structures/monolayer/mc2d/**
+catalog and index fields derived from collection mc2d-2022.84-optimized-monolayers
+  Source: Materials Cloud Archive 2022.84
+  DOI: 10.24435/materialscloud:36-nd
+  License: CC BY 4.0
+  CIF status: canonical archive files
+  POSCAR status: generated conversion; modification is disclosed
+
+structures/bulk/cod/**
+catalog and index fields derived from collection cod-bulk-parents-2024
+  Source: Crystallography Open Database
+  License: CC0 1.0
+  CIF status: copied unchanged from the audited COD snapshot
+  POSCAR status: generated conversion; modification is disclosed
+  Citation: retain the original authors and bibliography embedded in each CIF
+
+No sponsorship or endorsement by Materials Cloud, the MC2D authors, COD, or
+the authors of the original crystallographic records is implied.
+
+This public repository does not contain protected ICSD or MPDS coordinates,
+unpublished bilayer-candidate structures, unpublished energy or polarization
+results, or structures whose school/project ownership has not been cleared.

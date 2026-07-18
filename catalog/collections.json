@@ -9,6 +9,14 @@
       "source_url": "https://archive.materialscloud.org/record/2022.84",
       "title": "MC2D 2022.84 optimized monolayers",
       "transformation_status": "canonical CIF and validated POSCAR conversion"
+    },
+    {
+      "id": "cod-bulk-parents-2024",
+      "license": "CC0-1.0",
+      "record_count": 59,
+      "source_url": "https://www.crystallography.net/cod/",
+      "title": "COD bulk parents linked to MC2D monolayers",
+      "transformation_status": "COD CIF preserved and POSCAR conversion validated"
     }
   ],
   "schema_version": 1

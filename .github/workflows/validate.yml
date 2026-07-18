@@ -18,5 +18,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
+      - run: python -m pip install 'jsonschema[format]>=4.21'
       - run: python -m unittest discover -s tests -v
       - run: python scripts/query_catalog.py --type monolayer --limit 3
+      - run: python scripts/query_catalog.py --type bulk --limit 3
