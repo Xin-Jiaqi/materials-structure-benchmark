@@ -1,6 +1,10 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "materials-structure-benchmark"
-version = "0.2.0"
+version = "0.2.1"
 description = "Versioned structure fixtures and indexes for materials-science software"
 authors = [{name = "Jiaqi Xin"}]
 requires-python = ">=3.10"
@@ -15,7 +19,24 @@ classifiers = [
 
 [project.optional-dependencies]
 import = ["materials-structure-core[io]>=0.0.2", "ase>=3.23"]
-test = ["jsonschema[format]>=4.21"]
+test = [
+  "build>=1.2",
+  "jsonschema[format]>=4.21",
+  "twine>=5",
+]
 
 [project.scripts]
-materials-catalog-query = "scripts.query_catalog:main"
+materials-catalog-query = "materials_structure_benchmark.query:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.data-files]
+"share/materials-structure-benchmark" = [
+  "catalog/materials.jsonl",
+  "LICENSE-DATA",
+  "NOTICE",
+]
