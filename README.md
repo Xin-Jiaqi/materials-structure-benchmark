@@ -20,11 +20,14 @@ Future sliding-ferroelectric records can store relative shift, registry, interla
 ## Query
 
 ```bash
-python scripts/query_catalog.py --type monolayer --formula MoS2
-python scripts/query_catalog.py --phenomenon sliding-ferroelectric --evidence dft-verified
-python scripts/query_catalog.py --quality source-metadata-composition-mismatch
-python scripts/query_catalog.py --id mst-mono-mc2d2022-000001 --json
+python -m pip install .
+materials-catalog-query --type monolayer --formula MoS2
+materials-catalog-query --phenomenon sliding-ferroelectric --evidence dft-verified
+materials-catalog-query --quality source-metadata-composition-mismatch
+materials-catalog-query --id mst-mono-mc2d2022-000001 --json
 ```
+
+The wheel bundles the machine-readable catalog for metadata queries, so the command works outside a repository checkout. Clone or download the matching GitHub dataset release when the referenced CIF and POSCAR files are required. `--catalog PATH` or the `MATERIALS_STRUCTURE_BENCHMARK_CATALOG` environment variable can select another compatible catalog explicitly.
 
 The canonical catalog is `catalog/materials.jsonl`. Derived lookup tables in `index/` cover ID, formula, element, structure type, class, phenomenon, evidence level, and quality flag. They are regenerated from the catalog and must not be edited by hand.
 
@@ -37,6 +40,8 @@ python -m unittest discover -s tests -v
 ```
 
 Validation checks stable IDs, unique indexes, controlled tags, record-to-file links, SHA-256 checksums, public-release status, the absence of unsupported phenomenon claims in the monolayer collection, and the extra fields required for future stacking, sliding-ferroelectric, and intercalated structures.
+
+CI covers Python 3.10 and the latest stable Python 3.14, builds both distributions, checks their metadata, installs the wheel, and runs the query command from outside the repository.
 
 ## Data policy
 
