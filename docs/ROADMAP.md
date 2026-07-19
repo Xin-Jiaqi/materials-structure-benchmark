@@ -13,7 +13,8 @@
 - [ ] Define small/medium/full benchmark splits with deterministic selection rules.
 - [ ] Add parser edge-case, symmetry-family, element-coverage, and atom-count subsets.
 - [ ] Run `materials-structure-core`, `batch-symmetry-checker`, and group-operation integration tests against the splits.
-- [ ] Add bulk structures only from redistributable sources with record-level licensing.
+- [x] Add 59 redistributable COD bulk structures with record-level CC0 provenance.
+- [x] Make the catalog query CLI buildable, wheel-installable, and testable outside a repository checkout.
 
 ## 0.3 — stacking and intercalation
 
