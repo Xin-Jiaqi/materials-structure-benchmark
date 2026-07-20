@@ -5,8 +5,8 @@ type: dataset
 authors:
   - family-names: "Xin"
     given-names: "Jiaqi"
-version: 0.2.0
-date-released: 2026-07-18
+version: 0.2.1
+date-released: 2026-07-20
 license:
   - BSD-3-Clause
   - CC-BY-4.0
