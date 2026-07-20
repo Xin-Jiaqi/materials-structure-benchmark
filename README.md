@@ -43,6 +43,12 @@ Validation checks stable IDs, unique indexes, controlled tags, record-to-file li
 
 CI covers Python 3.10 and the latest stable Python 3.14, builds both distributions, checks their metadata, installs the wheel, and runs the query command from outside the repository.
 
+The versioned [`batch-smoke-v1`](splits/batch-smoke-v1.json) split contains six
+MC2D monolayers and six COD bulk structures selected for small CI cost and
+diverse source-reported symmetry settings. Each entry is bound to the canonical
+catalog by stable ID, relative POSCAR path, SHA-256, structure type, and license.
+It is a parser and batch-reporting fixture, not a set of material-property labels.
+
 ## Data policy
 
 Only redistributable structures enter the public catalog. Sensitive, unpublished, school-owned, or patent-relevant candidates stay outside Git and are reviewed before release. The code, schemas, and original documentation use BSD-3-Clause; the MC2D collection remains CC BY 4.0 and the COD collection remains CC0. See [`NOTICE`](NOTICE), [`ATTRIBUTION.md`](ATTRIBUTION.md), [`LICENSE-DATA`](LICENSE-DATA), and [`docs/DATA_RELEASE_POLICY.md`](docs/DATA_RELEASE_POLICY.md).
