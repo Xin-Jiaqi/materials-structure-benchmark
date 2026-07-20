@@ -247,6 +247,32 @@ class CatalogTests(unittest.TestCase):
             self.assertNotIn("space_group", record["properties"])
             self.assertIn("derived scientific properties omitted", record["provenance"]["metadata_status"])
 
+    def test_batch_smoke_split_is_bound_to_the_catalog(self):
+        split = json.loads((ROOT / "splits/batch-smoke-v1.json").read_text())
+        self.assertEqual(split["schema_version"], 1)
+        self.assertEqual(split["id"], "batch-smoke-v1")
+        self.assertEqual(len(split["records"]), 12)
+        self.assertEqual(
+            [entry["structure_type"] for entry in split["records"]].count("monolayer"),
+            6,
+        )
+        self.assertEqual(
+            [entry["structure_type"] for entry in split["records"]].count("bulk"),
+            6,
+        )
+
+        catalog = {record["id"]: record for record in self.records}
+        split_ids = [entry["id"] for entry in split["records"]]
+        self.assertEqual(len(split_ids), len(set(split_ids)))
+        for entry in split["records"]:
+            record = catalog[entry["id"]]
+            self.assertEqual(entry["path"], record["files"]["poscar"])
+            self.assertEqual(entry["sha256"], record["files"]["poscar_sha256"])
+            self.assertEqual(entry["license"], record["license"])
+            self.assertEqual(entry["structure_type"], record["structure_type"])
+            self.assertEqual(sha256(ROOT / entry["path"]), entry["sha256"])
+            self.assertTrue(entry["selection_reason"])
+
 
 if __name__ == "__main__":
     unittest.main()
