@@ -2,7 +2,10 @@ from __future__ import annotations
 
 import hashlib
 import json
+import math
 import re
+import subprocess
+import sys
 import unittest
 from collections import defaultdict
 from pathlib import Path
@@ -27,6 +30,37 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
+def parse_poscar_invariants(path: Path) -> dict:
+    """Independently recompute the fixed-file quantities used by the oracle."""
+    lines = [line.strip() for line in path.read_text(encoding="utf-8").splitlines()]
+    scale = float(lines[1])
+    lattice = [[scale * float(value) for value in lines[i].split()] for i in range(2, 5)]
+    species = lines[5].split()
+    counts = [int(value) for value in lines[6].split()]
+    composition = defaultdict(int)
+    for symbol, count in zip(species, counts):
+        composition[symbol] += count
+    dot = lambda left, right: sum(a * b for a, b in zip(left, right))
+    a, b, c = lattice
+    determinant = (
+        a[0] * (b[1] * c[2] - b[2] * c[1])
+        - a[1] * (b[0] * c[2] - b[2] * c[0])
+        + a[2] * (b[0] * c[1] - b[1] * c[0])
+    )
+    return {
+        "composition_counts": dict(sorted(composition.items())),
+        "number_of_atoms": sum(counts),
+        "number_of_species": len(composition),
+        "cell_volume_angstrom3": round(abs(determinant), 10),
+        "lattice_vector_lengths_angstrom": [
+            round(math.sqrt(dot(vector, vector)), 10) for vector in lattice
+        ],
+        "cell_metric_tensor_angstrom2": [
+            [round(dot(left, right), 10) for right in lattice] for left in lattice
+        ],
+    }
+
+
 class CatalogTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
@@ -37,6 +71,17 @@ class CatalogTests(unittest.TestCase):
         schema = json.loads((ROOT / "schema/material-record.schema.json").read_text())
         self.assertEqual(schema["$schema"], "https://json-schema.org/draft/2020-12/schema")
         self.assertEqual(self.taxonomy["schema_version"], 1)
+
+    def test_benchmark_manifests_satisfy_json_schemas(self):
+        split_schema = json.loads((ROOT / "schema/benchmark-split.schema.json").read_text())
+        oracle_schema = json.loads((ROOT / "schema/structural-oracle.schema.json").read_text())
+        split_validator = Draft202012Validator(split_schema)
+        for path in sorted((ROOT / "splits").glob("*.json")):
+            errors = [error.message for error in split_validator.iter_errors(json.loads(path.read_text()))]
+            self.assertEqual(errors, [], f"{path.name}: {'; '.join(errors)}")
+        oracle = json.loads((ROOT / "oracles/structural-invariants-v1.json").read_text())
+        errors = [error.message for error in Draft202012Validator(oracle_schema).iter_errors(oracle)]
+        self.assertEqual(errors, [], "; ".join(errors))
 
     def test_all_records_satisfy_json_schema(self):
         schema = json.loads((ROOT / "schema/material-record.schema.json").read_text())
@@ -272,6 +317,122 @@ class CatalogTests(unittest.TestCase):
             self.assertEqual(entry["structure_type"], record["structure_type"])
             self.assertEqual(sha256(ROOT / entry["path"]), entry["sha256"])
             self.assertTrue(entry["selection_reason"])
+
+    def test_benchmark_tiers_are_nested_catalog_bound_and_cover_edge_cases(self):
+        catalog = {record["id"]: record for record in self.records}
+        expected = {
+            "batch-smoke-v1": (12, {"monolayer": 6, "bulk": 6}),
+            "batch-small-v1": (64, {"monolayer": 48, "bulk": 16}),
+            "batch-medium-v1": (256, {"monolayer": 224, "bulk": 32}),
+        }
+        manifests = {}
+        for split_id, (count, quotas) in expected.items():
+            manifest = json.loads((ROOT / f"splits/{split_id}.json").read_text())
+            manifests[split_id] = manifest
+            self.assertEqual(len(manifest["records"]), count)
+            self.assertEqual(len({entry["id"] for entry in manifest["records"]}), count)
+            self.assertEqual(
+                {
+                    structure_type: sum(
+                        entry["structure_type"] == structure_type
+                        for entry in manifest["records"]
+                    )
+                    for structure_type in quotas
+                },
+                quotas,
+            )
+            for entry in manifest["records"]:
+                record = catalog[entry["id"]]
+                self.assertEqual(entry["path"], record["files"]["poscar"])
+                self.assertEqual(entry["sha256"], record["files"]["poscar_sha256"])
+                self.assertEqual(entry["license"], record["license"])
+                self.assertEqual(entry["structure_type"], record["structure_type"])
+                self.assertEqual(sha256(ROOT / entry["path"]), entry["sha256"])
+
+        ids = {
+            split_id: {entry["id"] for entry in manifest["records"]}
+            for split_id, manifest in manifests.items()
+        }
+        self.assertLessEqual(ids["batch-smoke-v1"], ids["batch-small-v1"])
+        self.assertLessEqual(ids["batch-small-v1"], ids["batch-medium-v1"])
+        flagged = {record["id"] for record in self.records if record["quality_flags"]}
+        self.assertLessEqual(flagged, ids["batch-small-v1"])
+
+    def test_benchmark_tier_index_matches_manifests(self):
+        index = json.loads((ROOT / "index/benchmark-tiers.json").read_text())
+        self.assertEqual(index["schema_version"], 1)
+        self.assertEqual(
+            [entry["id"] for entry in index["splits"]],
+            ["batch-smoke-v1", "batch-small-v1", "batch-medium-v1"],
+        )
+        for entry in index["splits"]:
+            manifest = json.loads((ROOT / entry["path"]).read_text())
+            self.assertEqual(entry["record_count"], len(manifest["records"]))
+            self.assertEqual(entry["licenses"], sorted({record["license"] for record in manifest["records"]}))
+        oracle_entry = index["oracles"][0]
+        oracle = json.loads((ROOT / oracle_entry["path"]).read_text())
+        self.assertEqual(oracle_entry["record_count"], len(oracle["records"]))
+
+    def test_structural_oracle_is_recomputable_and_has_no_property_claims(self):
+        catalog = {record["id"]: record for record in self.records}
+        small_ids = {
+            entry["id"]
+            for entry in json.loads((ROOT / "splits/batch-small-v1.json").read_text())["records"]
+        }
+        oracle = json.loads((ROOT / "oracles/structural-invariants-v1.json").read_text())
+        self.assertEqual(len(oracle["records"]), 24)
+        self.assertIn("no symmetry", oracle["scientific_boundary"])
+        counts = defaultdict(int)
+        allowed_invariants = {
+            "composition_counts",
+            "number_of_atoms",
+            "number_of_species",
+            "cell_volume_angstrom3",
+            "lattice_vector_lengths_angstrom",
+            "cell_metric_tensor_angstrom2",
+        }
+        for entry in oracle["records"]:
+            record = catalog[entry["id"]]
+            counts[record["structure_type"]] += 1
+            self.assertIn(entry["id"], small_ids)
+            self.assertEqual(record["quality_flags"], [])
+            self.assertEqual(record["phenomena"], [])
+            self.assertEqual(record["evidence_level"], "not-evaluated")
+            self.assertEqual(entry["review_status"], "reviewed")
+            self.assertEqual(entry["property_claim_status"], "pending")
+            self.assertEqual(set(entry["invariants"]), allowed_invariants)
+            self.assertEqual(
+                entry["invariants"], parse_poscar_invariants(ROOT / entry["path"])
+            )
+            self.assertEqual(
+                entry["invariants"]["number_of_atoms"],
+                record["composition"]["number_of_atoms"],
+            )
+            self.assertEqual(
+                entry["invariants"]["number_of_species"],
+                record["composition"]["number_of_species"],
+            )
+            self.assertEqual(
+                set(entry["invariants"]["composition_counts"]),
+                set(record["composition"]["elements"]),
+            )
+        self.assertEqual(dict(counts), {"bulk": 12, "monolayer": 12})
+
+    def test_benchmark_generation_is_byte_reproducible(self):
+        paths = [
+            ROOT / "splits/batch-smoke-v1.json",
+            ROOT / "splits/batch-small-v1.json",
+            ROOT / "splits/batch-medium-v1.json",
+            ROOT / "oracles/structural-invariants-v1.json",
+            ROOT / "index/benchmark-tiers.json",
+        ]
+        before = {path: sha256(path) for path in paths}
+        subprocess.run(
+            [sys.executable, "scripts/generate_benchmark_tiers.py"],
+            cwd=ROOT,
+            check=True,
+        )
+        self.assertEqual(before, {path: sha256(path) for path in paths})
 
 
 if __name__ == "__main__":

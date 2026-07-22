@@ -43,11 +43,22 @@ Validation checks stable IDs, unique indexes, controlled tags, record-to-file li
 
 CI covers Python 3.10 and the latest stable Python 3.14, builds both distributions, checks their metadata, installs the wheel, and runs the query command from outside the repository.
 
-The versioned [`batch-smoke-v1`](splits/batch-smoke-v1.json) split contains six
-MC2D monolayers and six COD bulk structures selected for small CI cost and
-diverse source-reported symmetry settings. Each entry is bound to the canonical
-catalog by stable ID, relative POSCAR path, SHA-256, structure type, and license.
-It is a parser and batch-reporting fixture, not a set of material-property labels.
+Versioned benchmark tiers support different test budgets:
+
+| Tier | Records | Intended use |
+|---|---:|---|
+| [`batch-smoke-v1`](splits/batch-smoke-v1.json) | 12 | pull-request parser and batch-report checks |
+| [`batch-small-v1`](splits/batch-small-v1.json) | 64 | routine integration tests and every current quality-flag edge case |
+| [`batch-medium-v1`](splits/batch-medium-v1.json) | 256 | scheduled compatibility, coverage, and performance regression tests |
+
+The tiers are deterministic and nested: smoke is contained in small, and small
+is contained in medium. Every entry is bound to the canonical catalog by stable
+ID, relative POSCAR path, SHA-256, structure type, and record-level license.
+[`structural-invariants-v1`](oracles/structural-invariants-v1.json) adds 24
+reviewed, independently recomputable parser quantities. It deliberately has
+`property_claim_status: pending`: neither the tiers nor the oracle provide
+symmetry, dimensionality, stability, ferroelectric, or other physical-property
+ground truth. See [`docs/BENCHMARK_TIERS.md`](docs/BENCHMARK_TIERS.md).
 
 ## Data policy
 

@@ -1,0 +1,955 @@
+{
+  "computation": {
+    "cell_metric": "G_ij = a_i dot a_j",
+    "cell_volume": "absolute determinant of the scaled 3x3 lattice matrix",
+    "generator": "scripts/generate_benchmark_tiers.py",
+    "poscar_scale": "one positive scalar applied to all lattice vectors",
+    "rounding_decimal_places": 10
+  },
+  "description": "Recomputable fixed-file structural quantities for parser and conversion regression tests.",
+  "id": "structural-invariants-v1",
+  "records": [
+    {
+      "id": "mst-bulk-cod-000001",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            57.3049,
+            12.0157406453,
+            -8.9186490552
+          ],
+          [
+            12.0157406453,
+            51.251281,
+            -8.9606583333
+          ],
+          [
+            -8.9186490552,
+            -8.9606583333,
+            17.875984
+          ]
+        ],
+        "cell_volume_angstrom3": 207.756195499,
+        "composition_counts": {
+          "I": 2,
+          "Sb": 2,
+          "Te": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          7.57,
+          7.159,
+          4.228
+        ],
+        "number_of_atoms": 6,
+        "number_of_species": 3
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1008205.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "2a4017140a516b80cf796565a8a46ef6cfe4157238bf175adc44b49dee0347ac"
+    },
+    {
+      "id": "mst-bulk-cod-000003",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            33.605209,
+            -16.8026045,
+            0.0
+          ],
+          [
+            -16.8026045,
+            33.605209,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            768.620176
+          ]
+        ],
+        "cell_volume_angstrom3": 806.8505931622,
+        "composition_counts": {
+          "As": 6,
+          "Cd": 3,
+          "K": 12
+        },
+        "lattice_vector_lengths_angstrom": [
+          5.797,
+          5.797,
+          27.724
+        ],
+        "number_of_atoms": 21,
+        "number_of_species": 3
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1008853.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "1fc0cd7c6aea945a4e86134829889f02d3838bb518cf5b7178013292db3665ee"
+    },
+    {
+      "id": "mst-bulk-cod-000004",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            39.1876,
+            -19.5938,
+            0.0
+          ],
+          [
+            -19.5938,
+            39.1876,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            331.24
+          ]
+        ],
+        "cell_volume_angstrom3": 617.6617194628,
+        "composition_counts": {
+          "Br": 18,
+          "Cr": 6
+        },
+        "lattice_vector_lengths_angstrom": [
+          6.26,
+          6.26,
+          18.2
+        ],
+        "number_of_atoms": 24,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1010151.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "ffd34fb8a84cca47d1a2b48dba04e377eef5ae9af467ef3543ad171dd5025a33"
+    },
+    {
+      "id": "mst-bulk-cod-000006",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            19.245769,
+            -9.6228845,
+            0.0
+          ],
+          [
+            -9.6228845,
+            19.245769,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            60.9961
+          ]
+        ],
+        "cell_volume_angstrom3": 130.1718072298,
+        "composition_counts": {
+          "As": 2,
+          "Li": 6
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.387,
+          4.387,
+          7.81
+        ],
+        "number_of_atoms": 8,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1010288.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "1ca3c7997d6a15be993713062380620a6dcf99037a77ec2fcb73248c690740a1"
+    },
+    {
+      "id": "mst-bulk-cod-000008",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            17.0569,
+            -8.52845,
+            0.0
+          ],
+          [
+            -8.52845,
+            17.0569,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            44.7561
+          ]
+        ],
+        "cell_volume_angstrom3": 98.8227312686,
+        "composition_counts": {
+          "Ge": 1,
+          "I": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.13,
+          4.13,
+          6.69
+        ],
+        "number_of_atoms": 3,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1010319.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "f2a9efc523ab1b6683b5a52b0e1718623ff3ca66906cfc40443ea269de94bdec"
+    },
+    {
+      "id": "mst-bulk-cod-000010",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            228.523689,
+            0.0,
+            -56.0801367
+          ],
+          [
+            0.0,
+            18.826921,
+            0.0
+          ],
+          [
+            -56.0801367,
+            0.0,
+            50.41
+          ]
+        ],
+        "cell_volume_angstrom3": 397.0812666213,
+        "composition_counts": {
+          "Au": 2,
+          "I": 8,
+          "Li": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          15.117,
+          4.339,
+          7.1
+        ],
+        "number_of_atoms": 12,
+        "number_of_species": 3
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1510187.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "cea87afc7bcffdf636db6a4d6bf567f3e77e77254e34672f0271540282f0788d"
+    },
+    {
+      "id": "mst-bulk-cod-000012",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            69.806025,
+            0.0,
+            -14.4474045633
+          ],
+          [
+            0.0,
+            13.417569,
+            0.0
+          ],
+          [
+            -14.4474045633,
+            0.0,
+            39.212644
+          ]
+        ],
+        "cell_volume_angstrom3": 184.192865376,
+        "composition_counts": {
+          "Au": 4,
+          "Se": 4
+        },
+        "lattice_vector_lengths_angstrom": [
+          8.355,
+          3.663,
+          6.262
+        ],
+        "number_of_atoms": 8,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1510294.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "3f2255429b90dfe10608af5059063e56c960deafa19320ee75fc03f667f3315d"
+    },
+    {
+      "id": "mst-bulk-cod-000014",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            23.76952516,
+            0.0,
+            -15.9331861168
+          ],
+          [
+            0.0,
+            7.91915881,
+            0.0
+          ],
+          [
+            -15.9331861168,
+            0.0,
+            31.158724
+          ]
+        ],
+        "cell_volume_angstrom3": 62.0865753811,
+        "composition_counts": {
+          "Ni": 2,
+          "O": 4
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.8754,
+          2.8141,
+          5.582
+        ],
+        "number_of_atoms": 6,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1522025.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "98e98461223083e39553376547dcd1ff2f21a4d705dbf87636854cf0cec9eb2b"
+    },
+    {
+      "id": "mst-bulk-cod-000017",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            39.69,
+            0.0,
+            -12.80592407
+          ],
+          [
+            0.0,
+            120.5604,
+            0.0
+          ],
+          [
+            -12.80592407,
+            0.0,
+            40.1956
+          ]
+        ],
+        "cell_volume_angstrom3": 415.4115325928,
+        "composition_counts": {
+          "Br": 12,
+          "Ir": 4
+        },
+        "lattice_vector_lengths_angstrom": [
+          6.3,
+          10.98,
+          6.34
+        ],
+        "number_of_atoms": 16,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1527188.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "5b3f0c18f5ff923454e057913c2a07338e82be4b80ffea96ff330986d3ef5058"
+    },
+    {
+      "id": "mst-bulk-cod-000038",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            17.065161,
+            9.9903670518,
+            9.9903670518
+          ],
+          [
+            9.9903670518,
+            17.065161,
+            9.9903670518
+          ],
+          [
+            9.9903670518,
+            9.9903670518,
+            17.065161
+          ]
+        ],
+        "cell_volume_angstrom3": 43.0609733105,
+        "composition_counts": {
+          "As": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.131,
+          4.131,
+          4.131
+        ],
+        "number_of_atoms": 2,
+        "number_of_species": 1
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9008574.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "779e40f436a0f05cf6d2aed15d6c2665a97d635e4d1b3562dc4648ccf6ffae7c"
+    },
+    {
+      "id": "mst-bulk-cod-000041",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            17.3056,
+            -8.6528,
+            0.0
+          ],
+          [
+            -8.6528,
+            17.3056,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            46.5124
+          ]
+        ],
+        "cell_volume_angstrom3": 102.2119485331,
+        "composition_counts": {
+          "I": 2,
+          "Mn": 1
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.16,
+          4.16,
+          6.82
+        ],
+        "number_of_atoms": 3,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9009110.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "4c8b4759790478ddd9ae412fb75ac383a8c4ab309917a48131006f0ea6603e6c"
+    },
+    {
+      "id": "mst-bulk-cod-000056",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            19.000881,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            19.000881,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            151.757761
+          ]
+        ],
+        "cell_volume_angstrom3": 234.071853039,
+        "composition_counts": {
+          "Hg": 2,
+          "I": 4
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.359,
+          4.359,
+          12.319
+        ],
+        "number_of_atoms": 6,
+        "number_of_species": 2
+      },
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9014434.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "392aa7090b63442e61cc139ef6c9a9a4711df034dde4da26e200dba6e2032e2b"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000008",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            11.6100307467,
+            -5.8050153728,
+            0.0
+          ],
+          [
+            -5.8050153728,
+            11.6100307457,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            550.9996001257
+          ]
+        ],
+        "cell_volume_angstrom3": 236.0150205639,
+        "composition_counts": {
+          "Cl": 2,
+          "Zr": 1
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.4073495193,
+          3.4073495192,
+          23.473380671
+        ],
+        "number_of_atoms": 3,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/00b5d82b-1763-4d98-aec5-83fc8374057c.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "7a96c6218d0ab7957e1049a58e4ecb4d0d13e24b5f775c20a42c8a5a1bcebe46"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000154",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            14.7691133018,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            14.7691133018,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            537.4168067066
+          ]
+        ],
+        "cell_volume_angstrom3": 342.3813060343,
+        "composition_counts": {
+          "F": 2,
+          "Tl": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.8430604083,
+          3.8430604083,
+          23.1822519766
+        ],
+        "number_of_atoms": 4,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/0c/0cef2841-3b6e-4d4a-af66-ddce65902560.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "df52596192e6e55983ded1d0317e13eec4f9fb788e2e97f696fae835c48814f2"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000490",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            10.392949996,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            17.7289884981,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            586.2046567153
+          ]
+        ],
+        "cell_volume_angstrom3": 328.6518112225,
+        "composition_counts": {
+          "Ag": 1,
+          "Cu": 1,
+          "Te": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.2238098573,
+          4.2105805417,
+          24.2116636503
+        ],
+        "number_of_atoms": 4,
+        "number_of_species": 3
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/2b/2b890ccb-cf8c-4cb9-b95b-7fdbce451b0c.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "66ced5b503652ce726e4c35c68dec60cdec8fae920a2a9a8d6c652f966bde2a0"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000935",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            12.7996353017,
+            -6.3998176507,
+            0.0
+          ],
+          [
+            -6.3998176507,
+            12.7996353012,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            529.4878197367
+          ]
+        ],
+        "cell_volume_angstrom3": 255.0681394382,
+        "composition_counts": {
+          "O": 1,
+          "Tl": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.5776577955,
+          3.5776577954,
+          23.0106023332
+        ],
+        "number_of_atoms": 3,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/50/5013cd90-170f-4440-9ec0-cb6d6a231e67.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "e2367e5fe341655c4ac030bb723124979e1ddff2074cc3f9816c03e647491ea7"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001089",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            13.9884136189,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            39.6398905741,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            509.3091643054
+          ]
+        ],
+        "cell_volume_angstrom3": 531.424045938,
+        "composition_counts": {
+          "Au": 2,
+          "Se": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.740108771,
+          6.2960218054,
+          22.5678790387
+        ],
+        "number_of_atoms": 4,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/5e/5ed8d396-5480-40ae-93ea-a170bc12cf6d.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "7e2ba71b5ada24236ffcf76c1cd0528e9e6c1cf9f7c967fd953f4c176c772b83"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001293",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            15.1930501604,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            15.1930501604,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            514.9509192623
+          ]
+        ],
+        "cell_volume_angstrom3": 344.7687470462,
+        "composition_counts": {
+          "Ni": 2,
+          "Se": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.8978263379,
+          3.8978263379,
+          22.6925300322
+        ],
+        "number_of_atoms": 4,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/74/742d5b76-e126-4ee8-8cbe-ab764df04ca8.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "2ebcd208f451d4dd58b2ec631f361f544540cb0b632fab7c578dc0f88c72590f"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001931",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            12.5908363554,
+            -6.2954181779,
+            0.0
+          ],
+          [
+            -6.2954181779,
+            12.5908363558,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            400.0
+          ]
+        ],
+        "cell_volume_angstrom3": 218.0796827755,
+        "composition_counts": {
+          "Na": 1
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.5483568529,
+          3.5483568529,
+          20.0
+        ],
+        "number_of_atoms": 1,
+        "number_of_species": 1
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/b0/b0f408bc-b739-4a18-9b82-cd39c2fa773b.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "610c63e09a970a2bb2c8e32f0d86137a0484758fad06282d824c3160200330f1"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002084",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            14.1481234046,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            15.0843594689,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            550.0600923767
+          ]
+        ],
+        "cell_volume_angstrom3": 342.6241136029,
+        "composition_counts": {
+          "Ag": 2,
+          "Te": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.7613991286,
+          3.8838588374,
+          23.4533599379
+        ],
+        "number_of_atoms": 4,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/c0/c06fbeb7-a578-483b-8c41-7025dac6770d.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "f095469afae7a9847d6d72445909be2b5e13cc7c18cf5d95348db13b1cb5425e"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002261",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            14.1592277967,
+            10.4762145311,
+            0.0
+          ],
+          [
+            10.4762145311,
+            14.1592277967,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            273.391650187
+          ]
+        ],
+        "cell_volume_angstrom3": 157.4977837569,
+        "composition_counts": {
+          "Cu": 1,
+          "O": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.7628749377,
+          3.7628749377,
+          16.534559268
+        ],
+        "number_of_atoms": 3,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/d1/d11ef78a-33eb-40cf-94ef-1cf64cc300ac.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "5796cf8f44f259f675ec4e7dc81642e0e1694b4cf3cc8b9fd2d2a73a28915ced"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002345",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            19.3854265556,
+            0.0005856169,
+            0.0
+          ],
+          [
+            0.0005856169,
+            19.3854287243,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            5438.3122099849
+          ]
+        ],
+        "cell_volume_angstrom3": 1429.5766763076,
+        "composition_counts": {
+          "Pb": 2,
+          "Se": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          4.4028884332,
+          4.4028886795,
+          73.7449131126
+        ],
+        "number_of_atoms": 4,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/d8/d8c7fafd-fd5c-4482-adcf-967313e8b23e.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "3bdbd509af832807362ff3c01162ca6a17885983c78f9e7af34dc3e8a942572e"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002475",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            10.1340313104,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            10.1340313104,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            600.0896590471
+          ]
+        ],
+        "cell_volume_angstrom3": 248.2506036599,
+        "composition_counts": {
+          "Ag": 1,
+          "Te": 2
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.1833993325,
+          3.1833993325,
+          24.4967275171
+        ],
+        "number_of_atoms": 3,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/e5/e591e832-0843-4d5e-8d8e-3291ae5abbec.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "ee762eee70c4471e5303da782783ad4ea40725e8155cb10e64d378075e39a408"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002622",
+      "invariants": {
+        "cell_metric_tensor_angstrom2": [
+          [
+            15.1581549631,
+            -7.5790774817,
+            0.0
+          ],
+          [
+            -7.5790774817,
+            15.1581549637,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            458.3420237121
+          ]
+        ],
+        "cell_volume_angstrom3": 281.042379126,
+        "composition_counts": {
+          "Ge": 1,
+          "Te": 1
+        },
+        "lattice_vector_lengths_angstrom": [
+          3.8933475266,
+          3.8933475267,
+          21.408923927
+        ],
+        "number_of_atoms": 2,
+        "number_of_species": 2
+      },
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/f2/f2c23dd6-7ef1-4c6b-9bc9-973e63905a0d.vasp",
+      "property_claim_status": "pending",
+      "review_status": "reviewed",
+      "sha256": "78129b523716c6aa2773210fe40e03625dad5915f990f07d09d1654981a4d3b4"
+    }
+  ],
+  "review_scope": "Checksums, POSCAR parsing recipe, composition counts, and cell-metric calculations were reviewed.",
+  "schema_version": 1,
+  "scientific_boundary": "Reviewed means the deterministic calculation and source linkage were checked. It is not peer review and supplies no symmetry, stability, dimensionality, ferroelectric, or other physical-property ground truth.",
+  "source_split": "batch-small-v1"
+}

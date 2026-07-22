@@ -31,3 +31,13 @@ These categories are deliberately excluded; their absence is not a missing-data 
 7. Update `catalog/collections.json`, `NOTICE`, `ATTRIBUTION.md`, `LICENSE-DATA`, the release notes, and the citation metadata before tagging a release.
 
 If only part of a study is cleared, release that part as a separate collection and keep the remainder embargoed. Publication of a manuscript does not by itself override database licenses, institutional ownership, or patent timing.
+
+## Benchmark manifests and oracles
+
+Split manifests do not relicense their referenced structures. Each entry repeats
+the catalog's record-level license and checksum, and users must follow that
+collection license when copying coordinates. The structural oracle contains only
+quantities deterministically recomputed from those public POSCAR files.
+`review_status: reviewed` means that source linkage and the stated calculation
+were checked; `property_claim_status: pending` means that no physical-property
+ground truth is supplied or implied.

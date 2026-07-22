@@ -1,104 +1,105 @@
 {
-  "schema_version": 1,
-  "id": "batch-smoke-v1",
   "description": "Twelve redistributable structures for deterministic parser and batch-report integration tests.",
-  "scientific_boundary": "This split does not define reference ferroelectric, stability, or layer-group labels.",
+  "id": "batch-smoke-v1",
   "records": [
     {
       "id": "mst-mono-mc2d2022-000002",
-      "path": "structures/monolayer/mc2d/00/002e6827-db47-4e77-9e91-25db60799475.vasp",
-      "sha256": "270ddc035eb7c5abfda61a5f9616d7a71be45e4d3234010a7bd09a540004d8c2",
-      "structure_type": "monolayer",
       "license": "CC-BY-4.0",
-      "selection_reason": "Small cell; source-reported point group 2/m."
+      "path": "structures/monolayer/mc2d/00/002e6827-db47-4e77-9e91-25db60799475.vasp",
+      "selection_reason": "Small cell; source-reported point group 2/m.",
+      "sha256": "270ddc035eb7c5abfda61a5f9616d7a71be45e4d3234010a7bd09a540004d8c2",
+      "structure_type": "monolayer"
     },
     {
       "id": "mst-mono-mc2d2022-000003",
-      "path": "structures/monolayer/mc2d/00/00463f16-8212-4e61-9c8f-c6fa21d97221.vasp",
-      "sha256": "9fd1266cd13d557713501bee21a78a99ce0acd079b9fc1b9707755a95e662a38",
-      "structure_type": "monolayer",
       "license": "CC-BY-4.0",
-      "selection_reason": "Small cell; source-reported point group m."
+      "path": "structures/monolayer/mc2d/00/00463f16-8212-4e61-9c8f-c6fa21d97221.vasp",
+      "selection_reason": "Small cell; source-reported point group m.",
+      "sha256": "9fd1266cd13d557713501bee21a78a99ce0acd079b9fc1b9707755a95e662a38",
+      "structure_type": "monolayer"
     },
     {
       "id": "mst-mono-mc2d2022-000005",
-      "path": "structures/monolayer/mc2d/00/00676f04-8b2c-4eac-be95-86f49c9bd268.vasp",
-      "sha256": "3aff674b5dcef38ad782a52709416920e2bba15bb45f717a7a431dcebeb971ba",
-      "structure_type": "monolayer",
       "license": "CC-BY-4.0",
-      "selection_reason": "Small cell; source-reported point group 4/mmm."
+      "path": "structures/monolayer/mc2d/00/00676f04-8b2c-4eac-be95-86f49c9bd268.vasp",
+      "selection_reason": "Small cell; source-reported point group 4/mmm.",
+      "sha256": "3aff674b5dcef38ad782a52709416920e2bba15bb45f717a7a431dcebeb971ba",
+      "structure_type": "monolayer"
     },
     {
       "id": "mst-mono-mc2d2022-000008",
-      "path": "structures/monolayer/mc2d/00/00b5d82b-1763-4d98-aec5-83fc8374057c.vasp",
-      "sha256": "7a96c6218d0ab7957e1049a58e4ecb4d0d13e24b5f775c20a42c8a5a1bcebe46",
-      "structure_type": "monolayer",
       "license": "CC-BY-4.0",
-      "selection_reason": "Small cell; source-reported point group -6m2."
+      "path": "structures/monolayer/mc2d/00/00b5d82b-1763-4d98-aec5-83fc8374057c.vasp",
+      "selection_reason": "Small cell; source-reported point group -6m2.",
+      "sha256": "7a96c6218d0ab7957e1049a58e4ecb4d0d13e24b5f775c20a42c8a5a1bcebe46",
+      "structure_type": "monolayer"
     },
     {
       "id": "mst-mono-mc2d2022-000009",
-      "path": "structures/monolayer/mc2d/00/00cab5b8-c411-42b7-9d3a-8af80be8271a.vasp",
-      "sha256": "80b1c200193cd268de7d57e840decefee1d10ce500c3070112e71193381705ae",
-      "structure_type": "monolayer",
       "license": "CC-BY-4.0",
-      "selection_reason": "Moderate cell; source-reported point group mm2."
+      "path": "structures/monolayer/mc2d/00/00cab5b8-c411-42b7-9d3a-8af80be8271a.vasp",
+      "selection_reason": "Moderate cell; source-reported point group mm2.",
+      "sha256": "80b1c200193cd268de7d57e840decefee1d10ce500c3070112e71193381705ae",
+      "structure_type": "monolayer"
     },
     {
       "id": "mst-mono-mc2d2022-000010",
-      "path": "structures/monolayer/mc2d/00/00d062f2-cb13-4d30-bdb5-abab1b195554.vasp",
-      "sha256": "864bd1efd3af3caa767184d9b39988efb2d1330185269f219a8b1924763ffa80",
-      "structure_type": "monolayer",
       "license": "CC-BY-4.0",
-      "selection_reason": "Small cell; source-reported point group -3m."
+      "path": "structures/monolayer/mc2d/00/00d062f2-cb13-4d30-bdb5-abab1b195554.vasp",
+      "selection_reason": "Small cell; source-reported point group -3m.",
+      "sha256": "864bd1efd3af3caa767184d9b39988efb2d1330185269f219a8b1924763ffa80",
+      "structure_type": "monolayer"
     },
     {
       "id": "mst-bulk-cod-000001",
-      "path": "structures/bulk/cod/1008205.vasp",
-      "sha256": "2a4017140a516b80cf796565a8a46ef6cfe4157238bf175adc44b49dee0347ac",
-      "structure_type": "bulk",
       "license": "CC0-1.0",
-      "selection_reason": "Small experimental cell; source setting C2/m."
+      "path": "structures/bulk/cod/1008205.vasp",
+      "selection_reason": "Small experimental cell; source setting C2/m.",
+      "sha256": "2a4017140a516b80cf796565a8a46ef6cfe4157238bf175adc44b49dee0347ac",
+      "structure_type": "bulk"
     },
     {
       "id": "mst-bulk-cod-000002",
-      "path": "structures/bulk/cod/1008520.vasp",
-      "sha256": "a5449888b1cc6f99c6077f0645f5f4090dca427a7caa1211796128541c367bc1",
-      "structure_type": "bulk",
       "license": "CC0-1.0",
-      "selection_reason": "Moderate experimental cell; source setting P2/m."
+      "path": "structures/bulk/cod/1008520.vasp",
+      "selection_reason": "Moderate experimental cell; source setting P2/m.",
+      "sha256": "a5449888b1cc6f99c6077f0645f5f4090dca427a7caa1211796128541c367bc1",
+      "structure_type": "bulk"
     },
     {
       "id": "mst-bulk-cod-000003",
-      "path": "structures/bulk/cod/1008853.vasp",
-      "sha256": "1fc0cd7c6aea945a4e86134829889f02d3838bb518cf5b7178013292db3665ee",
-      "structure_type": "bulk",
       "license": "CC0-1.0",
-      "selection_reason": "Moderate experimental cell; source setting P-3m1."
+      "path": "structures/bulk/cod/1008853.vasp",
+      "selection_reason": "Moderate experimental cell; source setting P-3m1.",
+      "sha256": "1fc0cd7c6aea945a4e86134829889f02d3838bb518cf5b7178013292db3665ee",
+      "structure_type": "bulk"
     },
     {
       "id": "mst-bulk-cod-000004",
-      "path": "structures/bulk/cod/1010151.vasp",
-      "sha256": "ffd34fb8a84cca47d1a2b48dba04e377eef5ae9af467ef3543ad171dd5025a33",
-      "structure_type": "bulk",
       "license": "CC0-1.0",
-      "selection_reason": "Moderate experimental cell; source setting P-3."
+      "path": "structures/bulk/cod/1010151.vasp",
+      "selection_reason": "Moderate experimental cell; source setting P-3.",
+      "sha256": "ffd34fb8a84cca47d1a2b48dba04e377eef5ae9af467ef3543ad171dd5025a33",
+      "structure_type": "bulk"
     },
     {
       "id": "mst-bulk-cod-000006",
-      "path": "structures/bulk/cod/1010288.vasp",
-      "sha256": "1ca3c7997d6a15be993713062380620a6dcf99037a77ec2fcb73248c690740a1",
-      "structure_type": "bulk",
       "license": "CC0-1.0",
-      "selection_reason": "Small experimental cell; source setting P-6m2."
+      "path": "structures/bulk/cod/1010288.vasp",
+      "selection_reason": "Small experimental cell; source setting P-6m2.",
+      "sha256": "1ca3c7997d6a15be993713062380620a6dcf99037a77ec2fcb73248c690740a1",
+      "structure_type": "bulk"
     },
     {
       "id": "mst-bulk-cod-000010",
-      "path": "structures/bulk/cod/1510187.vasp",
-      "sha256": "cea87afc7bcffdf636db6a4d6bf567f3e77e77254e34672f0271540282f0788d",
-      "structure_type": "bulk",
       "license": "CC0-1.0",
-      "selection_reason": "Small experimental cell; source setting P-1."
+      "path": "structures/bulk/cod/1510187.vasp",
+      "selection_reason": "Small experimental cell; source setting P-1.",
+      "sha256": "cea87afc7bcffdf636db6a4d6bf567f3e77e77254e34672f0271540282f0788d",
+      "structure_type": "bulk"
     }
-  ]
+  ],
+  "schema_version": 1,
+  "scientific_boundary": "This split does not define reference ferroelectric, stability, or layer-group labels.",
+  "tier": "smoke"
 }

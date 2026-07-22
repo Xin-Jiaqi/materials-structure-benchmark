@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Xin-Jiaqi/materials-structure-benchmark/schema/structural-oracle.schema.json",
+  "title": "Recomputable structural-invariant oracle",
+  "type": "object",
+  "required": ["schema_version", "id", "description", "source_split", "review_scope", "scientific_boundary", "computation", "records"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "id": {"const": "structural-invariants-v1"},
+    "description": {"type": "string", "minLength": 1},
+    "source_split": {"const": "batch-small-v1"},
+    "review_scope": {"type": "string", "minLength": 1},
+    "scientific_boundary": {"type": "string", "minLength": 1},
+    "computation": {"type": "object"},
+    "records": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "path", "sha256", "license", "review_status", "property_claim_status", "invariants"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^mst-[a-z0-9-]+-[0-9]{6}$"},
+          "path": {"type": "string", "pattern": "^structures/.+\\.vasp$"},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "license": {"type": "string", "minLength": 1},
+          "review_status": {"enum": ["reviewed", "pending"]},
+          "property_claim_status": {"const": "pending"},
+          "invariants": {
+            "type": "object",
+            "required": ["composition_counts", "number_of_atoms", "number_of_species", "cell_volume_angstrom3", "lattice_vector_lengths_angstrom", "cell_metric_tensor_angstrom2"],
+            "properties": {
+              "composition_counts": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 1}},
+              "number_of_atoms": {"type": "integer", "minimum": 1},
+              "number_of_species": {"type": "integer", "minimum": 1},
+              "cell_volume_angstrom3": {"type": "number", "exclusiveMinimum": 0},
+              "lattice_vector_lengths_angstrom": {"type": "array", "items": {"type": "number", "exclusiveMinimum": 0}, "minItems": 3, "maxItems": 3},
+              "cell_metric_tensor_angstrom2": {
+                "type": "array",
+                "items": {"type": "array", "items": {"type": "number"}, "minItems": 3, "maxItems": 3},
+                "minItems": 3,
+                "maxItems": 3
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -10,9 +10,11 @@
 
 ## 0.2 — curated test subsets
 
-- [ ] Define small/medium/full benchmark splits with deterministic selection rules.
-- [ ] Add parser edge-case, symmetry-family, element-coverage, and atom-count subsets.
-- [ ] Run `materials-structure-core`, `batch-symmetry-checker`, and group-operation integration tests against the splits.
+- [x] Define nested smoke/small/medium benchmark splits with deterministic selection rules.
+- [x] Cover parser edge cases, source-reported symmetry families, elements, and atom-count strata without treating source labels as ground truth.
+- [x] Add a reviewed structural-invariant oracle with every physical-property claim left pending.
+- [ ] Define a versioned full-catalog execution profile rather than duplicating all 2,801 IDs in another manifest.
+- [ ] Run `materials-structure-core`, `batch-symmetry-checker`, and group-operation integration tests against the published tiers.
 - [x] Add 59 redistributable COD bulk structures with record-level CC0 provenance.
 - [x] Make the catalog query CLI buildable, wheel-installable, and testable outside a repository checkout.
 

@@ -1,0 +1,534 @@
+{
+  "description": "A deterministic small integration tier selected from redistributable monolayer and bulk-parent collections.",
+  "id": "batch-small-v1",
+  "parent_split": "batch-smoke-v1",
+  "records": [
+    {
+      "id": "mst-bulk-cod-000001",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1008205.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family C2/m.",
+      "sha256": "2a4017140a516b80cf796565a8a46ef6cfe4157238bf175adc44b49dee0347ac",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000002",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1008520.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 17-32; source-reported symmetry family P2/m.",
+      "sha256": "a5449888b1cc6f99c6077f0645f5f4090dca427a7caa1211796128541c367bc1",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000003",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1008853.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 17-32; source-reported symmetry family P-3m1.",
+      "sha256": "1fc0cd7c6aea945a4e86134829889f02d3838bb518cf5b7178013292db3665ee",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000004",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1010151.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 17-32; source-reported symmetry family P-3.",
+      "sha256": "ffd34fb8a84cca47d1a2b48dba04e377eef5ae9af467ef3543ad171dd5025a33",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000006",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1010288.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family P-6m2.",
+      "sha256": "1ca3c7997d6a15be993713062380620a6dcf99037a77ec2fcb73248c690740a1",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000008",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1010319.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 01-04; source-reported symmetry family P-6m2.",
+      "sha256": "f2a9efc523ab1b6683b5a52b0e1718623ff3ca66906cfc40443ea269de94bdec",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000010",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1510187.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 09-16; source-reported symmetry family P-1.",
+      "sha256": "cea87afc7bcffdf636db6a4d6bf567f3e77e77254e34672f0271540282f0788d",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000012",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1510294.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family P2/m.",
+      "sha256": "3f2255429b90dfe10608af5059063e56c960deafa19320ee75fc03f667f3315d",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000014",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1522025.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family P-3m1.",
+      "sha256": "98e98461223083e39553376547dcd1ff2f21a4d705dbf87636854cf0cec9eb2b",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000017",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/1527188.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 09-16; source-reported symmetry family C2/m.",
+      "sha256": "5b3f0c18f5ff923454e057913c2a07338e82be4b80ffea96ff330986d3ef5058",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000031",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9001506.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family C2/m.",
+      "sha256": "3479901ae0c25f51f0a5204f82952b1b4f7d6af9f3d73dc7df98dec520781650",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000038",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9008574.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 01-04; source-reported symmetry family P-3m1.",
+      "sha256": "779e40f436a0f05cf6d2aed15d6c2665a97d635e4d1b3562dc4648ccf6ffae7c",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000040",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9008968.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family P-6m2.",
+      "sha256": "08a6fa05013e62468c635fc2d76fcec8b17ae9e7628c841761c332e930224bfb",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000041",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9009110.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 01-04; source-reported symmetry family C2/m.",
+      "sha256": "4c8b4759790478ddd9ae412fb75ac383a8c4ab309917a48131006f0ea6603e6c",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000055",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9013958.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 17-32; source-reported symmetry family P-3m1; explicit quality-flag coverage.",
+      "sha256": "d8c117cf29b45027716322830c9c9e762220579d61095b13911e77024f612530",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-bulk-cod-000056",
+      "license": "CC0-1.0",
+      "path": "structures/bulk/cod/9014434.vasp",
+      "selection_reason": "deterministic bulk stratum; atom-count bin 05-08; source-reported symmetry family P-4m2.",
+      "sha256": "392aa7090b63442e61cc139ef6c9a9a4711df034dde4da26e200dba6e2032e2b",
+      "structure_type": "bulk"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000002",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/002e6827-db47-4e77-9e91-25db60799475.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 2/m.",
+      "sha256": "270ddc035eb7c5abfda61a5f9616d7a71be45e4d3234010a7bd09a540004d8c2",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000003",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/00463f16-8212-4e61-9c8f-c6fa21d97221.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 09-16; source-reported symmetry family m.",
+      "sha256": "9fd1266cd13d557713501bee21a78a99ce0acd079b9fc1b9707755a95e662a38",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000005",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/00676f04-8b2c-4eac-be95-86f49c9bd268.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 4/mmm.",
+      "sha256": "3aff674b5dcef38ad782a52709416920e2bba15bb45f717a7a431dcebeb971ba",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000008",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/00b5d82b-1763-4d98-aec5-83fc8374057c.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family -6m2.",
+      "sha256": "7a96c6218d0ab7957e1049a58e4ecb4d0d13e24b5f775c20a42c8a5a1bcebe46",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000009",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/00cab5b8-c411-42b7-9d3a-8af80be8271a.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 17-32; source-reported symmetry family mm2.",
+      "sha256": "80b1c200193cd268de7d57e840decefee1d10ce500c3070112e71193381705ae",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000010",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/00/00d062f2-cb13-4d30-bdb5-abab1b195554.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -3m.",
+      "sha256": "864bd1efd3af3caa767184d9b39988efb2d1330185269f219a8b1924763ffa80",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000107",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/09/093ea1e1-feab-48ff-b8d5-883adc5b1ffb.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 222.",
+      "sha256": "c958b8323a34c191cead1be56e2cdc7e0fc619d8d1afc184a1c8594ab106ea79",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000128",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/0a/0ab0b899-a358-498f-a521-40704cdc41bc.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "d699b168d109f9ef2e4e605df668666f107848fa5ae71b243035a3ff3f7ee79d",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000154",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/0c/0cef2841-3b6e-4d4a-af66-ddce65902560.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 4/mmm.",
+      "sha256": "df52596192e6e55983ded1d0317e13eec4f9fb788e2e97f696fae835c48814f2",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000164",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/0d/0d7ba43f-a23e-49f2-9bcc-8e857162f9d1.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "dd8ba0e58c30b873a0843ff838a148d27315ef163b9dca0c97ca5ca483e8b111",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000172",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/0d/0ddda7e5-7268-4e1b-a32a-64948099415e.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -3m.",
+      "sha256": "39b2e7abd07c8ad6f6db2bf1562f989ec31acad4396c99fbc67a22d261c7d204",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000185",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/0e/0ee4ac88-2ca5-4895-aa79-0aea4aafc4fa.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "1faab64be1a7f32c5fd1c675f31e1f6951e0563cde8e23ba6d58eedd1e32ac89",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000241",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/13/13b26503-7d36-4952-853f-af3a1f1f7758.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family mm2; explicit quality-flag coverage.",
+      "sha256": "159afe0ce5eac76cb669674477d9a038e7fc4553024734524a19070741c5e183",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000275",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/16/16c8fe1d-9a63-4801-ac70-62c5e76d3ef3.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "b7a37445be575028b0243037ada97be1f6c06c31ec2e0a70064b2a8f62e6eb85",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000416",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/24/24c2436e-157b-49ad-843a-7088f4857fd9.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 3m.",
+      "sha256": "b26c5786175844bdf9cffd06fb500f9a09033a8555cbde245b06cf5904580191",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000422",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/25/2551861e-928d-4331-8a6f-2804c0c917f3.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family unknown; explicit quality-flag coverage.",
+      "sha256": "f84ab3c70cc940efbe8b003569ddee5a733b33a6aaa2151b1483a5a1402844a6",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000478",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/2a/2ab7178e-1914-4d01-b9c0-9e0ccdd092f9.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "9279f339eed6f93e1c06c4bfec1216d8e1b91ca155c8f8bb12da31f602a2a29b",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000490",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/2b/2b890ccb-cf8c-4cb9-b95b-7fdbce451b0c.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family m.",
+      "sha256": "66ced5b503652ce726e4c35c68dec60cdec8fae920a2a9a8d6c652f966bde2a0",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000556",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/31/31d1daf8-886c-4932-9359-62554490f1ac.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 2.",
+      "sha256": "775f6ee52214a925ac7e6a70a919ed5acde52b4402d33b52e73620ef0ce87de7",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000829",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/48/4827a20a-56fb-40a7-a2b9-1e88ba1a1919.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -42m.",
+      "sha256": "9fcd80658f5766e6bdf516a1560772faf5baa06f4b78c33d3d29c521f0ae5c7b",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000935",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/50/5013cd90-170f-4440-9ec0-cb6d6a231e67.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family -3m.",
+      "sha256": "e2367e5fe341655c4ac030bb723124979e1ddff2074cc3f9816c03e647491ea7",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000951",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/51/51ae55c5-9ce7-4148-a837-a540f5ee7f33.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family unknown; explicit quality-flag coverage.",
+      "sha256": "8f59b3def83bf9e101088a91c83061b315fc43a3d219fd3413cdf095eb565fe1",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-000975",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/54/5426402f-828b-4384-a7c4-aa799f2e6cce.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family -6m2.",
+      "sha256": "c068abfaf9d754e917a25fd8c568e68de295e3e4dad4aa2de3f4f944e56653e7",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001089",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/5e/5ed8d396-5480-40ae-93ea-a170bc12cf6d.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m.",
+      "sha256": "7e2ba71b5ada24236ffcf76c1cd0528e9e6c1cf9f7c967fd953f4c176c772b83",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001174",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/67/677e3f97-13df-4389-bb09-731dbc3e96ed.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -4.",
+      "sha256": "e947c5ecdbd7bc76057f262314ffb2c929986e528e92e83c0005643ce81f44ba",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001291",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/73/73e8b091-5750-40ae-a508-cd0651d75396.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family -1; explicit quality-flag coverage.",
+      "sha256": "3f8facf3ba176e239b65f9710858295ef492940191dfd1ddf26cecfa2599d20a",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001293",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/74/742d5b76-e126-4ee8-8cbe-ab764df04ca8.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 4mm.",
+      "sha256": "2ebcd208f451d4dd58b2ec631f361f544540cb0b632fab7c578dc0f88c72590f",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001327",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/76/76ec2395-c1f3-4327-b6b6-cce528a18813.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "7d942b777a69a4e9a4afac4261aa10383f4b5e043b9746821210a8c6e3a1787c",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001336",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/78/780bd261-51c7-4a9e-a481-1338a0790222.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "8d669ad6ae7371e030843b75f3b8e9a3cb9ba648a030342554f3240445faa731",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001344",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/78/78958321-c8dc-4d48-90da-24ad9823f189.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 3.",
+      "sha256": "47122d02bbe5c4fb49846acbdab923a95c7e7e4cfa1013c53a8d3270b786dbed",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001561",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/8f/8f589493-e91c-48d6-9569-061ebc7bb1d6.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "2c7698c2be9d265e384798bca09e878802f69815b6e4fcb452d07417f72ba753",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001676",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/9a/9a3b2ad0-4d09-4df1-98f5-99d454a6f4c0.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "d106b0bf5c615a4dc23a692692b1288e92f22b0a3651dd6b5304d4eeaafe809a",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001804",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/a5/a5a16f4c-5625-4ad7-b8d9-15c65707c2be.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -1.",
+      "sha256": "55987739c7f607bba95bdf7538cb596f73f1ef3b0c0afdac2aa68998f82f5800",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001872",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/ab/ab88c10e-3f34-4f88-b2c5-f7006c21cb4e.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 2/m; explicit quality-flag coverage.",
+      "sha256": "0ed225d3478189030f33e703dff0af31434c7ec6719e06220a2a287407747dac",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001885",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/ac/acd82790-4d66-4f1d-85eb-5b9cb457a954.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 2/m.",
+      "sha256": "e0c48d0cf6d05309a15857dbd0901702403031c13261369e7c3e6735f522e823",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-001931",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/b0/b0f408bc-b739-4a18-9b82-cd39c2fa773b.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 6/mmm.",
+      "sha256": "610c63e09a970a2bb2c8e32f0d86137a0484758fad06282d824c3160200330f1",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002084",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/c0/c06fbeb7-a578-483b-8c41-7025dac6770d.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family mm2.",
+      "sha256": "f095469afae7a9847d6d72445909be2b5e13cc7c18cf5d95348db13b1cb5425e",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002104",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/c3/c33c1015-bb8e-4705-a3cf-662c5f72b3ed.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -3.",
+      "sha256": "f2de4393f0460cd2914c70ba841a7518085eb58fe751454d6dfd4c652594dc8f",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002211",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/cc/cc258cd9-ac3a-4f54-90ab-678cfcad7166.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family mmm.",
+      "sha256": "da27745316f23a32c1a632a7765d56bb46ce7dc6270273c3cb7147a935360a44",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002261",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/d1/d11ef78a-33eb-40cf-94ef-1cf64cc300ac.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family -1.",
+      "sha256": "5796cf8f44f259f675ec4e7dc81642e0e1694b4cf3cc8b9fd2d2a73a28915ced",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002296",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/d4/d4999f88-98e6-4a15-88fb-2562c98d12a1.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 32.",
+      "sha256": "ad2e5b043eaf545116cb6e522d898e885f0dd0dcbd831922605df33704e5fc49",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002345",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/d8/d8c7fafd-fd5c-4482-adcf-967313e8b23e.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 1.",
+      "sha256": "3bdbd509af832807362ff3c01162ca6a17885983c78f9e7af34dc3e8a942572e",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002365",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/da/daeefda1-999f-4745-97ce-c61b9e137e3f.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family unknown; explicit quality-flag coverage.",
+      "sha256": "eb72f027682d3555a33bd4ddd1f912d5ad9e1ba5e38e405665b3bfb2e115633d",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002445",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/e2/e25996d3-fc42-45a7-93c5-8112a998d4d3.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family 1.",
+      "sha256": "c1bf11c85b2a86d9d8ae8f84103cb6b3e2da00cd375e127cfc2ee225fbd30f9c",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002457",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/e3/e3618f3d-2074-498f-bf0d-b599999456a5.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family mm2; explicit quality-flag coverage.",
+      "sha256": "7a3f8f26bd9161613429bc166f31641d847da9e0a5acec38836307de8af12cf5",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002475",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/e5/e591e832-0843-4d5e-8d8e-3291ae5abbec.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family -42m.",
+      "sha256": "ee762eee70c4471e5303da782783ad4ea40725e8155cb10e64d378075e39a408",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002622",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/f2/f2c23dd6-7ef1-4c6b-9bc9-973e63905a0d.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 01-04; source-reported symmetry family 3m.",
+      "sha256": "78129b523716c6aa2773210fe40e03625dad5915f990f07d09d1654981a4d3b4",
+      "structure_type": "monolayer"
+    },
+    {
+      "id": "mst-mono-mc2d2022-002656",
+      "license": "CC-BY-4.0",
+      "path": "structures/monolayer/mc2d/f5/f5f87ac4-d924-4f42-86d2-7517f5b8548c.vasp",
+      "selection_reason": "deterministic monolayer stratum; atom-count bin 05-08; source-reported symmetry family -6m2.",
+      "sha256": "1b6b43102359ae4d6325b93ed4a30f184dd6fdefa8f7393d206a1be11e0bbb90",
+      "structure_type": "monolayer"
+    }
+  ],
+  "schema_version": 1,
+  "scientific_boundary": "Selection and structure presence do not define reference symmetry, ferroelectricity, stability, dimensionality, or any material property.",
+  "selection_policy": {
+    "algorithm": "required parent IDs followed by SHA-256-ranked round-robin atom-count/symmetry strata",
+    "catalog_scope": [
+      "mc2d-2022.84-optimized-monolayers",
+      "cod-bulk-parents-2024"
+    ],
+    "generator": "scripts/generate_benchmark_tiers.py",
+    "quotas": {
+      "bulk": 16,
+      "monolayer": 48
+    }
+  },
+  "tier": "small"
+}

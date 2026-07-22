@@ -1,0 +1,56 @@
+{
+  "oracles": [
+    {
+      "id": "structural-invariants-v1",
+      "path": "oracles/structural-invariants-v1.json",
+      "property_claim_status": "pending",
+      "record_count": 24,
+      "review_status": "reviewed"
+    }
+  ],
+  "schema_version": 1,
+  "splits": [
+    {
+      "id": "batch-smoke-v1",
+      "licenses": [
+        "CC-BY-4.0",
+        "CC0-1.0"
+      ],
+      "path": "splits/batch-smoke-v1.json",
+      "record_count": 12,
+      "structure_types": {
+        "bulk": 6,
+        "monolayer": 6
+      },
+      "tier": "smoke"
+    },
+    {
+      "id": "batch-small-v1",
+      "licenses": [
+        "CC-BY-4.0",
+        "CC0-1.0"
+      ],
+      "path": "splits/batch-small-v1.json",
+      "record_count": 64,
+      "structure_types": {
+        "bulk": 16,
+        "monolayer": 48
+      },
+      "tier": "small"
+    },
+    {
+      "id": "batch-medium-v1",
+      "licenses": [
+        "CC-BY-4.0",
+        "CC0-1.0"
+      ],
+      "path": "splits/batch-medium-v1.json",
+      "record_count": 256,
+      "structure_types": {
+        "bulk": 32,
+        "monolayer": 224
+      },
+      "tier": "medium"
+    }
+  ]
+}
