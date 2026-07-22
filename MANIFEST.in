@@ -1,0 +1,11 @@
+include ATTRIBUTION.md
+include CITATION.cff
+include LICENSE-DATA
+include NOTICE
+recursive-include docs *.md
+recursive-include index *.json
+recursive-include oracles *.json
+recursive-include schema *.json
+recursive-include scripts *.py
+recursive-include splits *.json
+recursive-include taxonomy *.json

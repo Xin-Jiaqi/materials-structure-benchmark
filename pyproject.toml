@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "materials-structure-benchmark"
-version = "0.2.1"
+version = "0.3.0"
 description = "Versioned structure fixtures and indexes for materials-science software"
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [{name = "Jiaqi Xin"}]
@@ -43,4 +43,17 @@ where = ["src"]
 ]
 "share/materials-structure-benchmark/splits" = [
   "splits/batch-smoke-v1.json",
+  "splits/batch-small-v1.json",
+  "splits/batch-medium-v1.json",
+]
+"share/materials-structure-benchmark/oracles" = [
+  "oracles/structural-invariants-v1.json",
+]
+"share/materials-structure-benchmark/index" = [
+  "index/benchmark-tiers.json",
+]
+"share/materials-structure-benchmark/schema" = [
+  "schema/material-record.schema.json",
+  "schema/benchmark-split.schema.json",
+  "schema/structural-oracle.schema.json",
 ]
