@@ -22,7 +22,7 @@ def packaged_catalog() -> Path | None:
     for file in files:
         normalized = str(file).replace("\\", "/")
         if normalized.endswith("share/materials-structure-benchmark/materials.jsonl"):
-            candidate = Path(distribution("materials-structure-benchmark").locate_file(file))
+            candidate = Path(str(distribution("materials-structure-benchmark").locate_file(file)))
             if candidate.is_file():
                 return candidate
     return None
@@ -38,11 +38,11 @@ def default_catalog() -> Path:
     """Resolve an explicit override, source catalog, or wheel-bundled catalog."""
     override = os.environ.get(CATALOG_ENV)
     if override:
-        candidate = Path(override).expanduser()
-        if not candidate.is_file():
-            raise FileNotFoundError(f"{CATALOG_ENV} does not point to a file: {candidate}")
-        return candidate
-    candidate = source_catalog() or packaged_catalog()
+        override_candidate = Path(override).expanduser()
+        if not override_candidate.is_file():
+            raise FileNotFoundError(f"{CATALOG_ENV} does not point to a file: {override_candidate}")
+        return override_candidate
+    candidate: Path | None = source_catalog() or packaged_catalog()
     if candidate is None:
         raise FileNotFoundError(
             "catalog not found; pass --catalog or set " + CATALOG_ENV

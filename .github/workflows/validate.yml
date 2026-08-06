@@ -21,6 +21,7 @@ jobs:
           cache: pip
       - run: python -m pip install -e '.[test]'
       - run: python -m unittest discover -s tests -v
+      - run: python -m mypy
       - run: python scripts/query_catalog.py --type monolayer --limit 3
       - run: python scripts/query_catalog.py --type bulk --limit 3
       - name: Build and check distributions
